@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-25T08:15:18.302202+00:00",
+  "generated_at": "2026-06-25T09:00:36.911581+00:00",
   "signals": [
     {
       "id": "news-1-f7e98083f1",
@@ -37,7 +37,23 @@
       ]
     },
     {
-      "id": "news-3-bee192b37d",
+      "id": "news-3-54650b2924",
+      "title": "Poolse cryptobeurs Kanga krijgt MiCA-licentie in Letland",
+      "summary": "Poland-founded crypto exchange Kanga has secured a Class 3 MiCA license in Latvia, enabling EU-wide crypto services as Polish lawmakers debate framework's implementation.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/poland-kanga-secures-mica-license-latvia",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-25T08:24:41+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-bee192b37d",
       "title": "Ripple's RLUSD-stablecoin gelanceerd in Japan na goedkeuring",
       "summary": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-6115b7c4d6",
+      "id": "news-5-6115b7c4d6",
       "title": "Ripple lanceert RLUSD-stablecoin in Japan na regelgeving goedkeuring",
       "summary": "Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-4c8d652150",
+      "id": "news-6-4c8d652150",
       "title": "Abracadabra verhoogt rentevoeten door MIM-stablecoin depeg",
       "summary": "The protocol is raising interest rates across all Cauldrons to encourage debt repayment and reduce supply.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-94bea4d4ba",
+      "id": "news-7-94bea4d4ba",
       "title": "Binance trekt Griekse MiCA-aanvraag in maar blijft in Europa actief",
       "summary": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-e24efedf38",
+      "id": "news-8-e24efedf38",
       "title": "Amerikaanse kredietverenigingen met 25 miljard dollar testen stablecoin-betalingen",
       "summary": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program",
       "source_name": "Cointelegraph",
       "published_at": "2026-06-24T15:49:54+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-bc935a6e66",
-      "title": "Binance trekt MiCA-aanvraag in Griekenland in; zoekt autoriteit elders in EU",
-      "summary": "Binance said it plans to seek authorization in another EU jurisdiction just days ahead of the July 1 MiCA deadline, as unlicensed crypto firms are expected to wind down activities in the bloc.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-24T15:47:05+00:00",
       "tags": [
         "crypto",
         "markets"
