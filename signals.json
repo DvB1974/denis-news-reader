@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-25T12:00:30.215661+00:00",
+  "generated_at": "2026-06-25T13:00:32.504426+00:00",
   "signals": [
     {
       "id": "news-1-f7e98083f1",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-54650b2924",
+      "id": "news-4-449c552a77",
+      "title": "Binance beperkt EU-diensten vanaf 1 juli vanwege MiCA-regelgeving",
+      "summary": "Binance will limit EU onboarding and services from July 1 under MiCA rules after failing to gain authorization from a member state, while withdrawals remain available for users.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/binance-eu-service-limits-july-1-mica-effect",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-25T12:19:32+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-54650b2924",
       "title": "Poolse cryptobeurs Kanga krijgt MiCA-licentie in Letland",
       "summary": "Poland-founded crypto exchange Kanga has secured a Class 3 MiCA license in Latvia, enabling EU-wide crypto services as Polish lawmakers debate framework's implementation.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-bee192b37d",
+      "id": "news-6-bee192b37d",
       "title": "Ripple's RLUSD-stablecoin gelanceerd in Japan na goedkeuring",
       "summary": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-6115b7c4d6",
+      "id": "news-7-6115b7c4d6",
       "title": "Ripple lanceert RLUSD-stablecoin in Japan na regelgeving goedkeuring",
       "summary": "Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-4c8d652150",
+      "id": "news-8-4c8d652150",
       "title": "Abracadabra verhoogt rentevoeten door MIM-stablecoin depeg",
       "summary": "The protocol is raising interest rates across all Cauldrons to encourage debt repayment and reduce supply.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/abracadabra-takes-emergency-measures-as-magic-internet-money-depeg-worsens",
       "source_name": "Cointelegraph",
       "published_at": "2026-06-25T03:22:05+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-94bea4d4ba",
-      "title": "Binance trekt Griekse MiCA-aanvraag in maar blijft in Europa actief",
-      "summary": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-24T17:18:08+00:00",
       "tags": [
         "crypto",
         "markets"
