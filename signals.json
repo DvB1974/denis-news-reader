@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-25T11:00:29.687838+00:00",
+  "generated_at": "2026-06-25T12:00:30.215661+00:00",
   "signals": [
     {
       "id": "news-1-f7e98083f1",
@@ -20,7 +20,23 @@
       ]
     },
     {
-      "id": "news-2-aa8c41971e",
+      "id": "news-2-f141439758",
+      "title": "Circle en Nomura verkennen stablecoin-settlement voor bedrijfsvreemdevaluta Japan",
+      "summary": "Circle and Nomura are reportedly partnering to enable stablecoin-based foreign exchange settlement for Japanese companies as the country's regulated blockchain-based financial infrastructure expands.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/circle-nomura-partner-instant-fx-settlement-business",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-25T11:42:52+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-aa8c41971e",
       "title": "ECB integreert niet-financiële vorderingen in algemeen onderpandstelsel",
       "summary": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
       "type": "regulation",
@@ -37,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-54650b2924",
+      "id": "news-4-54650b2924",
       "title": "Poolse cryptobeurs Kanga krijgt MiCA-licentie in Letland",
       "summary": "Poland-founded crypto exchange Kanga has secured a Class 3 MiCA license in Latvia, enabling EU-wide crypto services as Polish lawmakers debate framework's implementation.",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-bee192b37d",
+      "id": "news-5-bee192b37d",
       "title": "Ripple's RLUSD-stablecoin gelanceerd in Japan na goedkeuring",
       "summary": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-6115b7c4d6",
+      "id": "news-6-6115b7c4d6",
       "title": "Ripple lanceert RLUSD-stablecoin in Japan na regelgeving goedkeuring",
       "summary": "Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-4c8d652150",
+      "id": "news-7-4c8d652150",
       "title": "Abracadabra verhoogt rentevoeten door MIM-stablecoin depeg",
       "summary": "The protocol is raising interest rates across all Cauldrons to encourage debt repayment and reduce supply.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-94bea4d4ba",
+      "id": "news-8-94bea4d4ba",
       "title": "Binance trekt Griekse MiCA-aanvraag in maar blijft in Europa actief",
       "summary": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
       "source_name": "CoinDesk",
       "published_at": "2026-06-24T17:18:08+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-e24efedf38",
-      "title": "Amerikaanse kredietverenigingen met 25 miljard dollar testen stablecoin-betalingen",
-      "summary": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-24T15:49:54+00:00",
       "tags": [
         "crypto",
         "markets"
