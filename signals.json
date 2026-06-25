@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-25T13:00:32.504426+00:00",
+  "generated_at": "2026-06-25T14:00:51.142843+00:00",
   "signals": [
     {
       "id": "news-1-f7e98083f1",
@@ -20,7 +20,23 @@
       ]
     },
     {
-      "id": "news-2-f141439758",
+      "id": "news-2-53a26c32dc",
+      "title": "Spark plaatst 150 miljoen dollar stablecoin op Uniswap voor gedeelde liquiditeit",
+      "summary": "Spark deployed approximately $150 million across two Uniswap v4 pools on Ethereum, while its DualPool hook and Shared Liquidity Layer are planned for later phases.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/spark-deploys-150m-stablecoin-liquidity-uniswap-v4",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-25T13:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-f141439758",
       "title": "Circle en Nomura verkennen stablecoin-settlement voor bedrijfsvreemdevaluta Japan",
       "summary": "Circle and Nomura are reportedly partnering to enable stablecoin-based foreign exchange settlement for Japanese companies as the country's regulated blockchain-based financial infrastructure expands.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-aa8c41971e",
+      "id": "news-4-aa8c41971e",
       "title": "ECB integreert niet-financiële vorderingen in algemeen onderpandstelsel",
       "summary": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
       "type": "regulation",
@@ -53,7 +69,39 @@
       ]
     },
     {
-      "id": "news-4-449c552a77",
+      "id": "news-5-042f78f160",
+      "title": "Uniswap en Spark werken aan stablecoin-valuutamarkt",
+      "summary": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-25T13:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-324a2a028b",
+      "title": "Spark en Uniswap lanceren stablecoin-platform FX Layer met 150 miljoen migratie",
+      "summary": "Spark is establishing a \"liquidity foundation\" for the new pool by migrating $150 million from its USDS ecosystem to Uniswap v4.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration",
+      "source_name": "The Block",
+      "published_at": "2026-06-25T13:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-449c552a77",
       "title": "Binance beperkt EU-diensten vanaf 1 juli vanwege MiCA-regelgeving",
       "summary": "Binance will limit EU onboarding and services from July 1 under MiCA rules after failing to gain authorization from a member state, while withdrawals remain available for users.",
       "type": "news",
@@ -69,7 +117,7 @@
       ]
     },
     {
-      "id": "news-5-54650b2924",
+      "id": "news-8-54650b2924",
       "title": "Poolse cryptobeurs Kanga krijgt MiCA-licentie in Letland",
       "summary": "Poland-founded crypto exchange Kanga has secured a Class 3 MiCA license in Latvia, enabling EU-wide crypto services as Polish lawmakers debate framework's implementation.",
       "type": "news",
@@ -79,54 +127,6 @@
       "url": "https://cointelegraph.com/news/poland-kanga-secures-mica-license-latvia",
       "source_name": "Cointelegraph",
       "published_at": "2026-06-25T08:24:41+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-bee192b37d",
-      "title": "Ripple's RLUSD-stablecoin gelanceerd in Japan na goedkeuring",
-      "summary": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-25T05:02:34+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-6115b7c4d6",
-      "title": "Ripple lanceert RLUSD-stablecoin in Japan na regelgeving goedkeuring",
-      "summary": "Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan",
-      "source_name": "The Block",
-      "published_at": "2026-06-25T03:26:12+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-4c8d652150",
-      "title": "Abracadabra verhoogt rentevoeten door MIM-stablecoin depeg",
-      "summary": "The protocol is raising interest rates across all Cauldrons to encourage debt repayment and reduce supply.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/abracadabra-takes-emergency-measures-as-magic-internet-money-depeg-worsens",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-25T03:22:05+00:00",
       "tags": [
         "crypto",
         "markets"
