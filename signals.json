@@ -1,131 +1,132 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-17T07:24:24.325196+00:00",
+  "generated_at": "2026-06-25T08:15:18.302202+00:00",
   "signals": [
     {
-      "id": "news-1-b48ecef6aa",
-      "title": "BitGo biedt Europese cryptobedrijven MiCA-compliance ondersteuning voor licentiedeadline",
-      "summary": "BitGo offers Europe’s crypto firms a MiCA-compliance lifeline as license deadline looms",
+      "id": "news-1-f7e98083f1",
+      "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
+      "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/06/17/bitgo-offers-europe-s-crypto-firms-a-mica-compliance-lifeline-as-license-deadline-looms",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-17T06:34:55+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-2-dc64280cee",
-      "title": "Michael Saylor: Bitcoin heeft geen staking nodig zoals Ethereum",
-      "summary": "Michael Saylor says Bitcoin does not need staking or inflation, outlining a five-layer “Digital Asset Stack” that generates returns through credit and equity products built around BTC.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/strategy-saylor-bitcoin-credit-alternative-crypto-yield",
+      "url": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe",
       "source_name": "Cointelegraph",
-      "published_at": "2026-06-16T10:11:18+00:00",
+      "published_at": "2026-06-24T07:17:46+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-3-c13f1aad74",
-      "title": "Tokeniseringsmarkt bereikt 43 miljard dollar ondanks institutionele groei",
-      "summary": "Tokenized financial assets have surged 37% in six months as institutions expand blockchain adoption and the market broadens beyond funds and private credit, according to Token Terminal.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/tokenized-rwa-market-tops-43b-wall-street-pushes-deeper-onchain",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-16T20:55:09+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-feda986577",
-      "title": "Amerikaanse senatoren dringen aan op staatsbetrokkenheid in GENIUS Act stablecoin-proces",
-      "summary": "U.S. senators urge Treasury not to leave states out of GENIUS Act stablecoin process",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/06/16/u-s-senators-urge-treasury-not-to-leave-states-out-of-genius-act-stablecoin-process",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-16T20:36:09+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-f39d9aaf3d",
-      "title": "Binance zet EU-activiteiten voort en stemt af op MiCA-regelgeving",
-      "summary": "Binance says it remains committed to its operations in the European Union and will continue serving EU customers,&#8230;",
-      "type": "news",
+      "id": "news-2-aa8c41971e",
+      "title": "ECB integreert niet-financiële vorderingen in algemeen onderpandstelsel",
+      "summary": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
+      "type": "regulation",
       "impact": "high",
       "confidence": 95,
       "tone": "neutral",
-      "url": "https://watcher.guru/news/binance-to-continue-operating-legally-in-eu",
-      "source_name": "Watcher.Guru",
-      "published_at": "2026-06-16T19:14:59+00:00",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
+      "source_name": "ECB Press Releases",
+      "published_at": "2026-06-25T08:00:00+00:00",
+      "tags": [
+        "macro",
+        "regulation",
+        "ECB"
+      ]
+    },
+    {
+      "id": "news-3-bee192b37d",
+      "title": "Ripple's RLUSD-stablecoin gelanceerd in Japan na goedkeuring",
+      "summary": "Ripple's RLUSD stablecoin goes live in Japan after regulatory approval",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/markets/2026/06/25/ripple-s-rlusd-stablecoin-goes-live-in-japan-after-regulatory-approval",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-25T05:02:34+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-6-1e11924358",
-      "title": "Squid integreert Ripple's RLUSD-stablecoin voor cross-chain transacties",
-      "summary": "Cross-chain platform Squid has integrated Ripple's RLUSD stablecoin, allowing users to swap into and out of RLUSD across chains and assets.",
+      "id": "news-4-6115b7c4d6",
+      "title": "Ripple lanceert RLUSD-stablecoin in Japan na regelgeving goedkeuring",
+      "summary": "Ripple's RLUSD stablecoin is available through SBI VC Trade for both institutional and retail users in the country.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.theblock.co/post/405005/squid-ripple-rlusd-stablecoin-cross-chain-swaps",
+      "url": "https://www.theblock.co/post/406067/ripple-launches-rlusd-stablecoin-japan",
       "source_name": "The Block",
-      "published_at": "2026-06-16T17:40:27+00:00",
+      "published_at": "2026-06-25T03:26:12+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-7-cc603f7858",
-      "title": "State Street brengt geldmarktfonds voor stablecoin-reserves uit",
-      "summary": "The launch comes amid growing competition among financial institutions to manage assets backing dollar-pegged stablecoins.",
+      "id": "news-5-4c8d652150",
+      "title": "Abracadabra verhoogt rentevoeten door MIM-stablecoin depeg",
+      "summary": "The protocol is raising interest rates across all Cauldrons to encourage debt repayment and reduce supply.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/state-street-launches-genius-act-aligned-money-market-fund-for-stablecoin-reserves",
+      "url": "https://cointelegraph.com/news/abracadabra-takes-emergency-measures-as-magic-internet-money-depeg-worsens",
       "source_name": "Cointelegraph",
-      "published_at": "2026-06-16T17:28:40+00:00",
+      "published_at": "2026-06-25T03:22:05+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-8-89f2701efc",
-      "title": "Ripple investeert in Flutterwave voor betaalproviders in Afrika",
-      "summary": "Ripple invests in Flutterwave, pushing its stablecoin and XRP Ledger into payments across Africa",
+      "id": "news-6-94bea4d4ba",
+      "title": "Binance trekt Griekse MiCA-aanvraag in maar blijft in Europa actief",
+      "summary": "Binance withdraws Greek MiCA bid but vows to remain in Europe",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/06/16/ripple-invests-in-flutterwave-pushing-its-stablecoin-and-xrp-ledger-into-payments-across-africa",
+      "url": "https://www.coindesk.com/policy/2026/06/24/binance-withdraws-greek-mica-bid-but-vows-to-remain-in-europe",
       "source_name": "CoinDesk",
-      "published_at": "2026-06-16T15:35:40+00:00",
+      "published_at": "2026-06-24T17:18:08+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-e24efedf38",
+      "title": "Amerikaanse kredietverenigingen met 25 miljard dollar testen stablecoin-betalingen",
+      "summary": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-24T15:49:54+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-bc935a6e66",
+      "title": "Binance trekt MiCA-aanvraag in Griekenland in; zoekt autoriteit elders in EU",
+      "summary": "Binance said it plans to seek authorization in another EU jurisdiction just days ahead of the July 1 MiCA deadline, as unlicensed crypto firms are expected to wind down activities in the bloc.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-24T15:47:05+00:00",
       "tags": [
         "crypto",
         "markets"
