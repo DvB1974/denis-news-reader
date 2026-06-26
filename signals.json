@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-26T10:00:32.130765+00:00",
+  "generated_at": "2026-06-26T11:01:36.394173+00:00",
   "signals": [
     {
       "id": "news-1-2a47e5ae18",
@@ -52,7 +52,23 @@
       ]
     },
     {
-      "id": "news-4-638fb6a5f4",
+      "id": "news-4-dd231abbae",
+      "title": "Binance stopt diensten voor EU-gebruikers zonder MiCA-licentie",
+      "summary": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-26T10:19:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-638fb6a5f4",
       "title": "EBA publiceert herziene SREP-richtlijnen voor bancair toezicht",
       "summary": "​The European Banking Authority (EBA) today published its final revised Guidelines on common procedures and methodologies for the supervisory review and evaluation process (SREP) and supervisory stress testing, marking another key milestone in its efforts to enhance the efficiency, coherence and effectiveness of EU banking supervision. The revised Guidelines are a core deliverable of the EBA’s efficiency and simplification agenda. They build on the EBA Report on the efficiency of the regulatory and supervisory framework (October 2025) and follow the Report on simplifying the stacking orders of the EU prudential and resolution framework. The revised SREP Guidelines pave the way for a more risk-focused, efficient, proportionate and forward-looking framework for supervisors across the EU.",
       "type": "regulation",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-6e6e29896b",
+      "id": "news-6-6e6e29896b",
       "title": "ECB-enquête consumentenexpectaties mei 2026",
       "summary": "ECB Consumer Expectations Survey results – May 2026",
       "type": "regulation",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-04577929c2",
+      "id": "news-7-04577929c2",
       "title": "GENIUS Act: regelkader voor dollar-gestelde stablecoins in VS",
       "summary": "The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the issuers. It is the first [&hellip;]",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-15a5b4ddd1",
+      "id": "news-8-15a5b4ddd1",
       "title": "Tether stablecoin voorbijgestreefd door marktkapitalisatie, Ether daalt naar $1.500",
       "summary": "Ether prices are currently back at crucial long-term support levels last visited in October 2023 and April 2025.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k",
       "source_name": "Cointelegraph",
       "published_at": "2026-06-26T06:02:01+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-fc91f03ecf",
-      "title": "StablecoinX stapt in bij Ethena-ecosysteem met Nasdaq-notering vrijdag",
-      "summary": "USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-26T03:48:03+00:00",
       "tags": [
         "crypto",
         "markets"
