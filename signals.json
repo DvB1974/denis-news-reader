@@ -1,10 +1,42 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-25T20:00:37.653084+00:00",
+  "generated_at": "2026-06-26T05:00:58.291758+00:00",
   "signals": [
     {
-      "id": "news-1-f7e98083f1",
+      "id": "news-1-2a47e5ae18",
+      "title": "Invesco vraagt goedkeuring aan voor gettokeniseerd fonds met stablecoins",
+      "summary": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/06/25/asset-management-giant-invesco-files-for-tokenized-fund-targeting-stablecoin-reserve-market",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-25T20:47:24+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-0b9aa5b413",
+      "title": "Invesco onderzoekt stablecoin-reservefonds met Amerikaanse staatsobligaties",
+      "summary": "The fund will invest primarily in U.S. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector",
+      "source_name": "The Block",
+      "published_at": "2026-06-25T20:11:28+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-f7e98083f1",
       "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
       "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
       "type": "news",
@@ -20,7 +52,39 @@
       ]
     },
     {
-      "id": "news-2-53a26c32dc",
+      "id": "news-4-fc91f03ecf",
+      "title": "StablecoinX stapt in bij Ethena-ecosysteem met Nasdaq-notering vrijdag",
+      "summary": "USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/stablecoinx-merges-with-tlgy-and-begins-trading-on-nasdaq-friday",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-26T03:48:03+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-97aa0514f7",
+      "title": "BitGo ontslaat 15% personeel, richt zich op AI en stablecoins",
+      "summary": "BitGo CEO says the firm will now focus on key areas, including security, trading, stablecoins, settlement, and AI-powered infrastructure.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.theblock.co/post/406266/bitgo-layoff-ai-infrastructure",
+      "source_name": "The Block",
+      "published_at": "2026-06-26T03:43:49+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-53a26c32dc",
       "title": "Spark plaatst 150 miljoen dollar stablecoin op Uniswap voor gedeelde liquiditeit",
       "summary": "Spark deployed approximately $150 million across two Uniswap v4 pools on Ethereum, while its DualPool hook and Shared Liquidity Layer are planned for later phases.",
       "type": "news",
@@ -36,7 +100,23 @@
       ]
     },
     {
-      "id": "news-3-f141439758",
+      "id": "news-7-3a2d3e3cb0",
+      "title": "BitGo vervolg personeelsreductie van 15% voor AI en stablecoins",
+      "summary": "BitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the need for further staff reductions.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-26T00:41:02+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-f141439758",
       "title": "Circle en Nomura verkennen stablecoin-settlement voor bedrijfsvreemdevaluta Japan",
       "summary": "Circle and Nomura are reportedly partnering to enable stablecoin-based foreign exchange settlement for Japanese companies as the country's regulated blockchain-based financial infrastructure expands.",
       "type": "news",
@@ -46,87 +126,6 @@
       "url": "https://cointelegraph.com/news/circle-nomura-partner-instant-fx-settlement-business",
       "source_name": "Cointelegraph",
       "published_at": "2026-06-25T11:42:52+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-aa8c41971e",
-      "title": "ECB integreert niet-financiële vorderingen in algemeen onderpandstelsel",
-      "summary": "ECB to integrate non-financial credit claim portfolios into general collateral framework, phasing out temporary measures",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260625~edee181785.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-06-25T08:00:00+00:00",
-      "tags": [
-        "macro",
-        "regulation",
-        "ECB"
-      ]
-    },
-    {
-      "id": "news-5-90cc39c9ed",
-      "title": "USDT0-stablecoin bereikt honderd miljard dollar transactievolume",
-      "summary": "USDT0, backed 1:1 by tethers, the largest stablecoin by market capitalization, is the third-largest holder of USDT.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/405912/tether-pegged-usdt0-stablecoin-crosses-100-billion-transaction-volume-milestone",
-      "source_name": "The Block",
-      "published_at": "2026-06-25T15:15:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-c6a05f133a",
-      "title": "Stablecoins: zoekvolume daalt 54% na groeiomslagpunt in 2025",
-      "summary": "The decline in search volumes this month coincides with aggregate stablecoin supply having reversed its 10-month expansion.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/405856/stablecoin-google-searches-down-54-supply-growth-stalls-after-2025-boom",
-      "source_name": "The Block",
-      "published_at": "2026-06-25T14:36:03+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-042f78f160",
-      "title": "Uniswap en Spark werken aan stablecoin-valuutamarkt",
-      "summary": "Uniswap, Spark aim to build stablecoin FX market as banks, fintechs enter the industry",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/06/25/uniswap-spark-aim-to-build-stablecoin-fx-market-as-banks-fintechs-enter-the-industry",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-25T13:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-324a2a028b",
-      "title": "Spark en Uniswap lanceren stablecoin-platform FX Layer met 150 miljoen migratie",
-      "summary": "Spark is establishing a \"liquidity foundation\" for the new pool by migrating $150 million from its USDS ecosystem to Uniswap v4.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/406154/spark-uniswap-build-stablecoin-fx-layer-seeded-with-150-million-liquidity-migration",
-      "source_name": "The Block",
-      "published_at": "2026-06-25T13:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
