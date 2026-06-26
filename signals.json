@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-26T19:00:26.662854+00:00",
+  "generated_at": "2026-06-26T20:00:29.259343+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -69,7 +69,23 @@
       ]
     },
     {
-      "id": "news-5-5e6eda0161",
+      "id": "news-5-4c94f4fd34",
+      "title": "Spaanse toezichthouder sluit verlenging MiCA-deadline voor cryptobedrijven uit",
+      "summary": "Carlos San Basilio said that “there will be no exceptions ​or extensions” to the MiCA deadline requiring crypto exchanges offering services to EU-based users to be licensed.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-26T19:20:33+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-5e6eda0161",
       "title": "Spanje weigert uitstel voor Binance en cryptobedrijven voor MiCA-deadline",
       "summary": "Industry leaders remain divided over MiCA, with some praising the framework while others warn it could limit customer access to liquidity.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-e444efca6b",
+      "id": "news-7-e444efca6b",
       "title": "EBA publiceert geactualiseerde validatieregels voor toezichtrapportage",
       "summary": "The European Banking Authority (EBA) today published an updated list of validation rules defined in its reporting frameworks, as part of its regular quarterly review process. The revised package identifies rules that have (i) been deactivated due to inaccuracies or IT-related issues, (ii) been reactivated, or (iii) undergone a change in severity status.",
       "type": "regulation",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-dd231abbae",
+      "id": "news-8-dd231abbae",
       "title": "Binance stopt diensten voor EU-gebruikers zonder MiCA-licentie",
       "summary": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
       "type": "news",
@@ -115,23 +131,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-638fb6a5f4",
-      "title": "EBA publiceert herziene SREP-richtlijnen voor bancair toezicht",
-      "summary": "​The European Banking Authority (EBA) today published its final revised Guidelines on common procedures and methodologies for the supervisory review and evaluation process (SREP) and supervisory stress testing, marking another key milestone in its efforts to enhance the efficiency, coherence and effectiveness of EU banking supervision. The revised Guidelines are a core deliverable of the EBA’s efficiency and simplification agenda. They build on the EBA Report on the efficiency of the regulatory and supervisory framework (October 2025) and follow the Report on simplifying the stacking orders of the EU prudential and resolution framework. The revised SREP Guidelines pave the way for a more risk-focused, efficient, proportionate and forward-looking framework for supervisors across the EU.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-reaches-another-important-milestone-enhancing-supervisory-efficiency-its-revised-srep-guidelines",
-      "source_name": "EBA",
-      "published_at": "2026-06-26T08:19:16+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     }
   ]
