@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-26T06:00:28.820990+00:00",
+  "generated_at": "2026-06-26T07:00:25.022846+00:00",
   "signals": [
     {
       "id": "news-1-2a47e5ae18",
@@ -52,7 +52,39 @@
       ]
     },
     {
-      "id": "news-4-fc91f03ecf",
+      "id": "news-4-04577929c2",
+      "title": "GENIUS Act: regelkader voor dollar-gestelde stablecoins in VS",
+      "summary": "The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the issuers. It is the first [&hellip;]",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/learn/406286/what-is-the-genius-act",
+      "source_name": "The Block",
+      "published_at": "2026-06-26T06:19:08+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-15a5b4ddd1",
+      "title": "Tether stablecoin voorbijgestreefd door marktkapitalisatie, Ether daalt naar $1.500",
+      "summary": "Ether prices are currently back at crucial long-term support levels last visited in October 2023 and April 2025.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/tether-stablecoin-flips-ether-by-market-cap-as-eth-routs-to-15k",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-26T06:02:01+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-fc91f03ecf",
       "title": "StablecoinX stapt in bij Ethena-ecosysteem met Nasdaq-notering vrijdag",
       "summary": "USDe circulating supply has shrunk by 70% since the October bull market peak, when it topped $14 billion.",
       "type": "news",
@@ -68,7 +100,7 @@
       ]
     },
     {
-      "id": "news-5-97aa0514f7",
+      "id": "news-7-97aa0514f7",
       "title": "BitGo ontslaat 15% personeel, richt zich op AI en stablecoins",
       "summary": "BitGo CEO says the firm will now focus on key areas, including security, trading, stablecoins, settlement, and AI-powered infrastructure.",
       "type": "news",
@@ -84,7 +116,7 @@
       ]
     },
     {
-      "id": "news-6-53a26c32dc",
+      "id": "news-8-53a26c32dc",
       "title": "Spark plaatst 150 miljoen dollar stablecoin op Uniswap voor gedeelde liquiditeit",
       "summary": "Spark deployed approximately $150 million across two Uniswap v4 pools on Ethereum, while its DualPool hook and Shared Liquidity Layer are planned for later phases.",
       "type": "news",
@@ -94,38 +126,6 @@
       "url": "https://cointelegraph.com/news/spark-deploys-150m-stablecoin-liquidity-uniswap-v4",
       "source_name": "Cointelegraph",
       "published_at": "2026-06-25T13:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-3a2d3e3cb0",
-      "title": "BitGo vervolg personeelsreductie van 15% voor AI en stablecoins",
-      "summary": "BitGo co-founder and CEO Mike Belshe says the layoffs are “a one-time action” and the company doesn’t see the need for further staff reductions.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/crypto-infrastructure-firm-bitgo-lays-off-15-of-staff",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-26T00:41:02+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-f141439758",
-      "title": "Circle en Nomura verkennen stablecoin-settlement voor bedrijfsvreemdevaluta Japan",
-      "summary": "Circle and Nomura are reportedly partnering to enable stablecoin-based foreign exchange settlement for Japanese companies as the country's regulated blockchain-based financial infrastructure expands.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/circle-nomura-partner-instant-fx-settlement-business",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-25T11:42:52+00:00",
       "tags": [
         "crypto",
         "markets"
