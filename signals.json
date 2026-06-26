@@ -1,10 +1,27 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-26T13:00:41.270399+00:00",
+  "generated_at": "2026-06-26T14:00:36.457899+00:00",
   "signals": [
     {
-      "id": "news-1-2a47e5ae18",
+      "id": "news-1-23fee21bfb",
+      "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
+      "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
+      "source_name": "EBA",
+      "published_at": "2026-06-26T13:27:24+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-2-2a47e5ae18",
       "title": "Invesco vraagt goedkeuring aan voor gettokeniseerd fonds met stablecoins",
       "summary": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
       "type": "news",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "news-2-0b9aa5b413",
+      "id": "news-3-0b9aa5b413",
       "title": "Invesco onderzoekt stablecoin-reservefonds met Amerikaanse staatsobligaties",
       "summary": "The fund will invest primarily in U.S. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.",
       "type": "news",
@@ -36,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-f7e98083f1",
+      "id": "news-4-f7e98083f1",
       "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
       "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
       "type": "news",
@@ -52,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-e444efca6b",
+      "id": "news-5-e444efca6b",
       "title": "EBA publiceert geactualiseerde validatieregels voor toezichtrapportage",
       "summary": "The European Banking Authority (EBA) today published an updated list of validation rules defined in its reporting frameworks, as part of its regular quarterly review process. The revised package identifies rules that have (i) been deactivated due to inaccuracies or IT-related issues, (ii) been reactivated, or (iii) undergone a change in severity status.",
       "type": "regulation",
@@ -69,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-dd231abbae",
+      "id": "news-6-dd231abbae",
       "title": "Binance stopt diensten voor EU-gebruikers zonder MiCA-licentie",
       "summary": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
       "type": "news",
@@ -85,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-638fb6a5f4",
+      "id": "news-7-638fb6a5f4",
       "title": "EBA publiceert herziene SREP-richtlijnen voor bancair toezicht",
       "summary": "​The European Banking Authority (EBA) today published its final revised Guidelines on common procedures and methodologies for the supervisory review and evaluation process (SREP) and supervisory stress testing, marking another key milestone in its efforts to enhance the efficiency, coherence and effectiveness of EU banking supervision. The revised Guidelines are a core deliverable of the EBA’s efficiency and simplification agenda. They build on the EBA Report on the efficiency of the regulatory and supervisory framework (October 2025) and follow the Report on simplifying the stacking orders of the EU prudential and resolution framework. The revised SREP Guidelines pave the way for a more risk-focused, efficient, proportionate and forward-looking framework for supervisors across the EU.",
       "type": "regulation",
@@ -102,7 +119,7 @@
       ]
     },
     {
-      "id": "news-7-6e6e29896b",
+      "id": "news-8-6e6e29896b",
       "title": "ECB-enquête consumentenexpectaties mei 2026",
       "summary": "ECB Consumer Expectations Survey results – May 2026",
       "type": "regulation",
@@ -116,22 +133,6 @@
         "macro",
         "regulation",
         "ECB"
-      ]
-    },
-    {
-      "id": "news-8-04577929c2",
-      "title": "GENIUS Act: regelkader voor dollar-gestelde stablecoins in VS",
-      "summary": "The GENIUS Act is the U.S. federal law that creates a regulatory framework for dollar-backed stablecoins. Signed into law on July 18, 2025, the law sets rules for who can issue payment stablecoins, what those tokens must be backed by, how holders can redeem them, and which regulators supervise the issuers. It is the first [&hellip;]",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/learn/406286/what-is-the-genius-act",
-      "source_name": "The Block",
-      "published_at": "2026-06-26T06:19:08+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
