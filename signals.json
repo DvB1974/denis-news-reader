@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-27T19:00:21.576223+00:00",
+  "generated_at": "2026-06-27T20:00:15.086372+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -85,23 +85,7 @@
       ]
     },
     {
-      "id": "news-6-4c94f4fd34",
-      "title": "Spaanse toezichthouder sluit verlenging MiCA-deadline voor cryptobedrijven uit",
-      "summary": "Carlos San Basilio said that “there will be no exceptions ​or extensions” to the MiCA deadline requiring crypto exchanges offering services to EU-based users to be licensed.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-26T19:20:33+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-f05dde4a6d",
+      "id": "news-6-f05dde4a6d",
       "title": "EBA en New York ondertekenen akkoord voor toezicht stablecoins",
       "summary": "​The European Banking Authority (EBA) has signed a Memorandum of Understanding (MoU) with the New York State Department of Financial Services (NYDFS) under the Markets in Crypto-Assets Regulation (MiCA). The agreement aims to strengthen cooperation in the supervision of entities engaged in cross-border stablecoin activities.",
       "type": "regulation",
@@ -118,7 +102,7 @@
       ]
     },
     {
-      "id": "news-8-36f4c512e1",
+      "id": "news-7-36f4c512e1",
       "title": "EBA publiceert bijgewerkte lijst van systeemrelevante instellingen in EU",
       "summary": "​The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States.",
       "type": "regulation",
@@ -132,6 +116,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-8-4c94f4fd34",
+      "title": "Spaanse toezichthouder sluit verlenging MiCA-deadline voor cryptobedrijven uit",
+      "summary": "Carlos San Basilio said that “there will be no exceptions ​or extensions” to the MiCA deadline requiring crypto exchanges offering services to EU-based users to be licensed.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-26T19:20:33+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     }
   ]
