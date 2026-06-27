@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-27T10:00:15.750950+00:00",
+  "generated_at": "2026-06-27T11:00:18.858708+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -118,19 +118,20 @@
       ]
     },
     {
-      "id": "news-8-dd231abbae",
-      "title": "Binance stopt diensten voor EU-gebruikers zonder MiCA-licentie",
-      "summary": "Binance tells EU users it will no longer provide services after failing to secure MiCA license",
-      "type": "news",
+      "id": "news-8-f05dde4a6d",
+      "title": "EBA en New York ondertekenen akkoord voor toezicht stablecoins",
+      "summary": "​The European Banking Authority (EBA) has signed a Memorandum of Understanding (MoU) with the New York State Department of Financial Services (NYDFS) under the Markets in Crypto-Assets Regulation (MiCA). The agreement aims to strengthen cooperation in the supervision of entities engaged in cross-border stablecoin activities.",
+      "type": "regulation",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/06/26/binance-tells-eu-users-it-will-no-longer-provide-services-after-failing-to-secure-mica-license",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-26T10:19:22+00:00",
+      "tone": "opportunity",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-and-new-york-state-department-financial-services-sign-memorandum-understanding-foster",
+      "source_name": "EBA",
+      "published_at": "2026-06-02T09:28:21+00:00",
       "tags": [
-        "crypto",
-        "markets"
+        "regulation",
+        "EU",
+        "private-banking"
       ]
     }
   ]
