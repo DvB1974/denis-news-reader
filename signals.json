@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-28T07:00:21.804349+00:00",
+  "generated_at": "2026-06-28T08:00:21.822542+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -119,16 +119,16 @@
       ]
     },
     {
-      "id": "news-8-4c94f4fd34",
-      "title": "Spaanse toezichthouder sluit verlenging MiCA-deadline voor cryptobedrijven uit",
-      "summary": "Carlos San Basilio said that “there will be no exceptions ​or extensions” to the MiCA deadline requiring crypto exchanges offering services to EU-based users to be licensed.",
+      "id": "news-8-d34f054ab3",
+      "title": "MiCA-ontwerper: EU moet tokenisering prioriteren boven DeFi-regelgeving",
+      "summary": "One of MiCA's architects said he sees no need to regulate DeFi as the European Commission gathers feedback on the framework's future.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "neutral",
-      "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies",
+      "url": "https://cointelegraph.com/news/eu-broader-crypto-market-framework-mica-2-defi-regulations",
       "source_name": "Cointelegraph",
-      "published_at": "2026-06-26T19:20:33+00:00",
+      "published_at": "2026-06-09T12:30:52+00:00",
       "tags": [
         "crypto",
         "markets"
