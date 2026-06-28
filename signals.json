@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-28T16:00:27.482141+00:00",
+  "generated_at": "2026-06-28T17:00:34.254770+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -119,16 +119,16 @@
       ]
     },
     {
-      "id": "news-8-28a9697327",
-      "title": "Saylor kondigt verder bitcoinaankopen aan ondanks koersdaling aandeel MicroStrategy",
-      "summary": "Michael Saylor teases more bitcoin buying even as Strategy stock continues to fall",
+      "id": "news-8-39b1064400",
+      "title": "Saylor geeft signaal voor bitcoinaankoop bij Strategy met miljardenverlies",
+      "summary": "A Monday filing would mark Strategy's fourth straight week of buying, after a 520 BTC purchase on June 22 that was its smallest recent tranche.",
       "type": "news",
       "impact": "high",
       "confidence": 90,
       "tone": "neutral",
-      "url": "https://www.coindesk.com/markets/2026/06/28/michael-saylor-teases-more-bitcoin-buying-even-as-strategy-stock-continues-to-fall",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-28T15:02:43+00:00",
+      "url": "https://www.theblock.co/post/406460/michael-saylor-signals-another-bitcoin-buy-as-strategy-sits-about-13-billion-underwater",
+      "source_name": "The Block",
+      "published_at": "2026-06-28T16:13:13+00:00",
       "tags": [
         "crypto",
         "markets"
