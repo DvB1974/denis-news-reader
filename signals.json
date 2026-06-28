@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-28T11:00:23.128083+00:00",
+  "generated_at": "2026-06-28T12:00:23.368257+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -21,7 +21,23 @@
       ]
     },
     {
-      "id": "news-2-2a47e5ae18",
+      "id": "news-2-31b8c0231b",
+      "title": "Binance registreert wekelijkse uitgangen van meer dan 400 miljoen dollar voor MiCA-deadline",
+      "summary": "Early exchange flow data show no clear signs of a mass migration from Binance ahead of the EU MiCA transition deadline, despite rivals' efforts to attract users.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-28T11:51:33+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-2a47e5ae18",
       "title": "Invesco vraagt goedkeuring aan voor gettokeniseerd fonds met stablecoins",
       "summary": "Asset management giant Invesco files for tokenized fund targeting stablecoin reserve market",
       "type": "news",
@@ -37,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-0b9aa5b413",
+      "id": "news-4-0b9aa5b413",
       "title": "Invesco onderzoekt stablecoin-reservefonds met Amerikaanse staatsobligaties",
       "summary": "The fund will invest primarily in U.S. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-e040f39e75",
+      "id": "news-5-e040f39e75",
       "title": "Coinbase en OKX werven Binance-gebruikers in EU af na MiCA-licentieweigering",
       "summary": "Coinbase and OKX try to lure in Binance’s EU users after it failed to secure a MiCA license",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-f7e98083f1",
+      "id": "news-6-f7e98083f1",
       "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
       "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-f05dde4a6d",
+      "id": "news-7-f05dde4a6d",
       "title": "EBA en New York ondertekenen akkoord voor toezicht stablecoins",
       "summary": "​The European Banking Authority (EBA) has signed a Memorandum of Understanding (MoU) with the New York State Department of Financial Services (NYDFS) under the Markets in Crypto-Assets Regulation (MiCA). The agreement aims to strengthen cooperation in the supervision of entities engaged in cross-border stablecoin activities.",
       "type": "regulation",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-36f4c512e1",
+      "id": "news-8-36f4c512e1",
       "title": "EBA publiceert bijgewerkte lijst van systeemrelevante instellingen in EU",
       "summary": "​The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States.",
       "type": "regulation",
@@ -116,22 +132,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-788dbbb1c4",
-      "title": "Grayscale onderzoekt verkoop van 3 miljard dollar bitcoin voor kasobligaties",
-      "summary": "Grayscale's research head Zach Pandl said Strategy should sell $3 billion in Bitcoin to cover its cash obligations, but CryptoQuant argued the company has other ways to support STRC.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 90,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-28T07:59:28+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
