@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-28T08:00:21.822542+00:00",
+  "generated_at": "2026-06-28T09:00:27.618355+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -119,16 +119,16 @@
       ]
     },
     {
-      "id": "news-8-d34f054ab3",
-      "title": "MiCA-ontwerper: EU moet tokenisering prioriteren boven DeFi-regelgeving",
-      "summary": "One of MiCA's architects said he sees no need to regulate DeFi as the European Commission gathers feedback on the framework's future.",
+      "id": "news-8-788dbbb1c4",
+      "title": "Grayscale onderzoekt verkoop van 3 miljard dollar bitcoin voor kasobligaties",
+      "summary": "Grayscale's research head Zach Pandl said Strategy should sell $3 billion in Bitcoin to cover its cash obligations, but CryptoQuant argued the company has other ways to support STRC.",
       "type": "news",
       "impact": "high",
-      "confidence": 95,
+      "confidence": 90,
       "tone": "neutral",
-      "url": "https://cointelegraph.com/news/eu-broader-crypto-market-framework-mica-2-defi-regulations",
+      "url": "https://cointelegraph.com/news/grayscales-pandl-strategy-sells-3b-bitcoin-confidence",
       "source_name": "Cointelegraph",
-      "published_at": "2026-06-09T12:30:52+00:00",
+      "published_at": "2026-06-28T07:59:28+00:00",
       "tags": [
         "crypto",
         "markets"
