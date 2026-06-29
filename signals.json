@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-29T17:00:33.259860+00:00",
+  "generated_at": "2026-06-29T18:00:32.237358+00:00",
   "signals": [
     {
       "id": "news-1-9f777d9b66",
@@ -37,7 +37,23 @@
       ]
     },
     {
-      "id": "news-3-43b37b142f",
+      "id": "news-3-b23c25f1be",
+      "title": "Coinbase, Kraken en OKX trekken EU-gebruikers aan met transferbonussen onder MiCA",
+      "summary": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and prizes.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/coinbase-okx-kraken-eu-users-mica",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-29T17:42:39+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-43b37b142f",
       "title": "Binance-oprichter: MiCA-aanvraag was bijna goedgekeurd voor politieke inmenging",
       "summary": "Binance founder CZ says the exchange's EU MiCA application was close to approval before unnamed political forces weighed in.",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-83ccd8f542",
+      "id": "news-5-83ccd8f542",
       "title": "MiCA-deadline mogelijk problematisch voor miljoen cryptogebruikers in EU",
       "summary": "MiCA's looming deadline could leave 10 million crypto users without a platform in the EU",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-469917faab",
+      "id": "news-6-469917faab",
       "title": "BNY breidt stablecoin-diensten uit voor institutionele klanten met USDC",
       "summary": "Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-752641e21d",
+      "id": "news-7-752641e21d",
       "title": "BlackRock voegt uitgebreide ondersteuning voor Ethena-stablecoins aan Aladdin toe",
       "summary": "The move makes USDe more accessible to investment professionals wishing to take advantage of 'digital dollar exposure.'",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-4bc9147938",
+      "id": "news-8-4bc9147938",
       "title": "EBA publiceert rapport over toezichtconvergentie voor efficiënter EU-regelkader",
       "summary": "​The European Banking Authority (EBA) today published its 2025 Report on supervisory convergence, as part of its broader efforts to contribute to a more efficient, streamlined and effective EU prudential framework. This work responds to the EBA’s initiatives to increase the efficiency of the regulatory and supervisory framework, including through greater transparency and a focus on supervisory convergence. The Report highlights continued progress in aligning supervisory practices across the European Union (EU), while identifying areas where further convergence is needed. It shows how strong and consistent supervision can support the simplification of the regulatory framework, reduce unnecessary complexity, and help secure a level playing field across the Single Market.",
       "type": "regulation",
@@ -115,22 +131,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-6cf9ecf924",
-      "title": "Duitsland voert MiCA-vergunningen in EU aan voor 1 juli",
-      "summary": "MiCA crypto licensing data shows 244 approved companies across EU and EEA jurisdictions, led by Germany with France and the Netherlands also among top hubs ahead of July 1 cliff.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/mica-licenses-cluster-germany-total-reach-244",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-29T10:48:20+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
