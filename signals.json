@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-29T10:00:34.703857+00:00",
+  "generated_at": "2026-06-29T11:00:37.527060+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -21,7 +21,39 @@
       ]
     },
     {
-      "id": "news-2-b6a6d44be8",
+      "id": "news-2-6cf9ecf924",
+      "title": "Duitsland voert MiCA-vergunningen in EU aan voor 1 juli",
+      "summary": "MiCA crypto licensing data shows 244 approved companies across EU and EEA jurisdictions, led by Germany with France and the Netherlands also among top hubs ahead of July 1 cliff.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/mica-licenses-cluster-germany-total-reach-244",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-29T10:48:20+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-ca20961c49",
+      "title": "Ongelicentieerde cryptobedrijven in Europa moeten voldoen aan MiCA-deadline",
+      "summary": "Europe’s unlicensed crypto firms face ‘wipeout’ as MiCA deadline hits",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/policy/2026/06/29/europe-s-unlicensed-crypto-firms-face-wipeout-as-final-regulatory-deadline-falls",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-29T10:01:23+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-b6a6d44be8",
       "title": "USDT-premie in India stijgt naar 8.5% na crackdown stablecoin",
       "summary": "India's USDT premium topped 8.5% after Enforcement Directorate raids on Bengaluru crypto firms reportedly disrupted stablecoin supply.",
       "type": "news",
@@ -37,7 +69,7 @@
       ]
     },
     {
-      "id": "news-3-81eda3eb4b",
+      "id": "news-5-81eda3eb4b",
       "title": "Nieuwe MiCA-regelgeving in Europa en Amerikaanse arbeidsmarktgegevens volgende week",
       "summary": "New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead",
       "type": "news",
@@ -53,7 +85,7 @@
       ]
     },
     {
-      "id": "news-4-538b63edc1",
+      "id": "news-6-538b63edc1",
       "title": "BIS waarschuwt: stablecoins gedragen zich meer als ETF's dan geld",
       "summary": "BIS warns stablecoins are more like ETFs than actual money, and they're creating FX risk",
       "type": "news",
@@ -69,7 +101,7 @@
       ]
     },
     {
-      "id": "news-5-5335817968",
+      "id": "news-7-5335817968",
       "title": "BIS: stablecoins voldoen niet aan geldkenmerken, waarschuwt voor risico's",
       "summary": "The Bank for International Settlements argued in its annual report that stablecoins still fall short of money on singleness, elasticity and integrity.",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-c60cae6873",
+      "id": "news-8-c60cae6873",
       "title": "BIS waarschuwt dat stablecoins wereldfinancier kunnen fragmenteren",
       "summary": "The Basel-based institution said that private digital tokens fall short of the requirements for sound money and urged policymakers to accelerate work on tokenized forms of central bank and commercial bank money.",
       "type": "news",
@@ -95,38 +127,6 @@
       "url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system",
       "source_name": "Cointelegraph",
       "published_at": "2026-06-28T18:58:45+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-31b8c0231b",
-      "title": "Binance registreert wekelijkse uitgangen van meer dan 400 miljoen dollar voor MiCA-deadline",
-      "summary": "Early exchange flow data show no clear signs of a mass migration from Binance ahead of the EU MiCA transition deadline, despite rivals' efforts to attract users.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-28T11:51:33+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-f7e98083f1",
-      "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
-      "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-24T07:17:46+00:00",
       "tags": [
         "crypto",
         "markets"
