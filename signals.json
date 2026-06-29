@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-29T14:00:37.165910+00:00",
+  "generated_at": "2026-06-29T15:00:39.522136+00:00",
   "signals": [
     {
       "id": "news-1-9f777d9b66",
@@ -37,7 +37,23 @@
       ]
     },
     {
-      "id": "news-3-752641e21d",
+      "id": "news-3-469917faab",
+      "title": "BNY breidt stablecoin-diensten uit voor institutionele klanten met USDC",
+      "summary": "Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-29T14:46:33+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-752641e21d",
       "title": "BlackRock voegt uitgebreide ondersteuning voor Ethena-stablecoins aan Aladdin toe",
       "summary": "The move makes USDe more accessible to investment professionals wishing to take advantage of 'digital dollar exposure.'",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-6cf9ecf924",
+      "id": "news-5-6cf9ecf924",
       "title": "Duitsland voert MiCA-vergunningen in EU aan voor 1 juli",
       "summary": "MiCA crypto licensing data shows 244 approved companies across EU and EEA jurisdictions, led by Germany with France and the Netherlands also among top hubs ahead of July 1 cliff.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-ca20961c49",
+      "id": "news-6-ca20961c49",
       "title": "Ongelicentieerde cryptobedrijven in Europa moeten voldoen aan MiCA-deadline",
       "summary": "Europe’s unlicensed crypto firms face ‘wipeout’ as MiCA deadline hits",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-f37ea3919f",
+      "id": "news-7-f37ea3919f",
       "title": "EBA publiceert routekaart voor implementatie herziene Depositogarantierichtlijn",
       "summary": "The European Banking Authority (EBA) today published a roadmap outlining how it will deliver its mandates under the revised Deposit Guarantee Schemes Directive (DGSD3). The roadmap sets out the EBA’s role in implementing DGSD3 by developing a set of regulatory products to strengthen depositor protection across the EU. It also presents the timeline for these deliverables, which will ensure depositors are better informed about their rights, better protected, and that deposit guarantee schemes are prepared to act when needed.",
       "type": "regulation",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-b6a6d44be8",
+      "id": "news-8-b6a6d44be8",
       "title": "USDT-premie in India stijgt naar 8.5% na crackdown stablecoin",
       "summary": "India's USDT premium topped 8.5% after Enforcement Directorate raids on Bengaluru crypto firms reportedly disrupted stablecoin supply.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://www.theblock.co/post/406502/indias-usdt-premium-tops-8-5-as-crypto-remittance-crackdown-squeezes-stablecoin-supply-report",
       "source_name": "The Block",
       "published_at": "2026-06-29T09:49:21+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-81eda3eb4b",
-      "title": "Nieuwe MiCA-regelgeving in Europa en Amerikaanse arbeidsmarktgegevens volgende week",
-      "summary": "New MiCA regime in Europe, U.S. jobs report for June: Crypto Week Ahead",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/markets/2026/06/29/new-mica-regime-in-europe-u-s-jobs-report-for-june-crypto-week-ahead",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-29T09:08:25+00:00",
       "tags": [
         "crypto",
         "markets"
