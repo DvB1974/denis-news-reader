@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-29T16:00:38.529425+00:00",
+  "generated_at": "2026-06-29T17:00:33.259860+00:00",
   "signals": [
     {
       "id": "news-1-9f777d9b66",
@@ -101,7 +101,24 @@
       ]
     },
     {
-      "id": "news-7-6cf9ecf924",
+      "id": "news-7-4bc9147938",
+      "title": "EBA publiceert rapport over toezichtconvergentie voor efficiënter EU-regelkader",
+      "summary": "​The European Banking Authority (EBA) today published its 2025 Report on supervisory convergence, as part of its broader efforts to contribute to a more efficient, streamlined and effective EU prudential framework. This work responds to the EBA’s initiatives to increase the efficiency of the regulatory and supervisory framework, including through greater transparency and a focus on supervisory convergence. The Report highlights continued progress in aligning supervisory practices across the European Union (EU), while identifying areas where further convergence is needed. It shows how strong and consistent supervision can support the simplification of the regulatory framework, reduce unnecessary complexity, and help secure a level playing field across the Single Market.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-its-2025-report-supervisory-convergence-supporting-simpler-and-more-efficient-eu",
+      "source_name": "EBA",
+      "published_at": "2026-06-29T12:28:23+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-8-6cf9ecf924",
       "title": "Duitsland voert MiCA-vergunningen in EU aan voor 1 juli",
       "summary": "MiCA crypto licensing data shows 244 approved companies across EU and EEA jurisdictions, led by Germany with France and the Netherlands also among top hubs ahead of July 1 cliff.",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://cointelegraph.com/news/mica-licenses-cluster-germany-total-reach-244",
       "source_name": "Cointelegraph",
       "published_at": "2026-06-29T10:48:20+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-ca20961c49",
-      "title": "Ongelicentieerde cryptobedrijven in Europa moeten voldoen aan MiCA-deadline",
-      "summary": "Europe’s unlicensed crypto firms face ‘wipeout’ as MiCA deadline hits",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/06/29/europe-s-unlicensed-crypto-firms-face-wipeout-as-final-regulatory-deadline-falls",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-29T10:01:23+00:00",
       "tags": [
         "crypto",
         "markets"
