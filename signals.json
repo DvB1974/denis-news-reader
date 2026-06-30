@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-30T14:02:51.398586+00:00",
+  "generated_at": "2026-06-30T15:00:54.946288+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -53,85 +53,83 @@
       ]
     },
     {
-      "id": "news-4-79e0aa5687",
-      "title": "Spiko integreert Coinbase-betalingen in EU-gereglementeerde UCITS-fondsen",
-      "summary": "Spiko integrated Coinbase Payments into two EU regulated UCITS Treasury funds, enabling USDC and EURC subscriptions and redemption payments through Base.",
+      "id": "news-4-dfe22f75ab",
+      "title": "Visa, Stripe, Coinbase stappen in Open USD stablecoin",
+      "summary": "Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-30T12:21:03+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-0a18901845",
-      "title": "New York Life start tokenisering met Centrifuge voor bedrijfsobligatiefonds",
-      "summary": "The tokenized fund will enable eligible investors to access NYLIM’s established institutional high-yield strategy.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/post/406696/new-york-life-first-tokenized-centrifuge-high-yield-corporate-bond-strategy",
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue",
       "source_name": "The Block",
-      "published_at": "2026-06-30T12:00:00+00:00",
+      "published_at": "2026-06-30T14:57:18+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-6-33b89376fb",
-      "title": "EU-depositogarantiefondsreserves bereiken 85 miljard euro eind 2025",
-      "summary": "The European Banking Authority (EBA) today published end-2025 data on two key concepts and indicators in the DGSD, namely financial means available to, and covered deposits protected by DGSs. This annual publication, covering each Member State, enhances transparency and accountability across the EU to the benefit of depositors, markets, policymakers, DGSs and Members States.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-deposit-guarantee-scheme-funds-protect-depositors-against-bank-failures-continue-grow-and-have",
-      "source_name": "EBA",
-      "published_at": "2026-06-30T10:39:20+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
-      ]
-    },
-    {
-      "id": "news-7-9e396ab634",
-      "title": "ESMA waarschuwing: Binance moet MiCA-geautoriseerde entiteit gebruiken in EU",
-      "summary": "ESMA said EU crypto clients must be served through a MiCA-authorized entity as Binance faces questions over its servicing model in the region after the MiCA deadline.",
+      "id": "news-5-93c353f236",
+      "title": "OKX AI lanceert marktplaats waar agenten werk vinden en in stablecoins betaald krijgen",
+      "summary": "“Think Upwork for Agents with our fintech infrastructure and 150M scale in the background,\" an OKX rep said.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-30T10:25:48+00:00",
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/post/406704/okx-ai-unveils-marketplace-for-agents-to-find-work-and-get-paid-in-stablecoins",
+      "source_name": "The Block",
+      "published_at": "2026-06-30T14:49:01+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-8-03ce916eed",
-      "title": "ECB publiceert indicatieve operationele kalenders voor 2028",
-      "summary": "ECB publishes indicative operational calendars for 2028",
-      "type": "regulation",
+      "id": "news-6-7736ea6487",
+      "title": "Circle daalt 8% na steun voor rivaliserende stablecoin-netwerk",
+      "summary": "Circle slides 8% as Stripe, Coinbase and BlackRock back rival stablecoin network",
+      "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630_1~ff55b9e99a.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-06-30T08:00:00+00:00",
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/06/30/circle-slides-8-as-stripe-coinbase-and-blackrock-back-rival-stablecoin-network",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-30T14:32:33+00:00",
       "tags": [
-        "macro",
-        "regulation",
-        "ECB"
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-61ec08113f",
+      "title": "MetaMask introduceert Money Account met stablecoin-rendement en betalingen",
+      "summary": "MetaMask launches Money Account with stablecoin yield and spending in one wallet",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-30T14:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-5a30b1acc2",
+      "title": "MetaMask lanceert rentespaarrekening voor mUSD-stablecoin met kaartuitgaven",
+      "summary": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and EU.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-30T14:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     }
   ]
