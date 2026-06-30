@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-30T06:00:34.242389+00:00",
+  "generated_at": "2026-06-30T07:00:21.923093+00:00",
   "signals": [
     {
       "id": "news-1-9f777d9b66",
@@ -37,7 +37,23 @@
       ]
     },
     {
-      "id": "news-3-1d65ab13f2",
+      "id": "news-3-10e5b31e89",
+      "title": "Dubai trekt cryptobedrijven aan door MiCA-deadline in Europa",
+      "summary": "Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/policy/2026/06/30/dubai-set-for-crypto-firm-influx-as-mica-deadline-pushes-companies-to-reassess-europe",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-30T06:30:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-1d65ab13f2",
       "title": "JPMorgan waarschuwt voor risico's van rendement-stablecoins als schaduwbanking",
       "summary": "JPMorgan execs argued that stablecoin innovation can easily drift into “shadow banking” if yield payments are permitted.",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-b23c25f1be",
+      "id": "news-5-b23c25f1be",
       "title": "Coinbase, Kraken en OKX trekken EU-gebruikers aan met transferbonussen onder MiCA",
       "summary": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and prizes.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-43b37b142f",
+      "id": "news-6-43b37b142f",
       "title": "Binance-oprichter: MiCA-aanvraag was bijna goedgekeurd voor politieke inmenging",
       "summary": "Binance founder CZ says the exchange's EU MiCA application was close to approval before unnamed political forces weighed in.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-83ccd8f542",
+      "id": "news-7-83ccd8f542",
       "title": "MiCA-deadline mogelijk problematisch voor miljoen cryptogebruikers in EU",
       "summary": "MiCA's looming deadline could leave 10 million crypto users without a platform in the EU",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-469917faab",
+      "id": "news-8-469917faab",
       "title": "BNY breidt stablecoin-diensten uit voor institutionele klanten met USDC",
       "summary": "Wall Street's BNY expands stablecoin services for institutions, starting with Circle's USDC",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.coindesk.com/business/2026/06/29/wall-street-s-bny-expands-stablecoin-services-for-institutions-starting-with-circle-s-usdc",
       "source_name": "CoinDesk",
       "published_at": "2026-06-29T14:46:33+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-752641e21d",
-      "title": "BlackRock voegt uitgebreide ondersteuning voor Ethena-stablecoins aan Aladdin toe",
-      "summary": "The move makes USDe more accessible to investment professionals wishing to take advantage of 'digital dollar exposure.'",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/405670/blackrock-ethena-partnership-usde",
-      "source_name": "The Block",
-      "published_at": "2026-06-29T13:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
