@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-30T12:00:29.528785+00:00",
+  "generated_at": "2026-06-30T13:00:32.673506+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -53,7 +53,39 @@
       ]
     },
     {
-      "id": "news-4-33b89376fb",
+      "id": "news-4-79e0aa5687",
+      "title": "Spiko integreert Coinbase-betalingen in EU-gereglementeerde UCITS-fondsen",
+      "summary": "Spiko integrated Coinbase Payments into two EU regulated UCITS Treasury funds, enabling USDC and EURC subscriptions and redemption payments through Base.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/spiko-coinbase-stablecoin-payments-treasury-funds",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-30T12:21:03+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-0a18901845",
+      "title": "New York Life start tokenisering met Centrifuge voor bedrijfsobligatiefonds",
+      "summary": "The tokenized fund will enable eligible investors to access NYLIM’s established institutional high-yield strategy.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/post/406696/new-york-life-first-tokenized-centrifuge-high-yield-corporate-bond-strategy",
+      "source_name": "The Block",
+      "published_at": "2026-06-30T12:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-33b89376fb",
       "title": "EU-depositogarantiefondsreserves bereiken 85 miljard euro eind 2025",
       "summary": "The European Banking Authority (EBA) today published end-2025 data on two key concepts and indicators in the DGSD, namely financial means available to, and covered deposits protected by DGSs. This annual publication, covering each Member State, enhances transparency and accountability across the EU to the benefit of depositors, markets, policymakers, DGSs and Members States.",
       "type": "regulation",
@@ -70,7 +102,7 @@
       ]
     },
     {
-      "id": "news-5-9e396ab634",
+      "id": "news-7-9e396ab634",
       "title": "ESMA waarschuwing: Binance moet MiCA-geautoriseerde entiteit gebruiken in EU",
       "summary": "ESMA said EU crypto clients must be served through a MiCA-authorized entity as Binance faces questions over its servicing model in the region after the MiCA deadline.",
       "type": "news",
@@ -86,7 +118,7 @@
       ]
     },
     {
-      "id": "news-6-03ce916eed",
+      "id": "news-8-03ce916eed",
       "title": "ECB publiceert indicatieve operationele kalenders voor 2028",
       "summary": "ECB publishes indicative operational calendars for 2028",
       "type": "regulation",
@@ -100,39 +132,6 @@
         "macro",
         "regulation",
         "ECB"
-      ]
-    },
-    {
-      "id": "news-7-96be274418",
-      "title": "ECB publiceert indicatieve operationele kalenders voor 2027",
-      "summary": "ECB publishes indicative operational calendars for 2027",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260630~9f54a0a4fb.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-06-30T08:00:00+00:00",
-      "tags": [
-        "macro",
-        "regulation",
-        "ECB"
-      ]
-    },
-    {
-      "id": "news-8-10e5b31e89",
-      "title": "Dubai trekt cryptobedrijven aan door MiCA-deadline in Europa",
-      "summary": "Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/06/30/dubai-set-for-crypto-firm-influx-as-mica-deadline-pushes-companies-to-reassess-europe",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-30T06:30:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
