@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-30T10:00:22.231012+00:00",
+  "generated_at": "2026-06-30T11:00:29.922916+00:00",
   "signals": [
     {
-      "id": "news-1-9f777d9b66",
+      "id": "news-1-5a90737bff",
+      "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
+      "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-30T10:08:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-9f777d9b66",
       "title": "Breez lanceert Bitcoin-naar-stablecoin-betalingen op meer dan 30 blockchains",
       "summary": "The new SDK feature lets developers route payments from Bitcoin balances to recipients in USDC and USDT without requiring users to hold stablecoins.",
       "type": "news",
@@ -20,7 +36,7 @@
       ]
     },
     {
-      "id": "news-2-23fee21bfb",
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -37,7 +53,40 @@
       ]
     },
     {
-      "id": "news-3-03ce916eed",
+      "id": "news-4-33b89376fb",
+      "title": "EU-depositogarantiefondsreserves bereiken 85 miljard euro eind 2025",
+      "summary": "The European Banking Authority (EBA) today published end-2025 data on two key concepts and indicators in the DGSD, namely financial means available to, and covered deposits protected by DGSs. This annual publication, covering each Member State, enhances transparency and accountability across the EU to the benefit of depositors, markets, policymakers, DGSs and Members States.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eu-deposit-guarantee-scheme-funds-protect-depositors-against-bank-failures-continue-grow-and-have",
+      "source_name": "EBA",
+      "published_at": "2026-06-30T10:39:20+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-9e396ab634",
+      "title": "ESMA waarschuwing: Binance moet MiCA-geautoriseerde entiteit gebruiken in EU",
+      "summary": "ESMA said EU crypto clients must be served through a MiCA-authorized entity as Binance faces questions over its servicing model in the region after the MiCA deadline.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/esma-challenge-binance-serving-certain-eu-users-post-mica",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-30T10:25:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-03ce916eed",
       "title": "ECB publiceert indicatieve operationele kalenders voor 2028",
       "summary": "ECB publishes indicative operational calendars for 2028",
       "type": "regulation",
@@ -54,7 +103,7 @@
       ]
     },
     {
-      "id": "news-4-96be274418",
+      "id": "news-7-96be274418",
       "title": "ECB publiceert indicatieve operationele kalenders voor 2027",
       "summary": "ECB publishes indicative operational calendars for 2027",
       "type": "regulation",
@@ -71,7 +120,7 @@
       ]
     },
     {
-      "id": "news-5-10e5b31e89",
+      "id": "news-8-10e5b31e89",
       "title": "Dubai trekt cryptobedrijven aan door MiCA-deadline in Europa",
       "summary": "Dubai set for crypto firm influx as MiCA deadline pushes companies to reassess Europe",
       "type": "news",
@@ -81,54 +130,6 @@
       "url": "https://www.coindesk.com/policy/2026/06/30/dubai-set-for-crypto-firm-influx-as-mica-deadline-pushes-companies-to-reassess-europe",
       "source_name": "CoinDesk",
       "published_at": "2026-06-30T06:30:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-1d65ab13f2",
-      "title": "JPMorgan waarschuwt voor risico's van rendement-stablecoins als schaduwbanking",
-      "summary": "JPMorgan execs argued that stablecoin innovation can easily drift into “shadow banking” if yield payments are permitted.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.theblock.co/post/406599/jpmorgan-execs-draw-comparison-between-yield-stablecoins-shadow-banking",
-      "source_name": "The Block",
-      "published_at": "2026-06-29T18:37:28+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-b23c25f1be",
-      "title": "Coinbase, Kraken en OKX trekken EU-gebruikers aan met transferbonussen onder MiCA",
-      "summary": "Several exchanges that have already been authorized by EU regulators are attempting to bring in users from companies unlicensed under the Markets in Crypto-Assets rules, offering transfer bonuses and prizes.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/coinbase-okx-kraken-eu-users-mica",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-29T17:42:39+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-43b37b142f",
-      "title": "Binance-oprichter: MiCA-aanvraag was bijna goedgekeurd voor politieke inmenging",
-      "summary": "Binance founder CZ says the exchange's EU MiCA application was close to approval before unnamed political forces weighed in.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/post/406554/binance-founder-cz-mica-application-fully-compliant-near-approval-political-forces-intervened",
-      "source_name": "The Block",
-      "published_at": "2026-06-29T15:33:27+00:00",
       "tags": [
         "crypto",
         "markets"
