@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-30T16:00:26.620748+00:00",
+  "generated_at": "2026-06-30T17:00:51.326273+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-dfe22f75ab",
+      "id": "news-4-2671dc9b2e",
+      "title": "Bedrijfsgebruik van stablecoins groeit volgens Cybrid-rapport",
+      "summary": "The majority of businesses surveyed are likely to use stablecoins within the next 12 months, while regulatory clarity remained the biggest barrier to wider adoption.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-30T16:34:31+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-dfe22f75ab",
       "title": "Visa, Stripe, Coinbase stappen in Open USD stablecoin",
       "summary": "Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-93c353f236",
+      "id": "news-6-93c353f236",
       "title": "OKX AI lanceert marktplaats waar agenten werk vinden en in stablecoins betaald krijgen",
       "summary": "“Think Upwork for Agents with our fintech infrastructure and 150M scale in the background,\" an OKX rep said.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-7736ea6487",
+      "id": "news-7-7736ea6487",
       "title": "Circle daalt 8% na steun voor rivaliserende stablecoin-netwerk",
       "summary": "Circle slides 8% as Stripe, Coinbase and BlackRock back rival stablecoin network",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-61ec08113f",
+      "id": "news-8-61ec08113f",
       "title": "MetaMask introduceert Money Account met stablecoin-rendement en betalingen",
       "summary": "MetaMask launches Money Account with stablecoin yield and spending in one wallet",
       "type": "news",
@@ -110,22 +126,6 @@
       "tone": "opportunity",
       "url": "https://www.coindesk.com/tech/2026/06/30/metamask-launches-money-account-with-stablecoin-yield-and-spending-in-one-wallet",
       "source_name": "CoinDesk",
-      "published_at": "2026-06-30T14:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-5a30b1acc2",
-      "title": "MetaMask lanceert rentespaarrekening voor mUSD-stablecoin met kaartuitgaven",
-      "summary": "MetaMask launches Money Account it says offers up to 4% variable APY on mUSD stablecoin balances and card spending, with DeFi-powered yield via vaults, excluding the UK and EU.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/metamask-money-account-musd-stablecoin-yield",
-      "source_name": "Cointelegraph",
       "published_at": "2026-06-30T14:00:00+00:00",
       "tags": [
         "crypto",
