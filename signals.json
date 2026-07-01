@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-01T11:00:36.774072+00:00",
+  "generated_at": "2026-07-01T12:00:34.881546+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -53,7 +53,56 @@
       ]
     },
     {
-      "id": "news-4-d2c9975792",
+      "id": "news-4-5d2137f6ff",
+      "title": "Crédit Agricole brengt EURXT euro-stablecoin op Ethereum uit",
+      "summary": "Crédit Agricole’s CACEIS launches a euro-pegged stablecoin on Ethereum with 20.02 million tokens issued, targeting institutional flows and tokenized fund access.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/credit-agricole-eurxt-euro-stablecoin-caceis",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-01T11:50:01+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-9800d695ac",
+      "title": "MiCA-regelgeving volledig van kracht: gevolgen voor gebruikers en bedrijven",
+      "summary": "With the July 1 deadline now passed, how will the end of MiCA's final transition phase affect users, companies, and the market?",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/post/406766/europes-mica-crypto-regime-is-fully-in-force-heres-who-wins-and-loses",
+      "source_name": "The Block",
+      "published_at": "2026-07-01T11:01:02+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-03d18bc515",
+      "title": "EBA start consultatie over prestatie-indicatoren Taxonomy-publicaties",
+      "summary": "The European Banking Authority (EBA) today published a Discussion Paper on certain key performance indicators (KPIs) and other aspects of the Disclosures Delegated Act, under Article 8 of the Taxonomy Regulation. The aim is to consult the public on potential measures to simplify and enhance the usability of information disclosed by credit institutions and investment firms. The consultation is open until 12 August 2026.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-launches-consultation-key-performance-indicators-taxonomy-disclosures",
+      "source_name": "EBA",
+      "published_at": "2026-07-01T10:41:36+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-7-d2c9975792",
       "title": "Polen enige EU-land zonder MiCA-licenties voor cryptobedrijven",
       "summary": "Why Poland is the only EU country where crypto firms can't get a MiCA license",
       "type": "news",
@@ -69,7 +118,7 @@
       ]
     },
     {
-      "id": "news-5-9f777d9b66",
+      "id": "news-8-9f777d9b66",
       "title": "Breez lanceert Bitcoin-naar-stablecoin-betalingen op meer dan 30 blockchains",
       "summary": "The new SDK feature lets developers route payments from Bitcoin balances to recipients in USDC and USDT without requiring users to hold stablecoins.",
       "type": "news",
@@ -79,54 +128,6 @@
       "url": "https://cointelegraph.com/news/breez-bitcoin-wallets-send-usdc-usdt-without-holding-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-06-29T13:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-c82b0423af",
-      "title": "Financiële bedrijven werken samen aan dollar-stablecoin met reserves",
-      "summary": "The project, supported by Visa, Mastercard and many crypto companies, could be in a position to challenge Tether’s USDT and Circle’s USDC, currently the two largest stablecoins by market capitalization.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/financial-companies-us-dollar-payment-stablecoin",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-30T19:31:41+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-2671dc9b2e",
-      "title": "Bedrijfsgebruik van stablecoins groeit volgens Cybrid-rapport",
-      "summary": "The majority of businesses surveyed are likely to use stablecoins within the next 12 months, while regulatory clarity remained the biggest barrier to wider adoption.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/42-of-businesses-surveyed-use-stablecoins-for-cross-border-payments-cybrid-report",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-30T16:34:31+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-dfe22f75ab",
-      "title": "Visa, Stripe, Coinbase stappen in Open USD stablecoin",
-      "summary": "Expected to launch later this year, Open Standard said businesses will be able to mint and redeem Open USD without fees or volume limits.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/406736/visa-stripe-coinbase-join-open-usd-stablecoin-shares-reserve-revenue",
-      "source_name": "The Block",
-      "published_at": "2026-06-30T14:57:18+00:00",
       "tags": [
         "crypto",
         "markets"
