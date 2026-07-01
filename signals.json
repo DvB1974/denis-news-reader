@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-06-30T20:00:34.188148+00:00",
+  "generated_at": "2026-07-01T05:01:28.591983+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -20,23 +20,7 @@
       ]
     },
     {
-      "id": "news-2-9f777d9b66",
-      "title": "Breez lanceert Bitcoin-naar-stablecoin-betalingen op meer dan 30 blockchains",
-      "summary": "The new SDK feature lets developers route payments from Bitcoin balances to recipients in USDC and USDT without requiring users to hold stablecoins.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/breez-bitcoin-wallets-send-usdc-usdt-without-holding-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-29T13:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-23fee21bfb",
+      "id": "news-2-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -50,6 +34,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-3-9f777d9b66",
+      "title": "Breez lanceert Bitcoin-naar-stablecoin-betalingen op meer dan 30 blockchains",
+      "summary": "The new SDK feature lets developers route payments from Bitcoin balances to recipients in USDC and USDT without requiring users to hold stablecoins.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/breez-bitcoin-wallets-send-usdc-usdt-without-holding-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-29T13:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
