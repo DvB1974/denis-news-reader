@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-01T12:00:34.881546+00:00",
+  "generated_at": "2026-07-01T13:00:31.649984+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -53,7 +53,39 @@
       ]
     },
     {
-      "id": "news-4-5d2137f6ff",
+      "id": "news-4-4325f6e410",
+      "title": "Europa herziet MiCA na verstrijken juli-deadline",
+      "summary": "Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/policy/2026/06/30/europe-is-rewriting-its-landmark-crypto-rulebook-mica-as-hard-july-1-deadline-passes",
+      "source_name": "CoinDesk",
+      "published_at": "2026-07-01T12:29:17+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-e383a28368",
+      "title": "Laatste MiCA-goedkeuringen markeren einde EU-transitieperiode",
+      "summary": "A final wave of MiCA approvals expanded Europe's roster of licensed crypto firms as the transitional period came to a close.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/new-licenses-issued-eu-mica-grace-period-ends",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-01T12:17:54+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-5d2137f6ff",
       "title": "Crédit Agricole brengt EURXT euro-stablecoin op Ethereum uit",
       "summary": "Crédit Agricole’s CACEIS launches a euro-pegged stablecoin on Ethereum with 20.02 million tokens issued, targeting institutional flows and tokenized fund access.",
       "type": "news",
@@ -69,7 +101,7 @@
       ]
     },
     {
-      "id": "news-5-9800d695ac",
+      "id": "news-7-9800d695ac",
       "title": "MiCA-regelgeving volledig van kracht: gevolgen voor gebruikers en bedrijven",
       "summary": "With the July 1 deadline now passed, how will the end of MiCA's final transition phase affect users, companies, and the market?",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-03d18bc515",
+      "id": "news-8-03d18bc515",
       "title": "EBA start consultatie over prestatie-indicatoren Taxonomy-publicaties",
       "summary": "The European Banking Authority (EBA) today published a Discussion Paper on certain key performance indicators (KPIs) and other aspects of the Disclosures Delegated Act, under Article 8 of the Taxonomy Regulation. The aim is to consult the public on potential measures to simplify and enhance the usability of information disclosed by credit institutions and investment firms. The consultation is open until 12 August 2026.",
       "type": "regulation",
@@ -99,38 +131,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-7-d2c9975792",
-      "title": "Polen enige EU-land zonder MiCA-licenties voor cryptobedrijven",
-      "summary": "Why Poland is the only EU country where crypto firms can't get a MiCA license",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/07/01/why-poland-is-the-only-eu-country-where-crypto-firms-can-t-get-a-mica-license",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-01T06:30:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-9f777d9b66",
-      "title": "Breez lanceert Bitcoin-naar-stablecoin-betalingen op meer dan 30 blockchains",
-      "summary": "The new SDK feature lets developers route payments from Bitcoin balances to recipients in USDC and USDT without requiring users to hold stablecoins.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/breez-bitcoin-wallets-send-usdc-usdt-without-holding-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-29T13:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
