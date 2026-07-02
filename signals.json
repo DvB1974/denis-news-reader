@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-02T19:00:28.431575+00:00",
+  "generated_at": "2026-07-02T20:00:33.018123+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -20,7 +20,23 @@
       ]
     },
     {
-      "id": "news-2-23fee21bfb",
+      "id": "news-2-6df01751a1",
+      "title": "IMF: tokenisering kan financiële afwikkeling en stabiliteit transformeren",
+      "summary": "The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-02T19:17:32+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -37,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-c8e657047b",
+      "id": "news-4-c8e657047b",
       "title": "Aave lanceert V3-lenen en GHO-stablecoin op Monad",
       "summary": "Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in first-year incentives to build liquidity and adoption.",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-28e569323b",
+      "id": "news-5-28e569323b",
       "title": "Drie jaar na invoering MiCA: Europa herziet crypto-regelgeving",
       "summary": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-70cbb389eb",
+      "id": "news-6-70cbb389eb",
       "title": "EBA-onderzoek vindt hoge naleving Pillar 3-openbaarmakingen, maar vraagt meer uniformiteit",
       "summary": "The European Banking Authority (EBA) today published the results of its targeted Peer Review on the supervision of compliance with the Capital Requirements Regulation (CRR) and the Bank Recovery and Resolution Directive (BRRD) provisions aiming to facilitate market discipline through bank disclosure (“Pillar 3”). The Review found that the competent authorities under review have fully or largely embedded Pillar 3 requirements into their supervisory frameworks and that their practices are efficient overall. Consistency across jurisdictions could, however, improve.",
       "type": "regulation",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-e004e2781b",
+      "id": "news-7-e004e2781b",
       "title": "Aanbod rentemende stablecoins daalt 15% in Q2 na groei van drie jaar",
       "summary": "Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, while Treasury-backed products including BUIDL, USYC and USDY continued to grow.",
       "type": "news",
@@ -102,32 +118,16 @@
       ]
     },
     {
-      "id": "news-7-c328c18025",
-      "title": "Taiwan stelt eerste regelgeving voor cryptovaluta en stablecoins vast",
-      "summary": "Taiwan’s legislative branch has passed the nation’s first crypto and stablecoin rules, which aim to integrate the country with the global crypto market.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/taiwans-legislature-passes-crypto-regulation-licensing-laws",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-01T06:15:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-424c2802c2",
-      "title": "Ondo breidt tokengebaseerde aandelen uit met on-chain aandeelhoudersstemming",
-      "summary": "Ondo's latest partnership adds shareholder governance to tokenized stocks as competition in blockchain-based equity offerings accelerates.",
+      "id": "news-8-9052d2b814",
+      "title": "Securitize tokeniseert $295 miljoen aandelen op Solana en Avalanche",
+      "summary": "Securitize tokenizes $295 million of its own stock on Solana and Avalanche amid NYSE debut",
       "type": "news",
       "impact": "high",
       "confidence": 93,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/ondo-tokenized-stocks-shareholder-voting",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-02T16:25:01+00:00",
+      "tone": "risk",
+      "url": "https://www.coindesk.com/business/2026/07/02/securitize-tokenizes-usd295-million-of-its-own-stock-on-solana-and-avalanche-amid-nyse-debut",
+      "source_name": "CoinDesk",
+      "published_at": "2026-07-02T19:00:03+00:00",
       "tags": [
         "crypto",
         "markets"
