@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-02T10:00:25.174248+00:00",
+  "generated_at": "2026-07-02T11:01:09.461108+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -37,7 +37,23 @@
       ]
     },
     {
-      "id": "news-3-c328c18025",
+      "id": "news-3-e004e2781b",
+      "title": "Aanbod rentemende stablecoins daalt 15% in Q2 na groei van drie jaar",
+      "summary": "Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, while Treasury-backed products including BUIDL, USYC and USDY continued to grow.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/yield-bearing-stablecoins-lose-3-5-billion-q2",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-02T10:23:33+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-c328c18025",
       "title": "Taiwan stelt eerste regelgeving voor cryptovaluta en stablecoins vast",
       "summary": "Taiwan’s legislative branch has passed the nation’s first crypto and stablecoin rules, which aim to integrate the country with the global crypto market.",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-bbdb140c25",
+      "id": "news-5-bbdb140c25",
       "title": "Stablecoins krijgen meer concurrentie ondanks gemengde voordelen",
       "summary": "For all their momentum, stablecoins’ moderate benefits come with a host of drawbacks",
       "type": "macro",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-4759ef8f8d",
+      "id": "news-6-4759ef8f8d",
       "title": "MiCA-invoering veroorzaakt debat over winnaars in nieuwe regelgeving",
       "summary": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-8361a1f0b5",
+      "id": "news-7-8361a1f0b5",
       "title": "Crédit Agricole lanceert EURXT-eurostablecoin",
       "summary": "French banking giant Crédit Agricole rolls out euro stablecoin, EURXT",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-ae478b437e",
+      "id": "news-8-ae478b437e",
       "title": "Bernstein ziet 203% stijgingspotentieel voor Circle ondanks OUSD-stablecoin",
       "summary": "Bernstein reaffirms Outperform on Circle with a $190 target after OUSD's launch sent CRCL stock down over 17%.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.theblock.co/post/406877/bernstein-sees-203-upside-for-circle-even-as-new-stablecoin-rival-ousd-debuts",
       "source_name": "The Block",
       "published_at": "2026-07-01T13:07:57+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-4325f6e410",
-      "title": "Europa herziet MiCA na verstrijken juli-deadline",
-      "summary": "Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/06/30/europe-is-rewriting-its-landmark-crypto-rulebook-mica-as-hard-july-1-deadline-passes",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-01T12:29:17+00:00",
       "tags": [
         "crypto",
         "markets"
