@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-02T16:00:46.634160+00:00",
+  "generated_at": "2026-07-02T17:00:29.808698+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -118,18 +118,18 @@
       ]
     },
     {
-      "id": "news-8-bbdb140c25",
-      "title": "Stablecoins krijgen meer concurrentie ondanks gemengde voordelen",
-      "summary": "For all their momentum, stablecoins’ moderate benefits come with a host of drawbacks",
-      "type": "macro",
+      "id": "news-8-424c2802c2",
+      "title": "Ondo breidt tokengebaseerde aandelen uit met on-chain aandeelhoudersstemming",
+      "summary": "Ondo's latest partnership adds shareholder governance to tokenized stocks as competition in blockchain-based equity offerings accelerates.",
+      "type": "news",
       "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.ft.com/content/fccf725b-24fb-4bc6-8d45-369b029b4f80",
-      "source_name": "FT – Markets",
-      "published_at": "2026-07-02T04:00:04+00:00",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/ondo-tokenized-stocks-shareholder-voting",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-02T16:25:01+00:00",
       "tags": [
-        "macro",
+        "crypto",
         "markets"
       ]
     }
