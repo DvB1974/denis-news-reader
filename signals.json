@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-02T13:00:26.278527+00:00",
+  "generated_at": "2026-07-02T14:00:48.326814+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -37,7 +37,23 @@
       ]
     },
     {
-      "id": "news-3-28e569323b",
+      "id": "news-3-c8e657047b",
+      "title": "Aave lanceert V3-lenen en GHO-stablecoin op Monad",
+      "summary": "Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in first-year incentives to build liquidity and adoption.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-02T13:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-28e569323b",
       "title": "Drie jaar na invoering MiCA: Europa herziet crypto-regelgeving",
       "summary": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-70cbb389eb",
+      "id": "news-5-70cbb389eb",
       "title": "EBA-onderzoek vindt hoge naleving Pillar 3-openbaarmakingen, maar vraagt meer uniformiteit",
       "summary": "The European Banking Authority (EBA) today published the results of its targeted Peer Review on the supervision of compliance with the Capital Requirements Regulation (CRR) and the Bank Recovery and Resolution Directive (BRRD) provisions aiming to facilitate market discipline through bank disclosure (“Pillar 3”). The Review found that the competent authorities under review have fully or largely embedded Pillar 3 requirements into their supervisory frameworks and that their practices are efficient overall. Consistency across jurisdictions could, however, improve.",
       "type": "regulation",
@@ -70,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-e004e2781b",
+      "id": "news-6-e004e2781b",
       "title": "Aanbod rentemende stablecoins daalt 15% in Q2 na groei van drie jaar",
       "summary": "Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, while Treasury-backed products including BUIDL, USYC and USDY continued to grow.",
       "type": "news",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-c328c18025",
+      "id": "news-7-c328c18025",
       "title": "Taiwan stelt eerste regelgeving voor cryptovaluta en stablecoins vast",
       "summary": "Taiwan’s legislative branch has passed the nation’s first crypto and stablecoin rules, which aim to integrate the country with the global crypto market.",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-bbdb140c25",
+      "id": "news-8-bbdb140c25",
       "title": "Stablecoins krijgen meer concurrentie ondanks gemengde voordelen",
       "summary": "For all their momentum, stablecoins’ moderate benefits come with a host of drawbacks",
       "type": "macro",
@@ -114,22 +130,6 @@
       "published_at": "2026-07-02T04:00:04+00:00",
       "tags": [
         "macro",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-4759ef8f8d",
-      "title": "MiCA-invoering veroorzaakt debat over winnaars in nieuwe regelgeving",
-      "summary": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-01T14:00:24+00:00",
-      "tags": [
-        "crypto",
         "markets"
       ]
     }
