@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-02T11:01:09.461108+00:00",
+  "generated_at": "2026-07-02T12:00:31.002819+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -37,7 +37,40 @@
       ]
     },
     {
-      "id": "news-3-e004e2781b",
+      "id": "news-3-28e569323b",
+      "title": "Drie jaar na invoering MiCA: Europa herziet crypto-regelgeving",
+      "summary": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink",
+      "source_name": "CoinDesk",
+      "published_at": "2026-07-02T11:55:03+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-70cbb389eb",
+      "title": "EBA-onderzoek vindt hoge naleving Pillar 3-openbaarmakingen, maar vraagt meer uniformiteit",
+      "summary": "The European Banking Authority (EBA) today published the results of its targeted Peer Review on the supervision of compliance with the Capital Requirements Regulation (CRR) and the Bank Recovery and Resolution Directive (BRRD) provisions aiming to facilitate market discipline through bank disclosure (“Pillar 3”). The Review found that the competent authorities under review have fully or largely embedded Pillar 3 requirements into their supervisory frameworks and that their practices are efficient overall. Consistency across jurisdictions could, however, improve.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/targeted-eba-peer-review-finds-high-compliance-pillar-3-disclosures-calls-greater-consistency",
+      "source_name": "EBA",
+      "published_at": "2026-07-02T10:26:46+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-e004e2781b",
       "title": "Aanbod rentemende stablecoins daalt 15% in Q2 na groei van drie jaar",
       "summary": "Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, while Treasury-backed products including BUIDL, USYC and USDY continued to grow.",
       "type": "news",
@@ -53,7 +86,7 @@
       ]
     },
     {
-      "id": "news-4-c328c18025",
+      "id": "news-6-c328c18025",
       "title": "Taiwan stelt eerste regelgeving voor cryptovaluta en stablecoins vast",
       "summary": "Taiwan’s legislative branch has passed the nation’s first crypto and stablecoin rules, which aim to integrate the country with the global crypto market.",
       "type": "news",
@@ -69,7 +102,7 @@
       ]
     },
     {
-      "id": "news-5-bbdb140c25",
+      "id": "news-7-bbdb140c25",
       "title": "Stablecoins krijgen meer concurrentie ondanks gemengde voordelen",
       "summary": "For all their momentum, stablecoins’ moderate benefits come with a host of drawbacks",
       "type": "macro",
@@ -85,7 +118,7 @@
       ]
     },
     {
-      "id": "news-6-4759ef8f8d",
+      "id": "news-8-4759ef8f8d",
       "title": "MiCA-invoering veroorzaakt debat over winnaars in nieuwe regelgeving",
       "summary": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
       "type": "news",
@@ -95,38 +128,6 @@
       "url": "https://www.coindesk.com/policy/2026/07/01/europe-s-mica-rollout-sparks-debate-over-who-wins-under-new-crypto-rules",
       "source_name": "CoinDesk",
       "published_at": "2026-07-01T14:00:24+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-8361a1f0b5",
-      "title": "Crédit Agricole lanceert EURXT-eurostablecoin",
-      "summary": "French banking giant Crédit Agricole rolls out euro stablecoin, EURXT",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/07/01/french-banking-giant-credit-agricole-rolls-out-euro-stablecoin-eurxt",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-01T13:50:24+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-ae478b437e",
-      "title": "Bernstein ziet 203% stijgingspotentieel voor Circle ondanks OUSD-stablecoin",
-      "summary": "Bernstein reaffirms Outperform on Circle with a $190 target after OUSD's launch sent CRCL stock down over 17%.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/406877/bernstein-sees-203-upside-for-circle-even-as-new-stablecoin-rival-ousd-debuts",
-      "source_name": "The Block",
-      "published_at": "2026-07-01T13:07:57+00:00",
       "tags": [
         "crypto",
         "markets"
