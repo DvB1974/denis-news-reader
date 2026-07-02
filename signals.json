@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-02T05:01:07.466919+00:00",
+  "generated_at": "2026-07-02T06:00:28.538558+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-4759ef8f8d",
+      "id": "news-4-bbdb140c25",
+      "title": "Stablecoins krijgen meer concurrentie ondanks gemengde voordelen",
+      "summary": "For all their momentum, stablecoins’ moderate benefits come with a host of drawbacks",
+      "type": "macro",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.ft.com/content/fccf725b-24fb-4bc6-8d45-369b029b4f80",
+      "source_name": "FT – Markets",
+      "published_at": "2026-07-02T04:00:04+00:00",
+      "tags": [
+        "macro",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-4759ef8f8d",
       "title": "MiCA-invoering veroorzaakt debat over winnaars in nieuwe regelgeving",
       "summary": "Europe's MiCA rollout sparks debate over who wins under new crypto rules",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-8361a1f0b5",
+      "id": "news-6-8361a1f0b5",
       "title": "Crédit Agricole lanceert EURXT-eurostablecoin",
       "summary": "French banking giant Crédit Agricole rolls out euro stablecoin, EURXT",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-ae478b437e",
+      "id": "news-7-ae478b437e",
       "title": "Bernstein ziet 203% stijgingspotentieel voor Circle ondanks OUSD-stablecoin",
       "summary": "Bernstein reaffirms Outperform on Circle with a $190 target after OUSD's launch sent CRCL stock down over 17%.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-4325f6e410",
+      "id": "news-8-4325f6e410",
       "title": "Europa herziet MiCA na verstrijken juli-deadline",
       "summary": "Europe is rewriting its landmark crypto rulebook MiCA as hard July 1 deadline passes",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.coindesk.com/policy/2026/06/30/europe-is-rewriting-its-landmark-crypto-rulebook-mica-as-hard-july-1-deadline-passes",
       "source_name": "CoinDesk",
       "published_at": "2026-07-01T12:29:17+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-e383a28368",
-      "title": "Laatste MiCA-goedkeuringen markeren einde EU-transitieperiode",
-      "summary": "A final wave of MiCA approvals expanded Europe's roster of licensed crypto firms as the transitional period came to a close.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/new-licenses-issued-eu-mica-grace-period-ends",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-01T12:17:54+00:00",
       "tags": [
         "crypto",
         "markets"
