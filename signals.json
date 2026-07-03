@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-03T10:00:20.962232+00:00",
+  "generated_at": "2026-07-03T11:00:22.964172+00:00",
   "signals": [
     {
       "id": "news-1-3b450d5180",
@@ -20,23 +20,7 @@
       ]
     },
     {
-      "id": "news-2-5a90737bff",
-      "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
-      "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-30T10:08:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-23fee21bfb",
+      "id": "news-2-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -50,6 +34,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-3-5a90737bff",
+      "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
+      "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-30T10:08:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
