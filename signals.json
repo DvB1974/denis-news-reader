@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-03T09:00:24.450421+00:00",
+  "generated_at": "2026-07-03T10:00:20.962232+00:00",
   "signals": [
     {
-      "id": "news-1-5a90737bff",
+      "id": "news-1-3b450d5180",
+      "title": "Tokenisering kan financiën versnellen, maar ook kwetsbaarder maken, aldus IMF",
+      "summary": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/markets/2026/07/03/tokenization-could-make-finance-faster-but-also-more-susceptible-to-shocks-imf-says",
+      "source_name": "CoinDesk",
+      "published_at": "2026-07-03T09:06:29+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-5a90737bff",
       "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
       "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
       "type": "news",
@@ -20,7 +36,7 @@
       ]
     },
     {
-      "id": "news-2-23fee21bfb",
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -37,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-6df01751a1",
+      "id": "news-4-6df01751a1",
       "title": "IMF: tokenisering kan financiële afwikkeling en stabiliteit transformeren",
       "summary": "The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-46d49e5a0c",
+      "id": "news-5-46d49e5a0c",
       "title": "Binance: MiCA moet worden beoordeeld op verleende licenties, niet op uitgesloten partijen",
       "summary": "Binance says MiCA should be judged by who it licenses, not who it excludes",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-833329bda6",
+      "id": "news-6-833329bda6",
       "title": "Securitize noteert geverifieerde aandelen op Solana en Avalanche",
       "summary": "Securitize has issued tokenized versions of its shares on Solana and Avalanche, marking the first time a newly public company has done so on its debut.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-c8e657047b",
+      "id": "news-7-c8e657047b",
       "title": "Aave lanceert V3-lenen en GHO-stablecoin op Monad",
       "summary": "Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in first-year incentives to build liquidity and adoption.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-28e569323b",
+      "id": "news-8-28e569323b",
       "title": "Drie jaar na invoering MiCA: Europa herziet crypto-regelgeving",
       "summary": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
       "type": "news",
@@ -114,23 +130,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-70cbb389eb",
-      "title": "EBA-onderzoek vindt hoge naleving Pillar 3-openbaarmakingen, maar vraagt meer uniformiteit",
-      "summary": "The European Banking Authority (EBA) today published the results of its targeted Peer Review on the supervision of compliance with the Capital Requirements Regulation (CRR) and the Bank Recovery and Resolution Directive (BRRD) provisions aiming to facilitate market discipline through bank disclosure (“Pillar 3”). The Review found that the competent authorities under review have fully or largely embedded Pillar 3 requirements into their supervisory frameworks and that their practices are efficient overall. Consistency across jurisdictions could, however, improve.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/targeted-eba-peer-review-finds-high-compliance-pillar-3-disclosures-calls-greater-consistency",
-      "source_name": "EBA",
-      "published_at": "2026-07-02T10:26:46+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     }
   ]
