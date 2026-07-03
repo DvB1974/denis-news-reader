@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-03T11:00:22.964172+00:00",
+  "generated_at": "2026-07-03T12:00:24.432980+00:00",
   "signals": [
     {
       "id": "news-1-3b450d5180",
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-28e569323b",
-      "title": "Drie jaar na invoering MiCA: Europa herziet crypto-regelgeving",
-      "summary": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
+      "id": "news-8-f7e98083f1",
+      "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
+      "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/07/02/three-years-after-mica-became-law-europe-s-crypto-framework-is-undergoing-a-rethink",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-02T11:55:03+00:00",
+      "url": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-24T07:17:46+00:00",
       "tags": [
         "crypto",
         "markets"
