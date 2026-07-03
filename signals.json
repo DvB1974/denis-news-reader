@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-03T14:00:30.174818+00:00",
+  "generated_at": "2026-07-03T15:00:26.351980+00:00",
   "signals": [
     {
       "id": "news-1-246b3c3fd9",
@@ -53,7 +53,39 @@
       ]
     },
     {
-      "id": "news-4-be4f73e238",
+      "id": "news-4-5f27af38f4",
+      "title": "Samsung en Dunamu zeggen zonder overleg vermeld als OUSD-stablecoin-consortiumleden.",
+      "summary": "Samsung and Dunamu are among Korean firms saying they were listed as members of the OUSD stablecoin consortium without prior consultation.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/post/407147/samsung-dunamu-say-they-were-listed-as-ousd-stablecoin-consortium-members-without-official-consultation-report",
+      "source_name": "The Block",
+      "published_at": "2026-07-03T14:32:14+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-191ae89c50",
+      "title": "EU-regelgeving MiCA: handhaving wordt lastig bij afbouw ongeautoriseerde bedrijven",
+      "summary": "Lawyers and industry executives expect EU regulators to enforce MiCA differently as unauthorized crypto companies are required to wind down operations.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-03T13:59:16+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-be4f73e238",
       "title": "ESMA voegt 37 cryptoserviceproviders toe aan MiCA-register",
       "summary": "ESMA publishes its first post-deadline MiCA register update, adding 37 crypto-asset service providers, including Standard Chartered and FalconX.",
       "type": "news",
@@ -69,7 +101,7 @@
       ]
     },
     {
-      "id": "news-5-5a90737bff",
+      "id": "news-7-5a90737bff",
       "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
       "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-6df01751a1",
+      "id": "news-8-6df01751a1",
       "title": "IMF: tokenisering kan financiële afwikkeling en stabiliteit transformeren",
       "summary": "The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.",
       "type": "news",
@@ -95,38 +127,6 @@
       "url": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-02T19:17:32+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-46d49e5a0c",
-      "title": "Binance: MiCA moet worden beoordeeld op verleende licenties, niet op uitgesloten partijen",
-      "summary": "Binance says MiCA should be judged by who it licenses, not who it excludes",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/07/03/binance-says-mica-should-be-judged-by-who-it-licenses-not-who-it-excludes",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-03T06:30:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-833329bda6",
-      "title": "Securitize noteert geverifieerde aandelen op Solana en Avalanche",
-      "summary": "Securitize has issued tokenized versions of its shares on Solana and Avalanche, marking the first time a newly public company has done so on its debut.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/securitize-gains-on-nyse-debut-with-tokenized-stock-live-on-solana-avalanche",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-03T02:35:34+00:00",
       "tags": [
         "crypto",
         "markets"
