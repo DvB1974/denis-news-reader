@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-03T06:00:24.309212+00:00",
+  "generated_at": "2026-07-03T07:00:20.704466+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-833329bda6",
+      "id": "news-4-46d49e5a0c",
+      "title": "Binance: MiCA moet worden beoordeeld op verleende licenties, niet op uitgesloten partijen",
+      "summary": "Binance says MiCA should be judged by who it licenses, not who it excludes",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/policy/2026/07/03/binance-says-mica-should-be-judged-by-who-it-licenses-not-who-it-excludes",
+      "source_name": "CoinDesk",
+      "published_at": "2026-07-03T06:30:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-833329bda6",
       "title": "Securitize noteert geverifieerde aandelen op Solana en Avalanche",
       "summary": "Securitize has issued tokenized versions of its shares on Solana and Avalanche, marking the first time a newly public company has done so on its debut.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-c8e657047b",
+      "id": "news-6-c8e657047b",
       "title": "Aave lanceert V3-lenen en GHO-stablecoin op Monad",
       "summary": "Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in first-year incentives to build liquidity and adoption.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-28e569323b",
+      "id": "news-7-28e569323b",
       "title": "Drie jaar na invoering MiCA: Europa herziet crypto-regelgeving",
       "summary": "Three years after MiCA became law, Europe's crypto framework is undergoing a rethink",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-70cbb389eb",
+      "id": "news-8-70cbb389eb",
       "title": "EBA-onderzoek vindt hoge naleving Pillar 3-openbaarmakingen, maar vraagt meer uniformiteit",
       "summary": "The European Banking Authority (EBA) today published the results of its targeted Peer Review on the supervision of compliance with the Capital Requirements Regulation (CRR) and the Bank Recovery and Resolution Directive (BRRD) provisions aiming to facilitate market discipline through bank disclosure (“Pillar 3”). The Review found that the competent authorities under review have fully or largely embedded Pillar 3 requirements into their supervisory frameworks and that their practices are efficient overall. Consistency across jurisdictions could, however, improve.",
       "type": "regulation",
@@ -115,22 +131,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-e004e2781b",
-      "title": "Aanbod rentemende stablecoins daalt 15% in Q2 na groei van drie jaar",
-      "summary": "Yield-bearing stablecoin supply fell 15% in Q2 as sUSDe and sUSDS contracted, while Treasury-backed products including BUIDL, USYC and USDY continued to grow.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/yield-bearing-stablecoins-lose-3-5-billion-q2",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-02T10:23:33+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
