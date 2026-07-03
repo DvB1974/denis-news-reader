@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-03T07:00:20.704466+00:00",
+  "generated_at": "2026-07-03T08:00:21.780303+00:00",
   "signals": [
     {
       "id": "news-1-5a90737bff",
@@ -20,23 +20,7 @@
       ]
     },
     {
-      "id": "news-2-6df01751a1",
-      "title": "IMF: tokenisering kan financiële afwikkeling en stabiliteit transformeren",
-      "summary": "The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-02T19:17:32+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-23fee21bfb",
+      "id": "news-2-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -50,6 +34,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-3-6df01751a1",
+      "title": "IMF: tokenisering kan financiële afwikkeling en stabiliteit transformeren",
+      "summary": "The global lender says blockchain-based finance could streamline markets but warns that fragmented standards and regulations may create new systemic risks.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/imf-tokenization-financial-markets-settlement-risks",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-02T19:17:32+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
