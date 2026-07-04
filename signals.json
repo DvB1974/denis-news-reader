@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-04T12:00:27.309474+00:00",
+  "generated_at": "2026-07-04T13:00:24.927411+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -101,23 +101,7 @@
       ]
     },
     {
-      "id": "news-7-be4f73e238",
-      "title": "ESMA voegt 37 cryptoserviceproviders toe aan MiCA-register",
-      "summary": "ESMA publishes its first post-deadline MiCA register update, adding 37 crypto-asset service providers, including Standard Chartered and FalconX.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/esma-mica-register-new-casps-stanchart-update",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-03T12:02:41+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-5a90737bff",
+      "id": "news-7-5a90737bff",
       "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
       "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
       "type": "news",
@@ -127,6 +111,22 @@
       "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
       "source_name": "CoinDesk",
       "published_at": "2026-06-30T10:08:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-f7e98083f1",
+      "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
+      "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-24T07:17:46+00:00",
       "tags": [
         "crypto",
         "markets"
