@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-04T13:00:24.927411+00:00",
+  "generated_at": "2026-07-04T14:00:17.069334+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -85,23 +85,7 @@
       ]
     },
     {
-      "id": "news-6-191ae89c50",
-      "title": "EU-regelgeving MiCA: handhaving wordt lastig bij afbouw ongeautoriseerde bedrijven",
-      "summary": "Lawyers and industry executives expect EU regulators to enforce MiCA differently as unauthorized crypto companies are required to wind down operations.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-03T13:59:16+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-5a90737bff",
+      "id": "news-6-5a90737bff",
       "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
       "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
       "type": "news",
@@ -117,7 +101,7 @@
       ]
     },
     {
-      "id": "news-8-f7e98083f1",
+      "id": "news-7-f7e98083f1",
       "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
       "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
       "type": "news",
@@ -130,6 +114,23 @@
       "tags": [
         "crypto",
         "markets"
+      ]
+    },
+    {
+      "id": "news-8-f05dde4a6d",
+      "title": "EBA en New York ondertekenen akkoord voor toezicht stablecoins",
+      "summary": "​The European Banking Authority (EBA) has signed a Memorandum of Understanding (MoU) with the New York State Department of Financial Services (NYDFS) under the Markets in Crypto-Assets Regulation (MiCA). The agreement aims to strengthen cooperation in the supervision of entities engaged in cross-border stablecoin activities.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-and-new-york-state-department-financial-services-sign-memorandum-understanding-foster",
+      "source_name": "EBA",
+      "published_at": "2026-06-02T09:28:21+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
       ]
     }
   ]
