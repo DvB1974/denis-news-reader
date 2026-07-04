@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-04T19:00:24.805148+00:00",
+  "generated_at": "2026-07-04T20:00:26.279206+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -21,7 +21,23 @@
       ]
     },
     {
-      "id": "news-2-246b3c3fd9",
+      "id": "news-2-e5d906ff6e",
+      "title": "Kraken stelt traders in staat gettokeniseerde aandelen als onderpand te gebruiken",
+      "summary": "Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-04T19:37:11+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-246b3c3fd9",
       "title": "IMF: tokenisering kan financieel systeem versterken of fragmenteren",
       "summary": "The IMF's Tobias Adrian said risks could shift from banks toward market infrastructure providers and smart contracts as tokenization expands.",
       "type": "news",
@@ -37,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-3b450d5180",
+      "id": "news-4-3b450d5180",
       "title": "Tokenisering kan financiën versnellen, maar ook kwetsbaarder maken, aldus IMF",
       "summary": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says",
       "type": "news",
@@ -47,22 +63,6 @@
       "url": "https://www.coindesk.com/markets/2026/07/03/tokenization-could-make-finance-faster-but-also-more-susceptible-to-shocks-imf-says",
       "source_name": "CoinDesk",
       "published_at": "2026-07-03T09:06:29+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-3ea14fcc06",
-      "title": "Russische stablecoin claimt miljarden transacties, onderzoekers twijfelen eraan",
-      "summary": "This sanctioned Russian stablecoin claims it processes billions, but blockchain analysts disagree",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/07/03/this-sanctioned-russian-stablecoin-claims-it-processes-billions-but-blockchain-analysts-disagree",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-03T19:18:59+00:00",
       "tags": [
         "crypto",
         "markets"
