@@ -1,10 +1,27 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-03T20:00:25.929054+00:00",
+  "generated_at": "2026-07-04T05:00:36.098657+00:00",
   "signals": [
     {
-      "id": "news-1-246b3c3fd9",
+      "id": "news-1-23fee21bfb",
+      "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
+      "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
+      "source_name": "EBA",
+      "published_at": "2026-06-26T13:27:24+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-2-246b3c3fd9",
       "title": "IMF: tokenisering kan financieel systeem versterken of fragmenteren",
       "summary": "The IMF's Tobias Adrian said risks could shift from banks toward market infrastructure providers and smart contracts as tokenization expands.",
       "type": "news",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "news-2-3b450d5180",
+      "id": "news-3-3b450d5180",
       "title": "Tokenisering kan financiën versnellen, maar ook kwetsbaarder maken, aldus IMF",
       "summary": "Tokenization could make finance faster, but also more susceptible to shocks, IMF says",
       "type": "news",
@@ -33,23 +50,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-3-23fee21bfb",
-      "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
-      "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
-      "source_name": "EBA",
-      "published_at": "2026-06-26T13:27:24+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     },
     {
