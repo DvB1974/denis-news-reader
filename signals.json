@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-05T14:00:26.556390+00:00",
+  "generated_at": "2026-07-05T15:00:23.343451+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -21,7 +21,23 @@
       ]
     },
     {
-      "id": "news-2-eb700c73bc",
+      "id": "news-2-238c5dd5d2",
+      "title": "Banken onderzoeken hoe stablecoins in financieel systeem passen",
+      "summary": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+      "source_name": "CoinDesk",
+      "published_at": "2026-07-05T14:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-eb700c73bc",
       "title": "Onderpand, niet rendement, bepaalt toekomst stablecoins",
       "summary": "Collateral, not yield, will decide which stablecoins win",
       "type": "news",
@@ -37,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-319113d0dc",
+      "id": "news-4-319113d0dc",
       "title": "Canada beslag leggen op 7 ton drugs en fentanylchemicaliën in onderzoek",
       "summary": "Canada Seizes 7 Tons Of Drugs, Fentanyl Chemicals, And Signal Jammers In China-Linked Narco Bust \n\n                Authored by The Bureau's Sam Cooper   (emphasis our own),  \n\n A Burnaby RCMP investigation that began with a routine traffic stop last summer has ended in one of the  largest drug-chemical seizures in British Columbia’s history  — 6,765 kilograms of finished narcotics and fentanyl-production chemicals pulled from three homes and two shipping containers in Richmond, alongside tactical shotguns, cash, contraband cigarettes — and a multi-antenna device consistent with the  signal jammers used to defeat electronic surveillance . \n\n  The Bureau  assesses that a  seizure of this magnitude , staged in residential properties and sea can containers in Richmond — the city that court records and  Canada’s largest money-laundering investigation  have established as a  central node of Chinese transnational organized crime  — is consistent with the industrial-scale flow of precursor che",
       "type": "macro",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-5a90737bff",
+      "id": "news-5-5a90737bff",
       "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
       "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-f7e98083f1",
+      "id": "news-6-f7e98083f1",
       "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
       "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-f05dde4a6d",
+      "id": "news-7-f05dde4a6d",
       "title": "EBA en New York ondertekenen akkoord voor toezicht stablecoins",
       "summary": "​The European Banking Authority (EBA) has signed a Memorandum of Understanding (MoU) with the New York State Department of Financial Services (NYDFS) under the Markets in Crypto-Assets Regulation (MiCA). The agreement aims to strengthen cooperation in the supervision of entities engaged in cross-border stablecoin activities.",
       "type": "regulation",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-36f4c512e1",
+      "id": "news-8-36f4c512e1",
       "title": "EBA publiceert bijgewerkte lijst van systeemrelevante instellingen in EU",
       "summary": "​The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States.",
       "type": "regulation",
@@ -116,22 +132,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-69c013e975",
-      "title": "Tokenisering mogelijk volgende toepassing voor gepersonaliseerde portefeuilles",
-      "summary": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-      "type": "news",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-04T20:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
