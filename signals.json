@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-05T07:00:17.407922+00:00",
+  "generated_at": "2026-07-05T08:00:16.212503+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -37,39 +37,7 @@
       ]
     },
     {
-      "id": "news-3-69c013e975",
-      "title": "Tokenisering mogelijk volgende toepassing voor gepersonaliseerde portefeuilles",
-      "summary": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
-      "type": "news",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-04T20:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-e5d906ff6e",
-      "title": "Kraken stelt traders in staat gettokeniseerde aandelen als onderpand te gebruiken",
-      "summary": "Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-04T19:37:11+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-5a90737bff",
+      "id": "news-3-5a90737bff",
       "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
       "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
       "type": "news",
@@ -85,7 +53,7 @@
       ]
     },
     {
-      "id": "news-6-f7e98083f1",
+      "id": "news-4-f7e98083f1",
       "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
       "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
       "type": "news",
@@ -101,7 +69,7 @@
       ]
     },
     {
-      "id": "news-7-f05dde4a6d",
+      "id": "news-5-f05dde4a6d",
       "title": "EBA en New York ondertekenen akkoord voor toezicht stablecoins",
       "summary": "​The European Banking Authority (EBA) has signed a Memorandum of Understanding (MoU) with the New York State Department of Financial Services (NYDFS) under the Markets in Crypto-Assets Regulation (MiCA). The agreement aims to strengthen cooperation in the supervision of entities engaged in cross-border stablecoin activities.",
       "type": "regulation",
@@ -118,7 +86,7 @@
       ]
     },
     {
-      "id": "news-8-36f4c512e1",
+      "id": "news-6-36f4c512e1",
       "title": "EBA publiceert bijgewerkte lijst van systeemrelevante instellingen in EU",
       "summary": "​The European Banking Authority (EBA) today updated the list of other systemically important institutions (O-SIIs) in the EU, based on notifications received from national authorities during 2025. The publication aims to increase transparency and provides a consistent overview of institutions identified as systemically important across Member States.",
       "type": "regulation",
@@ -132,6 +100,38 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-7-69c013e975",
+      "title": "Tokenisering mogelijk volgende toepassing voor gepersonaliseerde portefeuilles",
+      "summary": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+      "type": "news",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
+      "source_name": "CoinDesk",
+      "published_at": "2026-07-04T20:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-e5d906ff6e",
+      "title": "Kraken stelt traders in staat gettokeniseerde aandelen als onderpand te gebruiken",
+      "summary": "Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-04T19:37:11+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     }
   ]
