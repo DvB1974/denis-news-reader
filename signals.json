@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-06T12:00:31.371829+00:00",
+  "generated_at": "2026-07-06T13:00:45.952578+00:00",
   "signals": [
     {
       "id": "news-1-23fee21bfb",
@@ -21,7 +21,23 @@
       ]
     },
     {
-      "id": "news-2-47f8d93499",
+      "id": "news-2-9c523fff59",
+      "title": "FSMA waarschuwt voor zes ongeautoriseerde cryptoproviders na MiCA-deadline",
+      "summary": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-06T12:15:20+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-47f8d93499",
       "title": "Ripple krijgt MiCA CASP-vergunning voor cryptodiensten in EER-landen",
       "summary": "Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.",
       "type": "news",
@@ -37,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-d4b814eac4",
+      "id": "news-4-d4b814eac4",
       "title": "Stablecoin-transactievolume bereikt $1,79 biljoen in juni",
       "summary": "Stablecoins are maturing and are positioned for even greater reach as the market evolves, said crypto researcher Nick Ruck.",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-238c5dd5d2",
+      "id": "news-5-238c5dd5d2",
       "title": "Banken onderzoeken hoe stablecoins in financieel systeem passen",
       "summary": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
       "type": "news",
@@ -63,22 +79,6 @@
       "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
       "source_name": "CoinDesk",
       "published_at": "2026-07-05T14:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-eb700c73bc",
-      "title": "Onderpand, niet rendement, bepaalt toekomst stablecoins",
-      "summary": "Collateral, not yield, will decide which stablecoins win",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-05T13:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
