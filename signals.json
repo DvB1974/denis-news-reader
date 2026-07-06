@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-06T16:00:32.060792+00:00",
+  "generated_at": "2026-07-06T17:00:38.995578+00:00",
   "signals": [
     {
       "id": "news-1-60991b36e0",
@@ -38,7 +38,23 @@
       ]
     },
     {
-      "id": "news-3-9c523fff59",
+      "id": "news-3-19b547342f",
+      "title": "USDC-volumes overtreffen USDT volgens Visa-gegevens",
+      "summary": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
+      "source_name": "CoinDesk",
+      "published_at": "2026-07-06T16:00:15+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-9c523fff59",
       "title": "FSMA waarschuwt voor zes ongeautoriseerde cryptoproviders na MiCA-deadline",
       "summary": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
       "type": "news",
@@ -54,7 +70,7 @@
       ]
     },
     {
-      "id": "news-4-47f8d93499",
+      "id": "news-5-47f8d93499",
       "title": "Ripple krijgt MiCA CASP-vergunning voor cryptodiensten in EER-landen",
       "summary": "Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.",
       "type": "news",
@@ -70,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-d4b814eac4",
+      "id": "news-6-d4b814eac4",
       "title": "Stablecoin-transactievolume bereikt $1,79 biljoen in juni",
       "summary": "Stablecoins are maturing and are positioned for even greater reach as the market evolves, said crypto researcher Nick Ruck.",
       "type": "news",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-7617d2c047",
+      "id": "news-7-7617d2c047",
       "title": "FCA onderzoekt rol van AI-agenten en gedigitaliseerde financiële activa",
       "summary": "The FCA’s vision for agentic AI points toward a financial system where programmable money and tokenized assets could play a much larger role.",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-5a90737bff",
+      "id": "news-8-5a90737bff",
       "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
       "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
       "source_name": "CoinDesk",
       "published_at": "2026-06-30T10:08:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-f7e98083f1",
-      "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
-      "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-24T07:17:46+00:00",
       "tags": [
         "crypto",
         "markets"
