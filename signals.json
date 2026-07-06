@@ -1,10 +1,27 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-06T13:00:45.952578+00:00",
+  "generated_at": "2026-07-06T14:00:43.917071+00:00",
   "signals": [
     {
-      "id": "news-1-23fee21bfb",
+      "id": "news-1-60991b36e0",
+      "title": "EBA publiceert verliesgegevens onroerend goed 2025 volgens CRR",
+      "summary": "​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting submitted by institutions and are presented by national immovable property market.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
+      "source_name": "EBA",
+      "published_at": "2026-07-06T12:22:58+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-2-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -21,7 +38,7 @@
       ]
     },
     {
-      "id": "news-2-9c523fff59",
+      "id": "news-3-9c523fff59",
       "title": "FSMA waarschuwt voor zes ongeautoriseerde cryptoproviders na MiCA-deadline",
       "summary": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
       "type": "news",
@@ -37,7 +54,7 @@
       ]
     },
     {
-      "id": "news-3-47f8d93499",
+      "id": "news-4-47f8d93499",
       "title": "Ripple krijgt MiCA CASP-vergunning voor cryptodiensten in EER-landen",
       "summary": "Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.",
       "type": "news",
@@ -53,7 +70,7 @@
       ]
     },
     {
-      "id": "news-4-d4b814eac4",
+      "id": "news-5-d4b814eac4",
       "title": "Stablecoin-transactievolume bereikt $1,79 biljoen in juni",
       "summary": "Stablecoins are maturing and are positioned for even greater reach as the market evolves, said crypto researcher Nick Ruck.",
       "type": "news",
@@ -69,23 +86,23 @@
       ]
     },
     {
-      "id": "news-5-238c5dd5d2",
-      "title": "Banken onderzoeken hoe stablecoins in financieel systeem passen",
-      "summary": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "id": "news-6-7617d2c047",
+      "title": "FCA onderzoekt rol van AI-agenten en gedigitaliseerde financiële activa",
+      "summary": "The FCA’s vision for agentic AI points toward a financial system where programmable money and tokenized assets could play a much larger role.",
       "type": "news",
       "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-05T14:00:00+00:00",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-06T13:50:06+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-6-5a90737bff",
+      "id": "news-7-5a90737bff",
       "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
       "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
       "type": "news",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-f7e98083f1",
+      "id": "news-8-f7e98083f1",
       "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
       "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
       "type": "news",
@@ -114,23 +131,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-f05dde4a6d",
-      "title": "EBA en New York ondertekenen akkoord voor toezicht stablecoins",
-      "summary": "​The European Banking Authority (EBA) has signed a Memorandum of Understanding (MoU) with the New York State Department of Financial Services (NYDFS) under the Markets in Crypto-Assets Regulation (MiCA). The agreement aims to strengthen cooperation in the supervision of entities engaged in cross-border stablecoin activities.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-and-new-york-state-department-financial-services-sign-memorandum-understanding-foster",
-      "source_name": "EBA",
-      "published_at": "2026-06-02T09:28:21+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     }
   ]
