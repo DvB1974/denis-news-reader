@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-06T19:00:28.785490+00:00",
+  "generated_at": "2026-07-06T20:00:28.731031+00:00",
   "signals": [
     {
       "id": "news-1-60991b36e0",
@@ -38,7 +38,23 @@
       ]
     },
     {
-      "id": "news-3-19b547342f",
+      "id": "news-3-9b0330840a",
+      "title": "Ripple ontvangt volledige MiCA-vergunning voor cryptoservices in Europa",
+      "summary": "The Luxembourg approval completes the company's MiCA licensing process, enabling it to provide regulated crypto-asset services across the European Economic Area.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/ripple-secures-full-mica-license-for-crypto-services-across-europe",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-06T19:29:13+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-19b547342f",
       "title": "USDC-volumes overtreffen USDT volgens Visa-gegevens",
       "summary": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
       "type": "news",
@@ -54,7 +70,7 @@
       ]
     },
     {
-      "id": "news-4-9c523fff59",
+      "id": "news-5-9c523fff59",
       "title": "FSMA waarschuwt voor zes ongeautoriseerde cryptoproviders na MiCA-deadline",
       "summary": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
       "type": "news",
@@ -70,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-47f8d93499",
+      "id": "news-6-47f8d93499",
       "title": "Ripple krijgt MiCA CASP-vergunning voor cryptodiensten in EER-landen",
       "summary": "Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.",
       "type": "news",
@@ -86,7 +102,23 @@
       ]
     },
     {
-      "id": "news-6-d4b814eac4",
+      "id": "news-7-ae181c6403",
+      "title": "Paradigm leidt seed-ronde van 5,5 miljoen dollar voor M1X Global",
+      "summary": "M1X Global, which worked with the Republic of the Marshall Islands on the issuance of the onchain sovereign bond USDM1, has raised funds.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt",
+      "source_name": "The Block",
+      "published_at": "2026-07-06T19:07:24+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-d4b814eac4",
       "title": "Stablecoin-transactievolume bereikt $1,79 biljoen in juni",
       "summary": "Stablecoins are maturing and are positioned for even greater reach as the market evolves, said crypto researcher Nick Ruck.",
       "type": "news",
@@ -96,38 +128,6 @@
       "url": "https://cointelegraph.com/news/stablecoin-transaction-volume-hits-record-179-trillion-in-june-visa",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-06T05:44:54+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-7617d2c047",
-      "title": "FCA onderzoekt rol van AI-agenten en gedigitaliseerde financiële activa",
-      "summary": "The FCA’s vision for agentic AI points toward a financial system where programmable money and tokenized assets could play a much larger role.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-06T13:50:06+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-5a90737bff",
-      "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
-      "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-30T10:08:48+00:00",
       "tags": [
         "crypto",
         "markets"
