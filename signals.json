@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-07T18:00:38.688552+00:00",
+  "generated_at": "2026-07-07T19:00:32.433359+00:00",
   "signals": [
     {
       "id": "news-1-a6f2df08c8",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-abc46eb9fb",
+      "id": "news-4-7121c51486",
+      "title": "USDT domineert betalingen, USDC in DeFi volgens Dune-data",
+      "summary": "Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin while Circle's USDC powers DeFi, highlighting how blockchain choice shapes stablecoin use.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-07T18:05:08+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-abc46eb9fb",
       "title": "Voormalig investeringshoofd Tether wil deel van aandelen verkopen",
       "summary": "Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-41c92e9909",
+      "id": "news-6-41c92e9909",
       "title": "EBA publiceert definitieve richtlijnen voor autorisatie derde-landen filialen",
       "summary": "​The European Banking Authority (EBA) today published its final Guidelines on authorisation of third-country credit institutions to set-up a third-country branch (TCB) in a Member State. These Guidelines were mandated by the Capital Requirements Directive (CRD6) which introduced a new regime for TCBs and contribute to the harmonised access to the EU market for banking services.",
       "type": "regulation",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-e2cacb303a",
+      "id": "news-7-e2cacb303a",
       "title": "EU-parlement roept op tot evaluatie DeFi, staking en NFT's na MiCA-overgang",
       "summary": "The European Parliament adopted a digital assets report calling for further assessment of DeFi, staking, crypto lending and NFTs after MiCA’s transition period ended.",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-60991b36e0",
+      "id": "news-8-60991b36e0",
       "title": "EBA publiceert verliesgegevens onroerend goed 2025 volgens CRR",
       "summary": "​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting submitted by institutions and are presented by national immovable property market.",
       "type": "regulation",
@@ -112,23 +128,6 @@
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
       "source_name": "EBA",
       "published_at": "2026-07-06T12:22:58+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-f6584d5679",
-      "title": "ESAs steunen ESRB-waarschuwing over systeemrisico's van grensverleggende AI-modellen",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and support today’s warning from European Systemic Risk Board (ESRB) on the systemic cyber risks posed by frontier AI models.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-support-esrb-warning-systemic-cyber-risks-frontier-ai-models",
-      "source_name": "EBA",
-      "published_at": "2026-07-07T10:00:00+00:00",
       "tags": [
         "regulation",
         "EU",
