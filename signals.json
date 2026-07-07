@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-07T09:00:19.473440+00:00",
+  "generated_at": "2026-07-07T10:00:25.348510+00:00",
   "signals": [
     {
-      "id": "news-1-60991b36e0",
+      "id": "news-1-a6f2df08c8",
+      "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
+      "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-07T09:08:45+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-60991b36e0",
       "title": "EBA publiceert verliesgegevens onroerend goed 2025 volgens CRR",
       "summary": "​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting submitted by institutions and are presented by national immovable property market.",
       "type": "regulation",
@@ -21,7 +37,7 @@
       ]
     },
     {
-      "id": "news-2-23fee21bfb",
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -38,7 +54,7 @@
       ]
     },
     {
-      "id": "news-3-76db7c8b52",
+      "id": "news-4-76db7c8b52",
       "title": "Voormalig Tether CIO wil aandeel in stablecoin-uitgever verkopen",
       "summary": "The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.",
       "type": "news",
@@ -54,7 +70,7 @@
       ]
     },
     {
-      "id": "news-4-9b0330840a",
+      "id": "news-5-9b0330840a",
       "title": "Ripple ontvangt volledige MiCA-vergunning voor cryptoservices in Europa",
       "summary": "The Luxembourg approval completes the company's MiCA licensing process, enabling it to provide regulated crypto-asset services across the European Economic Area.",
       "type": "news",
@@ -70,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-19b547342f",
+      "id": "news-6-19b547342f",
       "title": "USDC-volumes overtreffen USDT volgens Visa-gegevens",
       "summary": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
       "type": "news",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-9c523fff59",
+      "id": "news-7-9c523fff59",
       "title": "FSMA waarschuwt voor zes ongeautoriseerde cryptoproviders na MiCA-deadline",
       "summary": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
       "type": "news",
@@ -96,22 +112,6 @@
       "url": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-06T12:15:20+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-47f8d93499",
-      "title": "Ripple krijgt MiCA CASP-vergunning voor cryptodiensten in EER-landen",
-      "summary": "Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.theblock.co/post/407207/ripple-secures-full-mica-casp-authorization-for-crypto-services-across-30-eea-countries",
-      "source_name": "The Block",
-      "published_at": "2026-07-06T09:30:56+00:00",
       "tags": [
         "crypto",
         "markets"
