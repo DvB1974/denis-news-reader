@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-07T10:00:25.348510+00:00",
+  "generated_at": "2026-07-07T11:00:29.385280+00:00",
   "signals": [
     {
       "id": "news-1-a6f2df08c8",
@@ -54,7 +54,24 @@
       ]
     },
     {
-      "id": "news-4-76db7c8b52",
+      "id": "news-4-f6584d5679",
+      "title": "ESAs steunen ESRB-waarschuwing over systeemrisico's van grensverleggende AI-modellen",
+      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and support today’s warning from European Systemic Risk Board (ESRB) on the systemic cyber risks posed by frontier AI models.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-support-esrb-warning-systemic-cyber-risks-frontier-ai-models",
+      "source_name": "EBA",
+      "published_at": "2026-07-07T10:00:00+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-76db7c8b52",
       "title": "Voormalig Tether CIO wil aandeel in stablecoin-uitgever verkopen",
       "summary": "The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.",
       "type": "news",
@@ -70,7 +87,7 @@
       ]
     },
     {
-      "id": "news-5-9b0330840a",
+      "id": "news-6-9b0330840a",
       "title": "Ripple ontvangt volledige MiCA-vergunning voor cryptoservices in Europa",
       "summary": "The Luxembourg approval completes the company's MiCA licensing process, enabling it to provide regulated crypto-asset services across the European Economic Area.",
       "type": "news",
@@ -86,7 +103,7 @@
       ]
     },
     {
-      "id": "news-6-19b547342f",
+      "id": "news-7-19b547342f",
       "title": "USDC-volumes overtreffen USDT volgens Visa-gegevens",
       "summary": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
       "type": "news",
@@ -102,7 +119,7 @@
       ]
     },
     {
-      "id": "news-7-9c523fff59",
+      "id": "news-8-9c523fff59",
       "title": "FSMA waarschuwt voor zes ongeautoriseerde cryptoproviders na MiCA-deadline",
       "summary": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
       "type": "news",
@@ -112,22 +129,6 @@
       "url": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-06T12:15:20+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-5a90737bff",
-      "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
-      "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-30T10:08:48+00:00",
       "tags": [
         "crypto",
         "markets"
