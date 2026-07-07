@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-06T20:00:28.731031+00:00",
+  "generated_at": "2026-07-07T05:01:14.762839+00:00",
   "signals": [
     {
       "id": "news-1-60991b36e0",
@@ -38,7 +38,23 @@
       ]
     },
     {
-      "id": "news-3-9b0330840a",
+      "id": "news-3-76db7c8b52",
+      "title": "Voormalig Tether CIO wil aandeel in stablecoin-uitgever verkopen",
+      "summary": "The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-06T21:57:20+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-9b0330840a",
       "title": "Ripple ontvangt volledige MiCA-vergunning voor cryptoservices in Europa",
       "summary": "The Luxembourg approval completes the company's MiCA licensing process, enabling it to provide regulated crypto-asset services across the European Economic Area.",
       "type": "news",
@@ -54,7 +70,7 @@
       ]
     },
     {
-      "id": "news-4-19b547342f",
+      "id": "news-5-19b547342f",
       "title": "USDC-volumes overtreffen USDT volgens Visa-gegevens",
       "summary": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
       "type": "news",
@@ -70,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-9c523fff59",
+      "id": "news-6-9c523fff59",
       "title": "FSMA waarschuwt voor zes ongeautoriseerde cryptoproviders na MiCA-deadline",
       "summary": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
       "type": "news",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-47f8d93499",
+      "id": "news-7-47f8d93499",
       "title": "Ripple krijgt MiCA CASP-vergunning voor cryptodiensten in EER-landen",
       "summary": "Ripple secured full MiCA CASP authorization from Luxembourg for regulated crypto services across all 30 European Economic Area countries.",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-ae181c6403",
+      "id": "news-8-ae181c6403",
       "title": "Paradigm leidt seed-ronde van 5,5 miljoen dollar voor M1X Global",
       "summary": "M1X Global, which worked with the Republic of the Marshall Islands on the issuance of the onchain sovereign bond USDM1, has raised funds.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt",
       "source_name": "The Block",
       "published_at": "2026-07-06T19:07:24+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-d4b814eac4",
-      "title": "Stablecoin-transactievolume bereikt $1,79 biljoen in juni",
-      "summary": "Stablecoins are maturing and are positioned for even greater reach as the market evolves, said crypto researcher Nick Ruck.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/stablecoin-transaction-volume-hits-record-179-trillion-in-june-visa",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-06T05:44:54+00:00",
       "tags": [
         "crypto",
         "markets"
