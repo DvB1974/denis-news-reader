@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-07T15:00:49.971574+00:00",
+  "generated_at": "2026-07-07T16:00:23.595823+00:00",
   "signals": [
     {
       "id": "news-1-a6f2df08c8",
@@ -20,7 +20,23 @@
       ]
     },
     {
-      "id": "news-2-23fee21bfb",
+      "id": "news-2-0cc2b6e905",
+      "title": "Tether investeert 20 miljoen dollar in Mercado Bitcoin",
+      "summary": "Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom",
+      "source_name": "The Block",
+      "published_at": "2026-07-07T15:57:17+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -37,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-abc46eb9fb",
+      "id": "news-4-abc46eb9fb",
       "title": "Voormalig investeringshoofd Tether wil deel van aandelen verkopen",
       "summary": "Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-41c92e9909",
+      "id": "news-5-41c92e9909",
       "title": "EBA publiceert definitieve richtlijnen voor autorisatie derde-landen filialen",
       "summary": "​The European Banking Authority (EBA) today published its final Guidelines on authorisation of third-country credit institutions to set-up a third-country branch (TCB) in a Member State. These Guidelines were mandated by the Capital Requirements Directive (CRD6) which introduced a new regime for TCBs and contribute to the harmonised access to the EU market for banking services.",
       "type": "regulation",
@@ -70,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-e2cacb303a",
+      "id": "news-6-e2cacb303a",
       "title": "EU-parlement roept op tot evaluatie DeFi, staking en NFT's na MiCA-overgang",
       "summary": "The European Parliament adopted a digital assets report calling for further assessment of DeFi, staking, crypto lending and NFTs after MiCA’s transition period ended.",
       "type": "news",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-60991b36e0",
+      "id": "news-7-60991b36e0",
       "title": "EBA publiceert verliesgegevens onroerend goed 2025 volgens CRR",
       "summary": "​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting submitted by institutions and are presented by national immovable property market.",
       "type": "regulation",
@@ -103,7 +119,7 @@
       ]
     },
     {
-      "id": "news-7-f6584d5679",
+      "id": "news-8-f6584d5679",
       "title": "ESAs steunen ESRB-waarschuwing over systeemrisico's van grensverleggende AI-modellen",
       "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and support today’s warning from European Systemic Risk Board (ESRB) on the systemic cyber risks posed by frontier AI models.",
       "type": "regulation",
@@ -117,22 +133,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-76db7c8b52",
-      "title": "Voormalig Tether CIO wil aandeel in stablecoin-uitgever verkopen",
-      "summary": "The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-06T21:57:20+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
