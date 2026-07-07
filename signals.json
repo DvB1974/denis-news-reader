@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-07T12:00:32.234368+00:00",
+  "generated_at": "2026-07-07T13:00:30.280103+00:00",
   "signals": [
     {
       "id": "news-1-a6f2df08c8",
@@ -20,24 +20,7 @@
       ]
     },
     {
-      "id": "news-2-60991b36e0",
-      "title": "EBA publiceert verliesgegevens onroerend goed 2025 volgens CRR",
-      "summary": "​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting submitted by institutions and are presented by national immovable property market.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
-      "source_name": "EBA",
-      "published_at": "2026-07-06T12:22:58+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
-      ]
-    },
-    {
-      "id": "news-3-23fee21bfb",
+      "id": "news-2-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -54,7 +37,40 @@
       ]
     },
     {
-      "id": "news-4-f6584d5679",
+      "id": "news-3-e2cacb303a",
+      "title": "EU-parlement roept op tot evaluatie DeFi, staking en NFT's na MiCA-overgang",
+      "summary": "The European Parliament adopted a digital assets report calling for further assessment of DeFi, staking, crypto lending and NFTs after MiCA’s transition period ended.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/eu-parliament-digital-assets-policy-mica-transition",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-07T12:36:45+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-60991b36e0",
+      "title": "EBA publiceert verliesgegevens onroerend goed 2025 volgens CRR",
+      "summary": "​The European Banking Authority (EBA) today published its annual dataset on losses and exposures for residential and commercial immovable property across the European Union and European Economic Area for 2025, in line with Article 430a(3) of the Capital Requirements Regulation (CRR). The publication provides a centralised and harmonised source of data on losses and exposures relating to residential and commercial immovable property across the EU/EEA. The data are drawn from supervisory reporting submitted by institutions and are presented by national immovable property market.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-2025-loss-data-immovable-property-markets-under-article-430a-capital-requirements",
+      "source_name": "EBA",
+      "published_at": "2026-07-06T12:22:58+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-f6584d5679",
       "title": "ESAs steunen ESRB-waarschuwing over systeemrisico's van grensverleggende AI-modellen",
       "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and support today’s warning from European Systemic Risk Board (ESRB) on the systemic cyber risks posed by frontier AI models.",
       "type": "regulation",
@@ -71,7 +87,7 @@
       ]
     },
     {
-      "id": "news-5-76db7c8b52",
+      "id": "news-6-76db7c8b52",
       "title": "Voormalig Tether CIO wil aandeel in stablecoin-uitgever verkopen",
       "summary": "The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.",
       "type": "news",
@@ -87,7 +103,7 @@
       ]
     },
     {
-      "id": "news-6-9b0330840a",
+      "id": "news-7-9b0330840a",
       "title": "Ripple ontvangt volledige MiCA-vergunning voor cryptoservices in Europa",
       "summary": "The Luxembourg approval completes the company's MiCA licensing process, enabling it to provide regulated crypto-asset services across the European Economic Area.",
       "type": "news",
@@ -103,7 +119,7 @@
       ]
     },
     {
-      "id": "news-7-19b547342f",
+      "id": "news-8-19b547342f",
       "title": "USDC-volumes overtreffen USDT volgens Visa-gegevens",
       "summary": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
       "type": "news",
@@ -113,22 +129,6 @@
       "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
       "source_name": "CoinDesk",
       "published_at": "2026-07-06T16:00:15+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-9c523fff59",
-      "title": "FSMA waarschuwt voor zes ongeautoriseerde cryptoproviders na MiCA-deadline",
-      "summary": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-06T12:15:20+00:00",
       "tags": [
         "crypto",
         "markets"
