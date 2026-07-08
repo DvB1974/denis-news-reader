@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-08T12:00:44.470923+00:00",
+  "generated_at": "2026-07-08T13:00:43.250780+00:00",
   "signals": [
     {
       "id": "news-1-a6f2df08c8",
@@ -53,7 +53,24 @@
       ]
     },
     {
-      "id": "news-4-146e5260fd",
+      "id": "news-4-a185be8144",
+      "title": "EBA publiceert richtlijnen voor IFRS 18-implementatie in toezichtraportage",
+      "summary": "​The European Banking Authority (EBA) has published today an Opinion providing guidance on how institutions can report profit or loss information during the interim period between the first application date of IFRS 18 and the first application date of the amending Implementing Technical Standards (ITS) on supervisory financial reporting (FINREP), which are currently under consultation. The Opinion aims to support institutions by avoiding the operational burden of maintaining two different profit or loss formats during the transition period. It is also consistent with the EBA’s broader efforts to simplify and streamline the EU supervisory reporting framework.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-issues-opinion-implementation-ifrs-18-supervisory-financial-reporting-support-consistency-ifrs",
+      "source_name": "EBA",
+      "published_at": "2026-07-08T12:41:03+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-146e5260fd",
       "title": "Toss en Optimism testen Koreaanse won-stablecoin",
       "summary": "Toss has reportedly partnered with Optimism and Sunnyside Labs for a proof of concept on the feasibility of a Korean won-based stablecoin for payments.",
       "type": "news",
@@ -69,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-f4b9bbadf6",
+      "id": "news-6-f4b9bbadf6",
       "title": "ESMA onderzoekt bewaarplaatsrisico's na MiCA-invoering",
       "summary": "The EU securities regulator will assess custody providers’ key management, incident response and reliance on third-party technology providers.",
       "type": "news",
@@ -85,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-3536cd68fe",
+      "id": "news-7-3536cd68fe",
       "title": "Base activeert B20-standaard voor stablecoins, RWA's en tokens",
       "summary": "Base is scheduled to activate its B20 token standard on Wednesday at 6 pm UTC, allowing developers to begin creating native tokens on the network.",
       "type": "news",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-7121c51486",
+      "id": "news-8-7121c51486",
       "title": "USDT domineert betalingen, USDC in DeFi volgens Dune-data",
       "summary": "Dune data shows Tether's USDT has become crypto’s dominant payments stablecoin while Circle's USDC powers DeFi, highlighting how blockchain choice shapes stablecoin use.",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://cointelegraph.com/news/usdt-wins-payments-usdc-wins-defi-as-stablecoins-diverge-dune",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-07T18:05:08+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-abc46eb9fb",
-      "title": "Voormalig investeringshoofd Tether wil deel van aandelen verkopen",
-      "summary": "Former Tether investment chief is looking to sell part of his stake in the stablecoin giant: Bloomberg",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/07/07/former-tether-investment-chief-is-looking-to-sell-part-of-his-stake-in-the-stablecoin-giant-bloomberg",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-07T13:46:25+00:00",
       "tags": [
         "crypto",
         "markets"
