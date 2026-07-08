@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-08T19:00:19.456758+00:00",
+  "generated_at": "2026-07-08T20:00:25.701293+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,7 +20,23 @@
       ]
     },
     {
-      "id": "news-2-a6f2df08c8",
+      "id": "news-2-22cd801f03",
+      "title": "EU-ambtenaren overwegen wijzigingen MiCA voor niet-EU stablecoin-uitgevers",
+      "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-08T19:14:15+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-a6f2df08c8",
       "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
       "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-3da4e41923",
+      "id": "news-5-3da4e41923",
       "title": "Stablecoin-vereffende TradFi-perpetuals bereiken 1,1 biljoen dollar volgens Binance Research",
       "summary": "A new Binance Research report said stablecoins are fast becoming a preferred settlement layer for tokenized TradFi markets while gaining traction in payments and savings.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-0cc2b6e905",
+      "id": "news-6-0cc2b6e905",
       "title": "Tether investeert 20 miljoen dollar in Mercado Bitcoin",
       "summary": "Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-a185be8144",
+      "id": "news-7-a185be8144",
       "title": "EBA publiceert richtlijnen voor IFRS 18-implementatie in toezichtraportage",
       "summary": "​The European Banking Authority (EBA) has published today an Opinion providing guidance on how institutions can report profit or loss information during the interim period between the first application date of IFRS 18 and the first application date of the amending Implementing Technical Standards (ITS) on supervisory financial reporting (FINREP), which are currently under consultation. The Opinion aims to support institutions by avoiding the operational burden of maintaining two different profit or loss formats during the transition period. It is also consistent with the EBA’s broader efforts to simplify and streamline the EU supervisory reporting framework.",
       "type": "regulation",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-146e5260fd",
+      "id": "news-8-146e5260fd",
       "title": "Toss en Optimism testen Koreaanse won-stablecoin",
       "summary": "Toss has reportedly partnered with Optimism and Sunnyside Labs for a proof of concept on the feasibility of a Korean won-based stablecoin for payments.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://cointelegraph.com/news/south-korea-toss-partners-optimism-won-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-08T11:33:11+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-f4b9bbadf6",
-      "title": "ESMA onderzoekt bewaarplaatsrisico's na MiCA-invoering",
-      "summary": "The EU securities regulator will assess custody providers’ key management, incident response and reliance on third-party technology providers.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/esma-crypto-custody-scrutiny-mica-transition",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-08T10:49:21+00:00",
       "tags": [
         "crypto",
         "markets"
