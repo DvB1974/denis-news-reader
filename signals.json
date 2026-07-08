@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-08T17:00:40.133940+00:00",
+  "generated_at": "2026-07-08T18:00:29.749219+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-0cc2b6e905",
+      "id": "news-4-3da4e41923",
+      "title": "Stablecoin-vereffende TradFi-perpetuals bereiken 1,1 biljoen dollar volgens Binance Research",
+      "summary": "A new Binance Research report said stablecoins are fast becoming a preferred settlement layer for tokenized TradFi markets while gaining traction in payments and savings.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/tradfi-perpetual-trading-surpasses-11t-in-2026-binance-research-says",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-08T17:23:19+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-0cc2b6e905",
       "title": "Tether investeert 20 miljoen dollar in Mercado Bitcoin",
       "summary": "Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-a185be8144",
+      "id": "news-6-a185be8144",
       "title": "EBA publiceert richtlijnen voor IFRS 18-implementatie in toezichtraportage",
       "summary": "​The European Banking Authority (EBA) has published today an Opinion providing guidance on how institutions can report profit or loss information during the interim period between the first application date of IFRS 18 and the first application date of the amending Implementing Technical Standards (ITS) on supervisory financial reporting (FINREP), which are currently under consultation. The Opinion aims to support institutions by avoiding the operational burden of maintaining two different profit or loss formats during the transition period. It is also consistent with the EBA’s broader efforts to simplify and streamline the EU supervisory reporting framework.",
       "type": "regulation",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-146e5260fd",
+      "id": "news-7-146e5260fd",
       "title": "Toss en Optimism testen Koreaanse won-stablecoin",
       "summary": "Toss has reportedly partnered with Optimism and Sunnyside Labs for a proof of concept on the feasibility of a Korean won-based stablecoin for payments.",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-f4b9bbadf6",
+      "id": "news-8-f4b9bbadf6",
       "title": "ESMA onderzoekt bewaarplaatsrisico's na MiCA-invoering",
       "summary": "The EU securities regulator will assess custody providers’ key management, incident response and reliance on third-party technology providers.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://cointelegraph.com/news/esma-crypto-custody-scrutiny-mica-transition",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-08T10:49:21+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-3536cd68fe",
-      "title": "Base activeert B20-standaard voor stablecoins, RWA's en tokens",
-      "summary": "Base is scheduled to activate its B20 token standard on Wednesday at 6 pm UTC, allowing developers to begin creating native tokens on the network.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/base-to-activate-b20-standard-for-stablecoins-rwas-and-other-tokens",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-08T08:46:02+00:00",
       "tags": [
         "crypto",
         "markets"
