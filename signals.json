@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-09T08:00:22.428466+00:00",
+  "generated_at": "2026-07-09T09:00:27.203377+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,7 +69,23 @@
       ]
     },
     {
-      "id": "news-5-72ade95f9f",
+      "id": "news-5-173b403a7c",
+      "title": "Regulators nodigen Binance uit nieuwe vergunningen na MiCA tegenslag aan te vragen",
+      "summary": "Binance is exploring new licensing paths into Europe while continuing to expand its regulatory footprint in Asia, says co-CEO Richard Teng.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/regulators-invite-binance-seek-new-license-mica-setback-teng",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-09T08:26:30+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-72ade95f9f",
       "title": "Sony Bank ontvangt voorwaardelijke OCC-goedkeuring voor dollarstablecoin",
       "summary": "The trust bank subsidiary, Connectia Trust, is expected to issue and manage a dollar-backed stablecoin, pending final approval.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-e0f38958ab",
+      "id": "news-7-e0f38958ab",
       "title": "Hyundai Card voltooit eerste stablecoin-pilot met Avalanche en Tether",
       "summary": "Visa and Circle will participate in Hyundai Card's second stablecoin PoC, which is set to begin later this month.",
       "type": "news",
@@ -101,32 +117,16 @@
       ]
     },
     {
-      "id": "news-7-3da4e41923",
-      "title": "Stablecoin-vereffende TradFi-perpetuals bereiken 1,1 biljoen dollar volgens Binance Research",
-      "summary": "A new Binance Research report said stablecoins are fast becoming a preferred settlement layer for tokenized TradFi markets while gaining traction in payments and savings.",
+      "id": "news-8-b96cc50ae9",
+      "title": "SWIFT start blockchainledger met tokenisering van bankdeposito's",
+      "summary": "SWIFT launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.",
       "type": "news",
       "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/tradfi-perpetual-trading-surpasses-11t-in-2026-binance-research-says",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-08T17:23:19+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-0cc2b6e905",
-      "title": "Tether investeert 20 miljoen dollar in Mercado Bitcoin",
-      "summary": "Mercado Bitcoin has grown from an early crypto exchange into a regulated digital financial services platform.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
+      "confidence": 93,
       "tone": "neutral",
-      "url": "https://www.theblock.co/post/407463/tether-20-million-behind-mercado-bitcoin-latin-america-tokenization-boom",
-      "source_name": "The Block",
-      "published_at": "2026-07-07T15:57:17+00:00",
+      "url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-09T08:51:48+00:00",
       "tags": [
         "crypto",
         "markets"
