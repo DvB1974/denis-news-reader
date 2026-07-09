@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-09T12:00:33.624210+00:00",
+  "generated_at": "2026-07-09T13:00:34.302973+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -36,7 +36,22 @@
       ]
     },
     {
-      "id": "news-3-a6f2df08c8",
+      "id": "news-3-831ae64548",
+      "title": "EU bereidt herziening MiCA voor in 2027 voor buitenlandse stablecoin-uitgevers",
+      "summary": "Trump's embrace of stablecoins is pushing Brussels to expand its crypto law to non-EU issuers and tokenized payments, EU diplomats say.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
+      "source_name": "Decrypt",
+      "published_at": "2026-07-09T12:18:24+00:00",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "id": "news-4-a6f2df08c8",
       "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
       "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
       "type": "news",
@@ -52,7 +67,7 @@
       ]
     },
     {
-      "id": "news-4-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -69,7 +84,7 @@
       ]
     },
     {
-      "id": "news-5-c570d5d0ca",
+      "id": "news-6-c570d5d0ca",
       "title": "Sony Bank ontvangt toestemming OCC voor stablecoin-uitgiften",
       "summary": "Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital.",
       "type": "news",
@@ -85,7 +100,7 @@
       ]
     },
     {
-      "id": "news-6-fb27fbfe70",
+      "id": "news-7-fb27fbfe70",
       "title": "Sony ontvangt voorwaardelijke goedkeuring voor Amerikaanse stabilecoinfideicommis",
       "summary": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
       "type": "news",
@@ -101,7 +116,7 @@
       ]
     },
     {
-      "id": "news-7-5f2c55974c",
+      "id": "news-8-5f2c55974c",
       "title": "Bank van Korea blijft inzetten op bankgestuurde won-stablecoin",
       "summary": "The Bank of Korea reiterated its call for bank-led won stablecoin issuance while advancing deposit token pilots, as issuer rules remain a sticking point in South Korea’s digital asset bill.",
       "type": "news",
@@ -111,22 +126,6 @@
       "url": "https://cointelegraph.com/news/bank-of-korea-bank-led-stablecoins-deposit-token-pilots",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-09T09:19:38+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-173b403a7c",
-      "title": "Regulators nodigen Binance uit nieuwe vergunningen na MiCA tegenslag aan te vragen",
-      "summary": "Binance is exploring new licensing paths into Europe while continuing to expand its regulatory footprint in Asia, says co-CEO Richard Teng.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/regulators-invite-binance-seek-new-license-mica-setback-teng",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-09T08:26:30+00:00",
       "tags": [
         "crypto",
         "markets"
