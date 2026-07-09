@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-09T09:00:27.203377+00:00",
+  "generated_at": "2026-07-09T10:00:25.821670+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,7 +69,39 @@
       ]
     },
     {
-      "id": "news-5-173b403a7c",
+      "id": "news-5-fb27fbfe70",
+      "title": "Sony ontvangt voorwaardelijke goedkeuring voor Amerikaanse stabilecoinfideicommis",
+      "summary": "Sony secures conditional approval to set up U.S. stablecoin trust bank",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/07/09/sony-secures-conditional-approval-to-set-up-u-s-stablecoin-trust-bank",
+      "source_name": "CoinDesk",
+      "published_at": "2026-07-09T09:49:26+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-5f2c55974c",
+      "title": "Bank van Korea blijft inzetten op bankgestuurde won-stablecoin",
+      "summary": "The Bank of Korea reiterated its call for bank-led won stablecoin issuance while advancing deposit token pilots, as issuer rules remain a sticking point in South Korea’s digital asset bill.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/bank-of-korea-bank-led-stablecoins-deposit-token-pilots",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-09T09:19:38+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-173b403a7c",
       "title": "Regulators nodigen Binance uit nieuwe vergunningen na MiCA tegenslag aan te vragen",
       "summary": "Binance is exploring new licensing paths into Europe while continuing to expand its regulatory footprint in Asia, says co-CEO Richard Teng.",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-72ade95f9f",
+      "id": "news-8-72ade95f9f",
       "title": "Sony Bank ontvangt voorwaardelijke OCC-goedkeuring voor dollarstablecoin",
       "summary": "The trust bank subsidiary, Connectia Trust, is expected to issue and manage a dollar-backed stablecoin, pending final approval.",
       "type": "news",
@@ -95,38 +127,6 @@
       "url": "https://www.theblock.co/post/407670/sony-bank-conditional-occ-approval",
       "source_name": "The Block",
       "published_at": "2026-07-09T07:50:55+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-e0f38958ab",
-      "title": "Hyundai Card voltooit eerste stablecoin-pilot met Avalanche en Tether",
-      "summary": "Visa and Circle will participate in Hyundai Card's second stablecoin PoC, which is set to begin later this month.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.theblock.co/post/407660/hyundai-stablecoin-poc-avalanche-tether",
-      "source_name": "The Block",
-      "published_at": "2026-07-09T06:46:10+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-b96cc50ae9",
-      "title": "SWIFT start blockchainledger met tokenisering van bankdeposito's",
-      "summary": "SWIFT launched its new blockchain ledger that will host a tokenized bank deposit pilot for 17 major banks seeking faster cross-border payments.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/swift-launches-blockchain-announces-tokenized-deposit-pilot-with-17-banks",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-09T08:51:48+00:00",
       "tags": [
         "crypto",
         "markets"
