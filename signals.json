@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-10T10:02:48.064907+00:00",
+  "generated_at": "2026-07-10T11:01:44.354438+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -68,7 +68,23 @@
       ]
     },
     {
-      "id": "news-5-a6f2df08c8",
+      "id": "news-5-ffcce00767",
+      "title": "Ripple kondigt stablecoin OpenUSD aan met steun van 140 bedrijven",
+      "summary": "Ripple OpenUSD is, at the time of writing, one of the bigger stories moving through the stablecoin world,&#8230;",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://watcher.guru/news/the-truth-behind-ripples-new-140-company-stablecoin-move",
+      "source_name": "Watcher.Guru",
+      "published_at": "2026-07-10T10:02:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-a6f2df08c8",
       "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
       "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
       "type": "news",
@@ -84,7 +100,7 @@
       ]
     },
     {
-      "id": "news-6-cb4ded4d2d",
+      "id": "news-7-cb4ded4d2d",
       "title": "EBA publiceert definitieve technische package voor rapportageframework 4.3",
       "summary": "​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework. The package implements the new reporting requirements for Third-Country Branches (TCBs) under the Capital Requirements Directive (CRD) and supports the implementation of a risk assessment data collection exercise by the Anti-Money Laundering Authority (AMLA). ​",
       "type": "regulation",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-9182d6524f",
+      "id": "news-8-9182d6524f",
       "title": "PayPal gaat PYUSD-stablecoin nief op Polygon uitgeven",
       "summary": "The company said its stablecoin will now be issued natively on Polygon, in addition to becoming available through Polygon's Open Money Stack.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.theblock.co/post/407719/paypal-seeks-increase-pyusd-stablecoin-native-issuance-on-polygon",
       "source_name": "The Block",
       "published_at": "2026-07-09T13:54:53+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-1094aea5eb",
-      "title": "Aave Labs introduceert Stable Vaults voor stablecoin-rendement",
-      "summary": "Stable Vaults will continuously “optimize capital allocation” across DeFi yield strategies, like Aave V3 and V4 markets.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/407645/aave-labs-rolls-out-stable-vaults-offering-predictable-stablecoin-yield-aimed-at-mainstream-users",
-      "source_name": "The Block",
-      "published_at": "2026-07-09T13:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
