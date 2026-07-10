@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-10T13:01:38.705129+00:00",
+  "generated_at": "2026-07-10T14:04:49.614770+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,39 @@
       ]
     },
     {
-      "id": "news-4-831ae64548",
+      "id": "news-4-e7094e4caf",
+      "title": "ESMA onderzoekt of cryptoverwaarders MiCA-normen voor beveiliging halen",
+      "summary": "A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review will test whether custodians can meet the required security and resilience standards.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-10T13:54:50+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-01ea22c162",
+      "title": "Binance co-CEO: 70% van EU-opnames gingen naar self-custody na MiCA-deadline",
+      "summary": "Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms",
+      "source_name": "The Block",
+      "published_at": "2026-07-10T13:17:52+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-831ae64548",
       "title": "EU bereidt herziening MiCA voor in 2027 voor buitenlandse stablecoin-uitgevers",
       "summary": "Trump's embrace of stablecoins is pushing Brussels to expand its crypto law to non-EU issuers and tokenized payments, EU diplomats say.",
       "type": "news",
@@ -68,7 +100,7 @@
       ]
     },
     {
-      "id": "news-5-04bde2f611",
+      "id": "news-7-04bde2f611",
       "title": "Circle ontvangt definitieve OCC-goedkeuring voor nationale trustbank",
       "summary": "Circle wins final OCC approval for First National Digital Currency Bank, with USDC reserve management planned for a later phase.",
       "type": "news",
@@ -84,7 +116,7 @@
       ]
     },
     {
-      "id": "news-6-ffcce00767",
+      "id": "news-8-ffcce00767",
       "title": "Ripple kondigt stablecoin OpenUSD aan met steun van 140 bedrijven",
       "summary": "Ripple OpenUSD is, at the time of writing, one of the bigger stories moving through the stablecoin world,&#8230;",
       "type": "news",
@@ -97,39 +129,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-7-a6f2df08c8",
-      "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
-      "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-07T09:08:45+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-cb4ded4d2d",
-      "title": "EBA publiceert definitieve technische package voor rapportageframework 4.3",
-      "summary": "​The European Banking Authority (EBA) today published the final technical package for version 4.3 of its reporting framework. The package implements the new reporting requirements for Third-Country Branches (TCBs) under the Capital Requirements Directive (CRD) and supports the implementation of a risk assessment data collection exercise by the Anti-Money Laundering Authority (AMLA). ​",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-its-43-reporting-framework-support-third-country-branches",
-      "source_name": "EBA",
-      "published_at": "2026-07-09T13:55:55+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     }
   ]
