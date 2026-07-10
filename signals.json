@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-10T12:05:22.145073+00:00",
+  "generated_at": "2026-07-10T13:01:38.705129+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -36,22 +36,7 @@
       ]
     },
     {
-      "id": "news-3-831ae64548",
-      "title": "EU bereidt herziening MiCA voor in 2027 voor buitenlandse stablecoin-uitgevers",
-      "summary": "Trump's embrace of stablecoins is pushing Brussels to expand its crypto law to non-EU issuers and tokenized payments, EU diplomats say.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
-      "source_name": "Decrypt",
-      "published_at": "2026-07-09T12:18:24+00:00",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "id": "news-4-23fee21bfb",
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -65,6 +50,21 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-4-831ae64548",
+      "title": "EU bereidt herziening MiCA voor in 2027 voor buitenlandse stablecoin-uitgevers",
+      "summary": "Trump's embrace of stablecoins is pushing Brussels to expand its crypto law to non-EU issuers and tokenized payments, EU diplomats say.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
+      "source_name": "Decrypt",
+      "published_at": "2026-07-09T12:18:24+00:00",
+      "tags": [
+        "crypto"
       ]
     },
     {
