@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-10T09:01:25.292661+00:00",
+  "generated_at": "2026-07-10T10:02:48.064907+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -51,23 +51,7 @@
       ]
     },
     {
-      "id": "news-4-a6f2df08c8",
-      "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
-      "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-07T09:08:45+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -81,6 +65,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-a6f2df08c8",
+      "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
+      "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-07T09:08:45+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
