@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-11T13:01:23.317034+00:00",
+  "generated_at": "2026-07-11T14:01:15.556075+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,7 +20,23 @@
       ]
     },
     {
-      "id": "news-2-e818767c7c",
+      "id": "news-2-955ec83866",
+      "title": "Ethereum stijgt 3% op tokeniseringsgolf; $1.800 mogelijk onder druk",
+      "summary": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-11T12:55:18+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-e818767c7c",
       "title": "Dollarcoin-stablecoins kunnen valutatoegang verbeteren maar valutacrises verergeren: IMF",
       "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-22cd801f03",
+      "id": "news-4-22cd801f03",
       "title": "EU-ambtenaren overwegen wijzigingen MiCA voor niet-EU stablecoin-uitgevers",
       "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
       "type": "news",
@@ -52,7 +68,7 @@
       ]
     },
     {
-      "id": "news-4-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-48b14de4c7",
+      "id": "news-6-48b14de4c7",
       "title": "Stablecoins vinden hun plek in gereguleerde cryptomarkt",
       "summary": "Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-94b4642f37",
+      "id": "news-7-94b4642f37",
       "title": "Hyundai voert als eerste grote Zuid-Koreaanse bedrijf interne stablecoin-transfers in",
       "summary": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
       "type": "news",
@@ -101,32 +117,16 @@
       ]
     },
     {
-      "id": "news-7-e7094e4caf",
-      "title": "ESMA onderzoekt of cryptoverwaarders MiCA-normen voor beveiliging halen",
-      "summary": "A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review will test whether custodians can meet the required security and resilience standards.",
+      "id": "news-8-a6f2df08c8",
+      "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
+      "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
       "source_name": "Cointelegraph",
-      "published_at": "2026-07-10T13:54:50+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-01ea22c162",
-      "title": "Binance co-CEO: 70% van EU-opnames gingen naar self-custody na MiCA-deadline",
-      "summary": "Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/post/407888/binance-co-ceo-says-70-of-eu-withdrawals-went-to-self-custody-after-mica-deadline-with-just-30-going-to-licensed-platforms",
-      "source_name": "The Block",
-      "published_at": "2026-07-10T13:17:52+00:00",
+      "published_at": "2026-07-07T09:08:45+00:00",
       "tags": [
         "crypto",
         "markets"
