@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-11T15:01:05.157841+00:00",
+  "generated_at": "2026-07-11T16:01:57.401585+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -85,39 +85,7 @@
       ]
     },
     {
-      "id": "news-6-48b14de4c7",
-      "title": "Stablecoins vinden hun plek in gereguleerde cryptomarkt",
-      "summary": "Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/crypto-biz-how-stablecoins-found-their-niche",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-10T15:37:37+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-94b4642f37",
-      "title": "Hyundai voert als eerste grote Zuid-Koreaanse bedrijf interne stablecoin-transfers in",
-      "summary": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-10T15:26:43+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-a6f2df08c8",
+      "id": "news-6-a6f2df08c8",
       "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
       "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
       "type": "news",
@@ -127,6 +95,38 @@
       "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-07T09:08:45+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-5a90737bff",
+      "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
+      "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
+      "source_name": "CoinDesk",
+      "published_at": "2026-06-30T10:08:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-f7e98083f1",
+      "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
+      "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-06-24T07:17:46+00:00",
       "tags": [
         "crypto",
         "markets"
