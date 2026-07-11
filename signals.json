@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-11T19:00:12.252771+00:00",
+  "generated_at": "2026-07-11T20:00:17.277185+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -52,23 +52,7 @@
       ]
     },
     {
-      "id": "news-4-22cd801f03",
-      "title": "EU-ambtenaren overwegen wijzigingen MiCA voor niet-EU stablecoin-uitgevers",
-      "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-08T19:14:15+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -82,6 +66,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-22cd801f03",
+      "title": "EU-ambtenaren overwegen wijzigingen MiCA voor niet-EU stablecoin-uitgevers",
+      "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-08T19:14:15+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
