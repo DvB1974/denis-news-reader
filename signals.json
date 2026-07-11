@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-11T09:01:09.207541+00:00",
+  "generated_at": "2026-07-11T10:01:11.413479+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,7 +20,23 @@
       ]
     },
     {
-      "id": "news-2-22cd801f03",
+      "id": "news-2-e818767c7c",
+      "title": "Dollarcoin-stablecoins kunnen valutatoegang verbeteren maar valutacrises verergeren: IMF",
+      "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-11T09:14:12+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-22cd801f03",
       "title": "EU-ambtenaren overwegen wijzigingen MiCA voor niet-EU stablecoin-uitgevers",
       "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-48b14de4c7",
+      "id": "news-5-48b14de4c7",
       "title": "Stablecoins vinden hun plek in gereguleerde cryptomarkt",
       "summary": "Stablecoins are carving out specialized roles as regulation reshapes the market, while Strategy’s Bitcoin sale and Vanguard’s tokenization push highlight crypto’s evolving financial landscape.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-94b4642f37",
+      "id": "news-6-94b4642f37",
       "title": "Hyundai voert als eerste grote Zuid-Koreaanse bedrijf interne stablecoin-transfers in",
       "summary": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-e7094e4caf",
+      "id": "news-7-e7094e4caf",
       "title": "ESMA onderzoekt of cryptoverwaarders MiCA-normen voor beveiliging halen",
       "summary": "A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review will test whether custodians can meet the required security and resilience standards.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-01ea22c162",
+      "id": "news-8-01ea22c162",
       "title": "Binance co-CEO: 70% van EU-opnames gingen naar self-custody na MiCA-deadline",
       "summary": "Richard Teng said 70% of EU user withdrawals following its service suspension moved to self-custody rather than MiCA-regulated platforms.",
       "type": "news",
@@ -114,21 +130,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-831ae64548",
-      "title": "EU bereidt herziening MiCA voor in 2027 voor buitenlandse stablecoin-uitgevers",
-      "summary": "Trump's embrace of stablecoins is pushing Brussels to expand its crypto law to non-EU issuers and tokenized payments, EU diplomats say.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://decrypt.co/373113/eu-set-to-revise-mica-in-2027-to-cover-foreign-stablecoin-issuers",
-      "source_name": "Decrypt",
-      "published_at": "2026-07-09T12:18:24+00:00",
-      "tags": [
-        "crypto"
       ]
     }
   ]
