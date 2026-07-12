@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-12T12:00:16.996638+00:00",
+  "generated_at": "2026-07-12T13:00:12.151453+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,23 +20,7 @@
       ]
     },
     {
-      "id": "news-2-955ec83866",
-      "title": "Ethereum stijgt 3% op tokeniseringsgolf; $1.800 mogelijk onder druk",
-      "summary": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-11T12:55:18+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-23fee21bfb",
+      "id": "news-2-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -50,6 +34,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-3-955ec83866",
+      "title": "Ethereum stijgt 3% op tokeniseringsgolf; $1.800 mogelijk onder druk",
+      "summary": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-11T12:55:18+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
