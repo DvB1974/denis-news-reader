@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-12T13:00:12.151453+00:00",
+  "generated_at": "2026-07-12T14:00:12.641332+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -37,7 +37,23 @@
       ]
     },
     {
-      "id": "news-3-955ec83866",
+      "id": "news-3-facbd6f625",
+      "title": "Stablecoinmarkt krimpt met tien miljard dollar sinds mei",
+      "summary": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
+      "source_name": "CoinDesk",
+      "published_at": "2026-07-12T13:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-955ec83866",
       "title": "Ethereum stijgt 3% op tokeniseringsgolf; $1.800 mogelijk onder druk",
       "summary": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-e818767c7c",
+      "id": "news-5-e818767c7c",
       "title": "Dollarcoin-stablecoins kunnen valutatoegang verbeteren maar valutacrises verergeren: IMF",
       "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-22cd801f03",
+      "id": "news-6-22cd801f03",
       "title": "EU-ambtenaren overwegen wijzigingen MiCA voor niet-EU stablecoin-uitgevers",
       "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-a6f2df08c8",
+      "id": "news-7-a6f2df08c8",
       "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
       "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-5a90737bff",
+      "id": "news-8-5a90737bff",
       "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
       "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
       "source_name": "CoinDesk",
       "published_at": "2026-06-30T10:08:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-f7e98083f1",
-      "title": "OpenPayd ontvangt MiCA-licentie voor crypto-diensten in Europa",
-      "summary": "OpenPayd, which provides infrastructure to companies including Kraken crypto exchange, can now offer regulated crypto services across Europe under MiCA.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/openpayd-mica-license-stablecoin-adoption-europe",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-06-24T07:17:46+00:00",
       "tags": [
         "crypto",
         "markets"
