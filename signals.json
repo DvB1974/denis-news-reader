@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-12T09:00:16.370279+00:00",
+  "generated_at": "2026-07-12T10:00:19.662225+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -36,23 +36,7 @@
       ]
     },
     {
-      "id": "news-3-e818767c7c",
-      "title": "Dollarcoin-stablecoins kunnen valutatoegang verbeteren maar valutacrises verergeren: IMF",
-      "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-11T09:14:12+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-23fee21bfb",
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -66,6 +50,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-4-e818767c7c",
+      "title": "Dollarcoin-stablecoins kunnen valutatoegang verbeteren maar valutacrises verergeren: IMF",
+      "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-11T09:14:12+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
