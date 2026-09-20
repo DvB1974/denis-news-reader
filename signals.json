@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-20T12:00:16.022224+00:00",
+  "generated_at": "2026-09-20T13:00:20.760616+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,16 +53,16 @@
       ]
     },
     {
-      "id": "news-4-cb8dfd678a",
-      "title": "ECB-president Lagarde betrokken bij blokkering Binance-licentie onder MiCA",
-      "summary": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
+      "id": "news-4-170d6b8603",
+      "title": "Coinbase, Robinhood en Circle mogelijk voortrekkers in SEC-tokenisering van aandelen",
+      "summary": "Coinbase, Robinhood, Circle could be early winners of SEC's tokenized-stock push, analysts say",
       "type": "news",
       "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+      "confidence": 93,
+      "tone": "risk",
+      "url": "https://www.coindesk.com/business/2026/09/20/coinbase-robinhood-circle-could-be-early-winners-of-sec-s-tokenized-stock-push-analysts-say",
       "source_name": "CoinDesk",
-      "published_at": "2026-09-18T12:57:06+00:00",
+      "published_at": "2026-09-20T12:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
