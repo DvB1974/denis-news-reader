@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-07-12T18:00:18.034540+00:00",
+  "generated_at": "2026-09-20T09:19:13.728283+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -37,55 +37,71 @@
       ]
     },
     {
-      "id": "news-3-facbd6f625",
-      "title": "Stablecoinmarkt krimpt met tien miljard dollar sinds mei",
-      "summary": "Stablecoin market cap has shrunk by $10 billion since May, but analyst sees no reason to panic",
+      "id": "news-3-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/markets/2026/07/12/stablecoin-market-cap-has-shrunk-by-usd10-billion-since-may-but-analyst-sees-no-reason-to-panic",
-      "source_name": "CoinDesk",
-      "published_at": "2026-07-12T13:00:00+00:00",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-4-955ec83866",
-      "title": "Ethereum stijgt 3% op tokeniseringsgolf; $1.800 mogelijk onder druk",
-      "summary": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
+      "id": "news-4-cb8dfd678a",
+      "title": "ECB-president Lagarde betrokken bij blokkering Binance-licentie onder MiCA",
+      "summary": "ECB President Christine Lagarde intervened to block Binance’s EU MiCA license: WSJ",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "neutral",
-      "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-11T12:55:18+00:00",
+      "url": "https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-18T12:57:06+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-5-e818767c7c",
-      "title": "Dollarcoin-stablecoins kunnen valutatoegang verbeteren maar valutacrises verergeren: IMF",
-      "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
+      "id": "news-5-1385c310a5",
+      "title": "Slovenië voegt eerste stablecoin-uitgever toe aan MiCA-register",
+      "summary": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs",
+      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro",
       "source_name": "Cointelegraph",
-      "published_at": "2026-07-11T09:14:12+00:00",
+      "published_at": "2026-08-12T13:31:54+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-6-22cd801f03",
+      "id": "news-6-0a917c5395",
+      "title": "BitPay ontvangt Nederlandse vergunning onder MiCA en wil stablecoin-betalingen uitbreiden",
+      "summary": "The Dutch Authority for the Financial Markets approved BitPay’s application as a crypto-asset service provider under the Markets in Crypto-Assets requirements.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-16T18:45:25+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-22cd801f03",
       "title": "EU-ambtenaren overwegen wijzigingen MiCA voor niet-EU stablecoin-uitgevers",
       "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-a6f2df08c8",
+      "id": "news-8-a6f2df08c8",
       "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
       "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-07T09:08:45+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-5a90737bff",
-      "title": "Verenigd Koninkrijk verlaagt kapitaalbuffers voor stablecoins onder MiCA-niveau",
-      "summary": "UK to lower stablecoin capital buffers, undercutting EU's MiCA requirements",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/06/30/uk-to-lower-stablecoin-capital-buffers-undercutting-eu-s-mica-requirements",
-      "source_name": "CoinDesk",
-      "published_at": "2026-06-30T10:08:48+00:00",
       "tags": [
         "crypto",
         "markets"
