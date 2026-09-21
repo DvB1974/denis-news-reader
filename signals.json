@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-21T11:00:37.777709+00:00",
+  "generated_at": "2026-09-21T12:00:23.984618+00:00",
   "signals": [
     {
-      "id": "news-1-3c1d1d9f86",
+      "id": "news-1-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-21T11:27:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -20,7 +36,23 @@
       ]
     },
     {
-      "id": "news-2-23fee21bfb",
+      "id": "news-3-75a775d648",
+      "title": "ECB zet Pontes-platform in voor afwikkeling van tokeniseerde activa in centraal bankgeld",
+      "summary": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-21T11:18:55+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -37,7 +69,7 @@
       ]
     },
     {
-      "id": "news-3-1517bc7279",
+      "id": "news-5-1517bc7279",
       "title": "ECB investeert deel van eigen middelen in getokeniseerde effecten via Pontes",
       "summary": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
       "type": "regulation",
@@ -54,7 +86,7 @@
       ]
     },
     {
-      "id": "news-4-8d60b1c756",
+      "id": "news-6-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -70,7 +102,7 @@
       ]
     },
     {
-      "id": "news-5-1385c310a5",
+      "id": "news-7-1385c310a5",
       "title": "Slovenië voegt eerste stablecoin-uitgever toe aan MiCA-register",
       "summary": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
       "type": "news",
@@ -86,7 +118,7 @@
       ]
     },
     {
-      "id": "news-6-0a917c5395",
+      "id": "news-8-0a917c5395",
       "title": "BitPay ontvangt Nederlandse vergunning onder MiCA en wil stablecoin-betalingen uitbreiden",
       "summary": "The Dutch Authority for the Financial Markets approved BitPay’s application as a crypto-asset service provider under the Markets in Crypto-Assets requirements.",
       "type": "news",
@@ -96,38 +128,6 @@
       "url": "https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments",
       "source_name": "Cointelegraph",
       "published_at": "2026-07-16T18:45:25+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-22cd801f03",
-      "title": "EU-ambtenaren overwegen wijzigingen MiCA voor niet-EU stablecoin-uitgevers",
-      "summary": "EU officials reportedly plan to consider changes to the Markets in Crypto-Assets framework, dubbed by some as “MiCA 2.0,” in response to a US stablecoin law and rules on tokenized payments and deposits.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/officials-revise-mica-non-eu-issuers",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-08T19:14:15+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-a6f2df08c8",
-      "title": "Euro-stablecoins volgens MiCA groeiden 128% voor overgangstermijn",
-      "summary": "Decta's report said the market cap of eight MiCA-compliant euro stablecoins rose to $673.9 million in the year before Europe’s CASP transition period ended.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/mica-euro-stablecoins-growth-casp-deadline-decta-report",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-07T09:08:45+00:00",
       "tags": [
         "crypto",
         "markets"
