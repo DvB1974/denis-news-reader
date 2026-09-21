@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-21T13:00:46.929386+00:00",
+  "generated_at": "2026-09-21T14:00:26.893096+00:00",
   "signals": [
     {
       "id": "news-1-985734cbc1",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-1517bc7279",
+      "id": "news-6-a9faa9f29b",
+      "title": "Schatkistminister Bessent verdedigt dollarvoering en stablecoins op wereldmarkten",
+      "summary": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-21T12:44:33+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-1517bc7279",
       "title": "ECB investeert deel van eigen middelen in getokeniseerde effecten via Pontes",
       "summary": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
       "type": "regulation",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-8-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-1385c310a5",
-      "title": "Slovenië voegt eerste stablecoin-uitgever toe aan MiCA-register",
-      "summary": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-12T13:31:54+00:00",
       "tags": [
         "crypto",
         "markets"
