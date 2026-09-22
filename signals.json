@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-21T20:00:21.396676+00:00",
+  "generated_at": "2026-09-22T05:01:17.328033+00:00",
   "signals": [
     {
       "id": "news-1-985734cbc1",
@@ -52,39 +52,7 @@
       ]
     },
     {
-      "id": "news-4-c6484bf69a",
-      "title": "ECB plant aankoop van getokeniseerde obligaties met eigen middelen",
-      "summary": "ECB plans to buy tokenized bonds with its own funds",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-21T15:00:47+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-75a775d648",
-      "title": "ECB zet Pontes-platform in voor afwikkeling van tokeniseerde activa in centraal bankgeld",
-      "summary": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-21T11:18:55+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -101,36 +69,67 @@
       ]
     },
     {
-      "id": "news-7-a9faa9f29b",
-      "title": "Schatkistminister Bessent verdedigt dollarvoering en stablecoins op wereldmarkten",
-      "summary": "Treasury Secretary Scott Bessent champions dollar dominance across global markets and stablecoins",
+      "id": "news-5-5fcad40535",
+      "title": "Kakao Pay en KakaoBank verkennen stablecoin-mogelijkheden met Fireblocks",
+      "summary": "Kakao Pay and KakaoBank are exploring digital asset opportunities with Fireblocks, including infrastructure for stablecoins.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/markets/2026/09/21/scott-bessent-champions-dollar-dominance-across-global-markets-and-stablecoins",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-21T12:44:33+00:00",
+      "url": "https://cointelegraph.com/news/kakao-pay-kakaobank-fireblocks-stablecoin-infrastructure",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-22T03:13:22+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-8-1517bc7279",
-      "title": "ECB investeert deel van eigen middelen in getokeniseerde effecten via Pontes",
-      "summary": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
-      "type": "regulation",
+      "id": "news-6-c6484bf69a",
+      "title": "ECB plant aankoop van getokeniseerde obligaties met eigen middelen",
+      "summary": "ECB plans to buy tokenized bonds with its own funds",
+      "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-09-21T10:00:00+00:00",
+      "url": "https://www.coindesk.com/policy/2026/09/21/ecb-announces-it-will-invest-in-tokenized-securities-via-new-pontes-platform",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-21T15:00:47+00:00",
       "tags": [
-        "macro",
-        "regulation",
-        "ECB"
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-75a775d648",
+      "title": "ECB zet Pontes-platform in voor afwikkeling van tokeniseerde activa in centraal bankgeld",
+      "summary": "ECB deploys Pontes platform to settle wholesale tokenized assets in central-bank money",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/09/21/ecb-deploys-pontes-platform-to-settle-wholesale-tokenized-assets-in-central-bank-money",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-21T11:18:55+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     }
   ]
