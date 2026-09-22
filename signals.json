@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-22T12:00:42.099895+00:00",
+  "generated_at": "2026-09-22T13:00:29.583220+00:00",
   "signals": [
     {
       "id": "news-1-d89343b8cf",
@@ -36,23 +36,7 @@
       ]
     },
     {
-      "id": "news-3-91ad321521",
-      "title": "Google en Apple werven expertise voor stablecoin- en tokeniseringsplatformen",
-      "summary": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-21T12:17:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-3c1d1d9f86",
+      "id": "news-3-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -62,6 +46,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-91ad321521",
+      "title": "Google en Apple werven expertise voor stablecoin- en tokeniseringsplatformen",
+      "summary": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-21T12:17:48+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -101,7 +101,23 @@
       ]
     },
     {
-      "id": "news-7-45f5049533",
+      "id": "news-7-ffe79b2d8f",
+      "title": "Reap zet in op niet-USD stablecoins voor grensoverschrijdend betalingsverkeer",
+      "summary": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-22T12:05:55+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-45f5049533",
       "title": "SoFi start stablecoin-afwikkeling op Mastercard-netwerk, kaartprogramma mikend op 25 miljard dollar jaarlijks volume",
       "summary": "SoFi launches live SoFiUSD stablecoin settlement on Mastercard's network, with its card program targeting $25 billion in annualized volume.",
       "type": "regulation",
@@ -114,22 +130,6 @@
       "tags": [
         "regulation",
         "crypto"
-      ]
-    },
-    {
-      "id": "news-8-08b6a16e0b",
-      "title": "Ineos staakt drie Britse chemische fabrieken door gestegen gasprijzen",
-      "summary": "Sir Jim Ratcliffe-owned conglomerate suspends factories in Hull, which support 4,000 jobs, as oil and gas prices surge on Iran war",
-      "type": "macro",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ft.com/content/7c176006-9ec9-4083-933f-3d5cf2752e6b",
-      "source_name": "FT – Markets",
-      "published_at": "2026-09-22T10:27:12+00:00",
-      "tags": [
-        "macro",
-        "markets"
       ]
     }
   ]
