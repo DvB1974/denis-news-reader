@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-22T14:00:32.756499+00:00",
+  "generated_at": "2026-09-22T15:00:19.749580+00:00",
   "signals": [
     {
       "id": "news-1-d89343b8cf",
@@ -101,7 +101,23 @@
       ]
     },
     {
-      "id": "news-7-ffe79b2d8f",
+      "id": "news-7-fe4b16b968",
+      "title": "Europese centrale banken willen rendementverbod stablecoins uitbreiden naar uitlening en staking",
+      "summary": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-22T14:32:59+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-ffe79b2d8f",
       "title": "Reap zet in op niet-USD stablecoins voor grensoverschrijdend betalingsverkeer",
       "summary": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
       "type": "news",
@@ -114,22 +130,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-45f5049533",
-      "title": "SoFi start stablecoin-afwikkeling op Mastercard-netwerk, kaartprogramma mikend op 25 miljard dollar jaarlijks volume",
-      "summary": "SoFi launches live SoFiUSD stablecoin settlement on Mastercard's network, with its card program targeting $25 billion in annualized volume.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/business/2026-09-22-sofi-begins-stablecoin-settlement-on-mastercard-network-for-program-expected-to-exceed-25-billion-in-annualized-volume-416035",
-      "source_name": "The Block – Policy",
-      "published_at": "2026-09-22T12:00:00+00:00",
-      "tags": [
-        "regulation",
-        "crypto"
       ]
     }
   ]
