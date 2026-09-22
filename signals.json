@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-22T17:00:27.580405+00:00",
+  "generated_at": "2026-09-22T18:00:23.837505+00:00",
   "signals": [
     {
       "id": "news-1-d89343b8cf",
@@ -101,7 +101,23 @@
       ]
     },
     {
-      "id": "news-7-fe4b16b968",
+      "id": "news-7-626e53b922",
+      "title": "Binance investeert 100 miljoen dollar in stablecoin-uitgever Circle",
+      "summary": "Top Crypto exchange Binance has invested $100 million in USDC stablecoin issuer Circle (CRCL), according to a press&#8230;",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://watcher.guru/news/binance-invests-100-million-in-usdc-issuer-circle",
+      "source_name": "Watcher.Guru",
+      "published_at": "2026-09-22T17:39:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-fe4b16b968",
       "title": "Europese centrale banken willen rendementverbod stablecoins uitbreiden naar uitlening en staking",
       "summary": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
       "source_name": "CoinDesk",
       "published_at": "2026-09-22T14:32:59+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-ffe79b2d8f",
-      "title": "Reap zet in op niet-USD stablecoins voor grensoverschrijdend betalingsverkeer",
-      "summary": "Why Payward-backed Reap is betting on non-USD stablecoins for 24/7 cross-border FX settlement",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/09/22/visa-partner-reap-eyes-local-currency-stablecoins-in-several-countries-for-24-7-onchain-fx",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-22T12:05:55+00:00",
       "tags": [
         "crypto",
         "markets"
