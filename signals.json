@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-23T11:00:26.312521+00:00",
+  "generated_at": "2026-09-23T12:00:29.360365+00:00",
   "signals": [
     {
       "id": "news-1-d89343b8cf",
@@ -20,23 +20,7 @@
       ]
     },
     {
-      "id": "news-2-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-3c1d1d9f86",
+      "id": "news-2-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -46,6 +30,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
