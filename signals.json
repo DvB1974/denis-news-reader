@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-23T05:01:17.016290+00:00",
+  "generated_at": "2026-09-23T06:00:48.190885+00:00",
   "signals": [
     {
       "id": "news-1-d89343b8cf",
@@ -101,23 +101,7 @@
       ]
     },
     {
-      "id": "news-7-626e53b922",
-      "title": "Binance investeert 100 miljoen dollar in stablecoin-uitgever Circle",
-      "summary": "Top Crypto exchange Binance has invested $100 million in USDC stablecoin issuer Circle (CRCL), according to a press&#8230;",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://watcher.guru/news/binance-invests-100-million-in-usdc-issuer-circle",
-      "source_name": "Watcher.Guru",
-      "published_at": "2026-09-22T17:39:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -127,6 +111,22 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-626e53b922",
+      "title": "Binance investeert 100 miljoen dollar in stablecoin-uitgever Circle",
+      "summary": "Top Crypto exchange Binance has invested $100 million in USDC stablecoin issuer Circle (CRCL), according to a press&#8230;",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://watcher.guru/news/binance-invests-100-million-in-usdc-issuer-circle",
+      "source_name": "Watcher.Guru",
+      "published_at": "2026-09-22T17:39:00+00:00",
       "tags": [
         "crypto",
         "markets"
