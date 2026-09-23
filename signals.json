@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-23T13:00:28.758035+00:00",
+  "generated_at": "2026-09-23T14:00:29.686827+00:00",
   "signals": [
     {
       "id": "news-1-d89343b8cf",
@@ -117,20 +117,19 @@
       ]
     },
     {
-      "id": "news-8-30c6d7733e",
-      "title": "ESA's waarschuwen voor externe afhankelijkheden en cyberrisico's in financieel systeem",
-      "summary": "The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) have identified external dependencies, emerging technologies and private credit as key vulnerabilities for the EU financial system in their Autumn 2026 risk update.",
-      "type": "regulation",
+      "id": "news-8-ee6919f5c2",
+      "title": "Stablecoin grensoverschrijdend verkeer stijgt 78% ondanks cryptomarkt",
+      "summary": "Cross-border stablecoin transfers surged as the wider crypto market shrank 37%, with Chainalysis pointing to growing use for trade, remittances and savings.",
+      "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/esas-call-vigilance-over-external-dependencies-cyber-threats-and-private-credit-risks",
-      "source_name": "EBA",
-      "published_at": "2026-09-23T09:49:44+00:00",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/stablecoin-cross-border-flows-surge-78-defying-crypto-bear-market",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-23T13:00:00+00:00",
       "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
+        "crypto",
+        "markets"
       ]
     }
   ]
