@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-22T20:00:52.270316+00:00",
+  "generated_at": "2026-09-23T05:01:17.016290+00:00",
   "signals": [
     {
       "id": "news-1-d89343b8cf",
@@ -68,23 +68,7 @@
       ]
     },
     {
-      "id": "news-5-56272dce5d",
-      "title": "ECB koopt tokeniseerde staatsobligaties via Pontes DLT-platform",
-      "summary": "The ECB aims to gain firsthand DLT market experience by buying tokenized public-sector securities and settling the trades through Pontes.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-22T11:29:35+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -98,6 +82,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-6-56272dce5d",
+      "title": "ECB koopt tokeniseerde staatsobligaties via Pontes DLT-platform",
+      "summary": "The ECB aims to gain firsthand DLT market experience by buying tokenized public-sector securities and settling the trades through Pontes.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/ecb-money-tokenized-securities-pontes",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-22T11:29:35+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-fe4b16b968",
-      "title": "Europese centrale banken willen rendementverbod stablecoins uitbreiden naar uitlening en staking",
-      "summary": "European central banks push to expand stablecoin yield ban to crypto lending and staking",
+      "id": "news-8-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/09/22/european-central-banks-push-to-expand-stablecoin-yield-ban-to-crypto-lending-and-staking",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-22T14:32:59+00:00",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
