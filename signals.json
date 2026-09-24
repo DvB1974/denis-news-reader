@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-24T16:00:23.460324+00:00",
+  "generated_at": "2026-09-24T17:00:29.033027+00:00",
   "signals": [
     {
       "id": "news-1-07ccfd44d4",
@@ -119,16 +119,16 @@
       ]
     },
     {
-      "id": "news-8-f239d49fcf",
-      "title": "Europese stablecoin-uitgever Qivalis ziet transformatie handelsfinanciering",
-      "summary": "European stablecoin issuer Qivalis sees transformation of global trade finance",
+      "id": "news-8-06669a31ea",
+      "title": "SoFi voert kaartprogramma over op blockchain-gebaseerde betaling met stablecoin",
+      "summary": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-24T14:41:05+00:00",
+      "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-24T15:57:00+00:00",
       "tags": [
         "crypto",
         "markets"
