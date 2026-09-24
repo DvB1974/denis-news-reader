@@ -1,10 +1,27 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-24T07:00:15.857405+00:00",
+  "generated_at": "2026-09-24T08:00:14.362749+00:00",
   "signals": [
     {
-      "id": "news-1-d89343b8cf",
+      "id": "news-1-07ccfd44d4",
+      "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
+      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
+      "source_name": "EBA",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-2-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -20,7 +37,7 @@
       ]
     },
     {
-      "id": "news-2-3c1d1d9f86",
+      "id": "news-3-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -36,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-985734cbc1",
+      "id": "news-4-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -52,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -69,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-18d9a4a5a6",
+      "id": "news-6-18d9a4a5a6",
       "title": "Trump-regering overweegt wereldwijd stabilecoins-plan voor dollarsterkte",
       "summary": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
       "type": "news",
@@ -85,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-bf8d82bb75",
+      "id": "news-7-bf8d82bb75",
       "title": "CFTC-voorzitter pleit voor tokenisering terwijl SEC deur opent voor aandelen op blockchain",
       "summary": "CFTC Chair Pushes Tokenization As SEC Opens Door To Onchain Stocks \n\n                Authored by Ezra Reguerra via Cointelegraph ,  \n\n  US Commodity Futures Trading Commission (CFTC) Chair Michael Selig said financial markets should prepare for \"mass tokenization\" as regulators adapt existing frameworks for blockchain, artificial intelligence and onchain markets.  \n\n       \n\n In remarks delivered Tuesday at the US Treasury Market Conference, Selig  said  tokenization of real-world assets (RWAs) could become the foundation of a more efficient financial system, enabling near-instant settlement and real-time collateral movement between clearinghouses, intermediaries and users. \n\n  \"Just as the transition from hand signals to electronic trading advanced our financial system, I believe tokenization can do the same for all asset classes,\"  Selig said, adding that the CFTC would pursue principles-based rules as tokenization and onchain finance evolve. \n\n Selig said in August that the  CFTC wo",
       "type": "macro",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-e2ab0ca087",
+      "id": "news-8-e2ab0ca087",
       "title": "VS overweegt internationale expansie dollar-gestuurde stablecoins",
       "summary": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to expand the international use of dollar-backed stablecoins.",
       "type": "news",
@@ -113,22 +130,6 @@
       "published_at": "2026-09-24T04:44:12+00:00",
       "tags": [
         "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-9bf1f2ae32",
-      "title": "China breidt exportcontroles op drugsprecursoren uit voor Trump-Xi gesprekken",
-      "summary": "China Expands Export Controls On Drug Precursor Chemicals Ahead Of Trump-Xi Talks \n\n                Authored by Aldgra Fredly via The Epoch Times ,  \n\n  China has added more chemicals to its export control list for drug precursor substances  ahead of a high-stakes meeting between President Donald Trump and Chinese leader Xi Jinping in Washington. \n    \n  Fentanyl precursors are displayed at Reuters' office in Mexico City on Oct. 4, 2023. Claudia Daut/Reuters    The Chinese commerce ministry announced on Sept. 22 that it added two new substances to the list of chemicals subject to export controls, requiring exporters to obtain licenses to ship to the United States, Mexico, and Canada. \n\n The move comes ahead of Xi's state visit to the United States. Xi is due to  meet  with Trump at the White House on Sept. 24, marking their second meeting this year. \n\n The two leaders last met during Trump's visit to Beijing in May, when they agreed to build a \"constructive relationship of strategic st",
-      "type": "macro",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.zerohedge.com/geopolitical/china-expands-export-controls-drug-precursor-chemicals-ahead-trump-xi-talks",
-      "source_name": "ZeroHedge",
-      "published_at": "2026-09-24T01:45:00+00:00",
-      "tags": [
-        "macro",
         "markets"
       ]
     }
