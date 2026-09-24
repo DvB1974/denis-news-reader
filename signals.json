@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-24T12:00:30.338173+00:00",
+  "generated_at": "2026-09-24T13:00:27.801188+00:00",
   "signals": [
     {
       "id": "news-1-07ccfd44d4",
@@ -21,7 +21,23 @@
       ]
     },
     {
-      "id": "news-2-d89343b8cf",
+      "id": "news-2-0f207a58b1",
+      "title": "HIFI haalt 37 miljoen op voor stablecoin-betalingen en tokenisering",
+      "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-24T12:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -37,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-3c1d1d9f86",
+      "id": "news-4-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-985734cbc1",
+      "id": "news-5-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-6-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-9497af4375",
+      "id": "news-7-9497af4375",
       "title": "EBA pleit voor regelgeving crypto-uitleningen onder MiCA",
       "summary": "The EBA outlined potential rules for crypto lending and firms providing access to DeFi protocols as part of the European Commission’s MiCA review.",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-18d9a4a5a6",
+      "id": "news-8-18d9a4a5a6",
       "title": "Trump-regering overweegt wereldwijd stabilecoins-plan voor dollarsterkte",
       "summary": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
       "type": "news",
@@ -114,22 +130,6 @@
       "published_at": "2026-09-24T06:33:23+00:00",
       "tags": [
         "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-bf8d82bb75",
-      "title": "CFTC-voorzitter pleit voor tokenisering terwijl SEC deur opent voor aandelen op blockchain",
-      "summary": "CFTC Chair Pushes Tokenization As SEC Opens Door To Onchain Stocks \n\n                Authored by Ezra Reguerra via Cointelegraph ,  \n\n  US Commodity Futures Trading Commission (CFTC) Chair Michael Selig said financial markets should prepare for \"mass tokenization\" as regulators adapt existing frameworks for blockchain, artificial intelligence and onchain markets.  \n\n       \n\n In remarks delivered Tuesday at the US Treasury Market Conference, Selig  said  tokenization of real-world assets (RWAs) could become the foundation of a more efficient financial system, enabling near-instant settlement and real-time collateral movement between clearinghouses, intermediaries and users. \n\n  \"Just as the transition from hand signals to electronic trading advanced our financial system, I believe tokenization can do the same for all asset classes,\"  Selig said, adding that the CFTC would pursue principles-based rules as tokenization and onchain finance evolve. \n\n Selig said in August that the  CFTC wo",
-      "type": "macro",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.zerohedge.com/crypto/cftc-chair-pushes-tokenization-sec-opens-door-onchain-stocks",
-      "source_name": "ZeroHedge",
-      "published_at": "2026-09-23T17:00:00+00:00",
-      "tags": [
-        "macro",
         "markets"
       ]
     }
