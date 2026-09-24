@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-23T20:00:25.095707+00:00",
+  "generated_at": "2026-09-24T05:00:49.928894+00:00",
   "signals": [
     {
       "id": "news-1-d89343b8cf",
@@ -52,55 +52,7 @@
       ]
     },
     {
-      "id": "news-4-bf8d82bb75",
-      "title": "CFTC-voorzitter pleit voor tokenisering terwijl SEC deur opent voor aandelen op blockchain",
-      "summary": "CFTC Chair Pushes Tokenization As SEC Opens Door To Onchain Stocks \n\n                Authored by Ezra Reguerra via Cointelegraph ,  \n\n  US Commodity Futures Trading Commission (CFTC) Chair Michael Selig said financial markets should prepare for \"mass tokenization\" as regulators adapt existing frameworks for blockchain, artificial intelligence and onchain markets.  \n\n       \n\n In remarks delivered Tuesday at the US Treasury Market Conference, Selig  said  tokenization of real-world assets (RWAs) could become the foundation of a more efficient financial system, enabling near-instant settlement and real-time collateral movement between clearinghouses, intermediaries and users. \n\n  \"Just as the transition from hand signals to electronic trading advanced our financial system, I believe tokenization can do the same for all asset classes,\"  Selig said, adding that the CFTC would pursue principles-based rules as tokenization and onchain finance evolve. \n\n Selig said in August that the  CFTC wo",
-      "type": "macro",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.zerohedge.com/crypto/cftc-chair-pushes-tokenization-sec-opens-door-onchain-stocks",
-      "source_name": "ZeroHedge",
-      "published_at": "2026-09-23T17:00:00+00:00",
-      "tags": [
-        "macro",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-91ad321521",
-      "title": "Google en Apple werven expertise voor stablecoin- en tokeniseringsplatformen",
-      "summary": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-21T12:17:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-a6427bb886",
-      "title": "CFTC-voorzitter benadrukt tokenisering terwijl SEC digitale aandelen mogelijk maakt",
-      "summary": "Michael Selig said tokenization could reshape financial markets as the CFTC and SEC continue advancing onchain initiatives despite the CLARITY Act setback.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/cftc-selig-mass-tokenization-sec-onchain-markets",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-23T10:06:55+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -117,20 +69,67 @@
       ]
     },
     {
-      "id": "news-8-97a540d654",
-      "title": "Voormalig Hack VC-partner Hsin-Ju Chuang dood aangetroffen na geschil met bedrijf",
-      "summary": "Former Hack VC partner Hsin-Ju Chuang found dead following public dispute with the firm",
-      "type": "regulation",
+      "id": "news-5-bf8d82bb75",
+      "title": "CFTC-voorzitter pleit voor tokenisering terwijl SEC deur opent voor aandelen op blockchain",
+      "summary": "CFTC Chair Pushes Tokenization As SEC Opens Door To Onchain Stocks \n\n                Authored by Ezra Reguerra via Cointelegraph ,  \n\n  US Commodity Futures Trading Commission (CFTC) Chair Michael Selig said financial markets should prepare for \"mass tokenization\" as regulators adapt existing frameworks for blockchain, artificial intelligence and onchain markets.  \n\n       \n\n In remarks delivered Tuesday at the US Treasury Market Conference, Selig  said  tokenization of real-world assets (RWAs) could become the foundation of a more efficient financial system, enabling near-instant settlement and real-time collateral movement between clearinghouses, intermediaries and users. \n\n  \"Just as the transition from hand signals to electronic trading advanced our financial system, I believe tokenization can do the same for all asset classes,\"  Selig said, adding that the CFTC would pursue principles-based rules as tokenization and onchain finance evolve. \n\n Selig said in August that the  CFTC wo",
+      "type": "macro",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/09/23/former-hack-vc-partner-hsin-ju-chuang-found-dead-following-public-dispute-with-firm",
-      "source_name": "CoinDesk – Policy",
-      "published_at": "2026-09-23T18:59:36+00:00",
+      "tone": "risk",
+      "url": "https://www.zerohedge.com/crypto/cftc-chair-pushes-tokenization-sec-opens-door-onchain-stocks",
+      "source_name": "ZeroHedge",
+      "published_at": "2026-09-23T17:00:00+00:00",
       "tags": [
-        "regulation",
-        "MiCA",
-        "crypto"
+        "macro",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-e2ab0ca087",
+      "title": "VS overweegt internationale expansie dollar-gestuurde stablecoins",
+      "summary": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to expand the international use of dollar-backed stablecoins.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-24T04:44:12+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-9bf1f2ae32",
+      "title": "China breidt exportcontroles op drugsprecursoren uit voor Trump-Xi gesprekken",
+      "summary": "China Expands Export Controls On Drug Precursor Chemicals Ahead Of Trump-Xi Talks \n\n                Authored by Aldgra Fredly via The Epoch Times ,  \n\n  China has added more chemicals to its export control list for drug precursor substances  ahead of a high-stakes meeting between President Donald Trump and Chinese leader Xi Jinping in Washington. \n    \n  Fentanyl precursors are displayed at Reuters' office in Mexico City on Oct. 4, 2023. Claudia Daut/Reuters    The Chinese commerce ministry announced on Sept. 22 that it added two new substances to the list of chemicals subject to export controls, requiring exporters to obtain licenses to ship to the United States, Mexico, and Canada. \n\n The move comes ahead of Xi's state visit to the United States. Xi is due to  meet  with Trump at the White House on Sept. 24, marking their second meeting this year. \n\n The two leaders last met during Trump's visit to Beijing in May, when they agreed to build a \"constructive relationship of strategic st",
+      "type": "macro",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.zerohedge.com/geopolitical/china-expands-export-controls-drug-precursor-chemicals-ahead-trump-xi-talks",
+      "source_name": "ZeroHedge",
+      "published_at": "2026-09-24T01:45:00+00:00",
+      "tags": [
+        "macro",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-91ad321521",
+      "title": "Google en Apple werven expertise voor stablecoin- en tokeniseringsplatformen",
+      "summary": "Google and Apple seek crypto talent as Big Tech eyes stablecoin and tokenization rails",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/09/21/google-and-apple-seek-crypto-talent-as-big-tech-eyes-stablecoin-and-tokenization-rails",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-21T12:17:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     }
   ]
