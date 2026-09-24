@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-24T14:00:30.388248+00:00",
+  "generated_at": "2026-09-24T15:00:20.597919+00:00",
   "signals": [
     {
       "id": "news-1-07ccfd44d4",
@@ -69,7 +69,24 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-5-a3f17a038f",
+      "title": "ECB-bestuurslid Schnabel treedt af voor senior functie bij IMF",
+      "summary": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+      "source_name": "ECB Press Releases",
+      "published_at": "2026-09-24T12:00:00+00:00",
+      "tags": [
+        "macro",
+        "regulation",
+        "ECB"
+      ]
+    },
+    {
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-23fee21bfb",
+      "id": "news-7-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -102,32 +119,16 @@
       ]
     },
     {
-      "id": "news-7-9497af4375",
-      "title": "EBA pleit voor regelgeving crypto-uitleningen onder MiCA",
-      "summary": "The EBA outlined potential rules for crypto lending and firms providing access to DeFi protocols as part of the European Commission’s MiCA review.",
+      "id": "news-8-f239d49fcf",
+      "title": "Europese stablecoin-uitgever Qivalis ziet transformatie handelsfinanciering",
+      "summary": "European stablecoin issuer Qivalis sees transformation of global trade finance",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-24T10:30:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-18d9a4a5a6",
-      "title": "Trump-regering overweegt wereldwijd stabilecoins-plan voor dollarsterkte",
-      "summary": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/markets/2026/09/24/trump-administration-weighs-a-global-stablecoin-plan-to-cement-dollar-s-dominance",
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/09/24/european-stablecoin-issuer-qivalis-sees-transformation-of-global-trade-finance",
       "source_name": "CoinDesk",
-      "published_at": "2026-09-24T06:33:23+00:00",
+      "published_at": "2026-09-24T14:41:05+00:00",
       "tags": [
         "crypto",
         "markets"
