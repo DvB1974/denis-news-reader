@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-24T10:00:32.432772+00:00",
+  "generated_at": "2026-09-24T11:00:19.866447+00:00",
   "signals": [
     {
       "id": "news-1-07ccfd44d4",
@@ -86,7 +86,23 @@
       ]
     },
     {
-      "id": "news-6-18d9a4a5a6",
+      "id": "news-6-9497af4375",
+      "title": "EBA pleit voor regelgeving crypto-uitleningen onder MiCA",
+      "summary": "The EBA outlined potential rules for crypto lending and firms providing access to DeFi protocols as part of the European Commission’s MiCA review.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/eu-eba-crypto-lending-defi-mica-rules",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-24T10:30:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-18d9a4a5a6",
       "title": "Trump-regering overweegt wereldwijd stabilecoins-plan voor dollarsterkte",
       "summary": "Trump administration weighs a global stablecoin plan to cement dollar's dominance",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-bf8d82bb75",
+      "id": "news-8-bf8d82bb75",
       "title": "CFTC-voorzitter pleit voor tokenisering terwijl SEC deur opent voor aandelen op blockchain",
       "summary": "CFTC Chair Pushes Tokenization As SEC Opens Door To Onchain Stocks \n\n                Authored by Ezra Reguerra via Cointelegraph ,  \n\n  US Commodity Futures Trading Commission (CFTC) Chair Michael Selig said financial markets should prepare for \"mass tokenization\" as regulators adapt existing frameworks for blockchain, artificial intelligence and onchain markets.  \n\n       \n\n In remarks delivered Tuesday at the US Treasury Market Conference, Selig  said  tokenization of real-world assets (RWAs) could become the foundation of a more efficient financial system, enabling near-instant settlement and real-time collateral movement between clearinghouses, intermediaries and users. \n\n  \"Just as the transition from hand signals to electronic trading advanced our financial system, I believe tokenization can do the same for all asset classes,\"  Selig said, adding that the CFTC would pursue principles-based rules as tokenization and onchain finance evolve. \n\n Selig said in August that the  CFTC wo",
       "type": "macro",
@@ -114,22 +130,6 @@
       "published_at": "2026-09-23T17:00:00+00:00",
       "tags": [
         "macro",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-e2ab0ca087",
-      "title": "VS overweegt internationale expansie dollar-gestuurde stablecoins",
-      "summary": "The reported initiative could involve private-sector companies and several US agencies as Washington looks to expand the international use of dollar-backed stablecoins.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/us-overseas-dollar-stablecoins-trump-administration",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-24T04:44:12+00:00",
-      "tags": [
-        "crypto",
         "markets"
       ]
     }
