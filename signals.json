@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-25T18:00:20.011720+00:00",
+  "generated_at": "2026-09-25T19:00:18.627293+00:00",
   "signals": [
     {
-      "id": "news-1-07ccfd44d4",
+      "id": "news-1-3c1d1d9f86",
+      "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
+      "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
+      "source_name": "The Block",
+      "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-07ccfd44d4",
       "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
       "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
       "type": "regulation",
@@ -18,22 +34,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-2-3c1d1d9f86",
-      "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
-      "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
-      "source_name": "The Block",
-      "published_at": "2026-07-08T15:32:22+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     },
     {
