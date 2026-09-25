@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-25T11:00:21.650727+00:00",
+  "generated_at": "2026-09-25T12:00:22.339374+00:00",
   "signals": [
     {
       "id": "news-1-07ccfd44d4",
@@ -21,23 +21,7 @@
       ]
     },
     {
-      "id": "news-2-0f207a58b1",
-      "title": "HIFI haalt 37 miljoen op voor stablecoin-betalingen en tokenisering",
-      "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-24T12:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-3c1d1d9f86",
+      "id": "news-2-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -47,6 +31,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-0f207a58b1",
+      "title": "HIFI haalt 37 miljoen op voor stablecoin-betalingen en tokenisering",
+      "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-24T12:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -69,24 +69,7 @@
       ]
     },
     {
-      "id": "news-5-a3f17a038f",
-      "title": "ECB-bestuurslid Schnabel treedt af voor senior functie bij IMF",
-      "summary": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-09-24T12:00:00+00:00",
-      "tags": [
-        "macro",
-        "regulation",
-        "ECB"
-      ]
-    },
-    {
-      "id": "news-6-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -103,7 +86,41 @@
       ]
     },
     {
-      "id": "news-7-985734cbc1",
+      "id": "news-6-a3f17a038f",
+      "title": "ECB-bestuurslid Schnabel treedt af voor senior functie bij IMF",
+      "summary": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+      "source_name": "ECB Press Releases",
+      "published_at": "2026-09-24T12:00:00+00:00",
+      "tags": [
+        "macro",
+        "regulation",
+        "ECB"
+      ]
+    },
+    {
+      "id": "news-7-377506c2b3",
+      "title": "EBA raadpleegt belanghebbenden over herziene technische normen kapitaal- en liquiditeitseisen",
+      "summary": "The European Banking Authority (EBA) today started a public consultation on proposed revisions to the Implementing Technical Standards (ITS) governing the joint decision process for institution-specific prudential requirements foreseen by Article 113 of the Capital Requirements Directive. The revisions are part of the EBA’s broader efforts to simplify and enhance the efficiency of the regulatory and supervisory framework, as outlined in its Report on the efficiency of the regulatory and supervisory framework, published in October 2025.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-consults-revised-technical-standards-joint-decisions-institution-specific-capital-and-liquidity",
+      "source_name": "EBA",
+      "published_at": "2026-09-25T08:27:16+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-8-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -113,22 +130,6 @@
       "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
       "source_name": "Cointelegraph",
       "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-8d60b1c756",
-      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
