@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-25T10:00:22.478861+00:00",
+  "generated_at": "2026-09-25T11:00:21.650727+00:00",
   "signals": [
     {
       "id": "news-1-07ccfd44d4",
@@ -119,16 +119,16 @@
       ]
     },
     {
-      "id": "news-8-d10033f80e",
-      "title": "Fed stelt regelgeving voor stablecoins ter discussie",
-      "summary": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "id": "news-8-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-24T22:28:49+00:00",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
