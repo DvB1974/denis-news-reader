@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-24T20:00:32.191075+00:00",
+  "generated_at": "2026-09-25T05:00:59.641344+00:00",
   "signals": [
     {
       "id": "news-1-07ccfd44d4",
@@ -37,23 +37,7 @@
       ]
     },
     {
-      "id": "news-3-d89343b8cf",
-      "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
-      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-22T11:22:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-3c1d1d9f86",
+      "id": "news-3-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -63,6 +47,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-d89343b8cf",
+      "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
+      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-22T11:22:00+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -86,23 +86,7 @@
       ]
     },
     {
-      "id": "news-6-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-23fee21bfb",
+      "id": "news-6-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -119,16 +103,32 @@
       ]
     },
     {
-      "id": "news-8-06669a31ea",
-      "title": "SoFi voert kaartprogramma over op blockchain-gebaseerde betaling met stablecoin",
-      "summary": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume.",
+      "id": "news-7-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
       "source_name": "Cointelegraph",
-      "published_at": "2026-09-24T15:57:00+00:00",
+      "published_at": "2026-09-21T11:27:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-d10033f80e",
+      "title": "Fed stelt regelgeving voor stablecoins ter discussie",
+      "summary": "U.S. Federal Reserve moves on proposals to implement GENIUS Act for stablecoins",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/policy/2026/09/24/u-s-federal-reserve-moves-on-proposals-to-implement-genius-act-for-stablecoins",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-24T22:28:49+00:00",
       "tags": [
         "crypto",
         "markets"
