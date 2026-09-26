@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-26T11:00:25.173544+00:00",
+  "generated_at": "2026-09-26T12:00:20.069811+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -118,20 +118,19 @@
       ]
     },
     {
-      "id": "news-8-a3f17a038f",
-      "title": "ECB-bestuurslid Schnabel treedt af voor senior functie bij IMF",
-      "summary": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
-      "type": "regulation",
+      "id": "news-8-1385c310a5",
+      "title": "Slovenië voegt eerste stablecoin-uitgever toe aan MiCA-register",
+      "summary": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
+      "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-09-24T12:00:00+00:00",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-12T13:31:54+00:00",
       "tags": [
-        "macro",
-        "regulation",
-        "ECB"
+        "crypto",
+        "markets"
       ]
     }
   ]
