@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-27T18:00:16.227393+00:00",
+  "generated_at": "2026-09-27T19:00:15.673555+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,24 +53,7 @@
       ]
     },
     {
-      "id": "news-4-07ccfd44d4",
-      "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
-      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
-      "source_name": "EBA",
-      "published_at": "2026-09-24T07:00:00+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
-      ]
-    },
-    {
-      "id": "news-5-985734cbc1",
+      "id": "news-4-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -86,7 +69,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-5-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -99,6 +82,23 @@
       "tags": [
         "crypto",
         "markets"
+      ]
+    },
+    {
+      "id": "news-6-07ccfd44d4",
+      "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
+      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
+      "source_name": "EBA",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
       ]
     },
     {
