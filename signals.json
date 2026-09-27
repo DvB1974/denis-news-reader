@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-27T06:00:13.513474+00:00",
+  "generated_at": "2026-09-27T07:00:15.698950+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,24 +20,7 @@
       ]
     },
     {
-      "id": "news-2-07ccfd44d4",
-      "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
-      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
-      "source_name": "EBA",
-      "published_at": "2026-09-24T07:00:00+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
-      ]
-    },
-    {
-      "id": "news-3-d89343b8cf",
+      "id": "news-2-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -53,7 +36,7 @@
       ]
     },
     {
-      "id": "news-4-23fee21bfb",
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -63,6 +46,23 @@
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
       "source_name": "EBA",
       "published_at": "2026-06-26T13:27:24+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-4-07ccfd44d4",
+      "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
+      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
+      "source_name": "EBA",
+      "published_at": "2026-09-24T07:00:00+00:00",
       "tags": [
         "regulation",
         "EU",
