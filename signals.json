@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-27T12:00:13.372509+00:00",
+  "generated_at": "2026-09-27T13:00:16.649451+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -118,16 +118,16 @@
       ]
     },
     {
-      "id": "news-8-b1de194526",
-      "title": "Binance-deal versterkt Circles positie in stablecoin-markt tegen Tether",
-      "summary": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "id": "news-8-1385c310a5",
+      "title": "Slovenië voegt eerste stablecoin-uitgever toe aan MiCA-register",
+      "summary": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-26T13:00:00+00:00",
+      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-12T13:31:54+00:00",
       "tags": [
         "crypto",
         "markets"
