@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-26T20:00:14.424643+00:00",
+  "generated_at": "2026-09-27T05:00:32.806762+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -37,23 +37,7 @@
       ]
     },
     {
-      "id": "news-3-0f207a58b1",
-      "title": "HIFI haalt 37 miljoen op voor stablecoin-betalingen en tokenisering",
-      "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-24T12:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-d89343b8cf",
+      "id": "news-3-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -69,7 +53,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -86,23 +70,23 @@
       ]
     },
     {
-      "id": "news-6-b1de194526",
-      "title": "Binance-deal versterkt Circles positie in stablecoin-markt tegen Tether",
-      "summary": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "id": "news-5-0f207a58b1",
+      "title": "HIFI haalt 37 miljoen op voor stablecoin-betalingen en tokenisering",
+      "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-26T13:00:00+00:00",
+      "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-24T12:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-7-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -118,7 +102,7 @@
       ]
     },
     {
-      "id": "news-8-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -128,6 +112,22 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-b1de194526",
+      "title": "Binance-deal versterkt Circles positie in stablecoin-markt tegen Tether",
+      "summary": "Binance deal gives Circle a boost in stablecoin race with Tether, analysts say",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-26T13:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
