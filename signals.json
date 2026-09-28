@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-28T18:00:30.009816+00:00",
+  "generated_at": "2026-09-28T19:00:19.096643+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-83ae961067",
-      "title": "Franklin Templeton voert getokeniseerde onderpand-dienst in bij Bybit",
-      "summary": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
+      "id": "news-8-50e909ee63",
+      "title": "Bybit accepteert getokeniseerde Franklin Templeton-fondsen als onderpand",
+      "summary": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
       "type": "news",
       "impact": "high",
       "confidence": 93,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-28T11:00:00+00:00",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-28T18:02:54+00:00",
       "tags": [
         "crypto",
         "markets"
