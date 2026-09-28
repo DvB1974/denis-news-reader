@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-28T11:00:21.953520+00:00",
+  "generated_at": "2026-09-28T12:00:18.155634+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-07ccfd44d4",
+      "id": "news-6-83ae961067",
+      "title": "Franklin Templeton voert getokeniseerde onderpand-dienst in bij Bybit",
+      "summary": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
+      "type": "news",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/09/28/crypto-friendly-institution-franklin-templeton-brings-its-tokenized-collateral-service-to-bybit",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-28T11:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-07ccfd44d4",
       "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
       "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
       "type": "regulation",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-1385c310a5",
+      "id": "news-8-1385c310a5",
       "title": "Slovenië voegt eerste stablecoin-uitgever toe aan MiCA-register",
       "summary": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-12T13:31:54+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-0a917c5395",
-      "title": "BitPay ontvangt Nederlandse vergunning onder MiCA en wil stablecoin-betalingen uitbreiden",
-      "summary": "The Dutch Authority for the Financial Markets approved BitPay’s application as a crypto-asset service provider under the Markets in Crypto-Assets requirements.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-07-16T18:45:25+00:00",
       "tags": [
         "crypto",
         "markets"
