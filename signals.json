@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-27T20:00:17.049419+00:00",
+  "generated_at": "2026-09-28T05:00:42.555197+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -102,23 +102,7 @@
       ]
     },
     {
-      "id": "news-7-0f207a58b1",
-      "title": "HIFI haalt 37 miljoen op voor stablecoin-betalingen en tokenisering",
-      "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-24T12:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-1385c310a5",
+      "id": "news-7-1385c310a5",
       "title": "Slovenië voegt eerste stablecoin-uitgever toe aan MiCA-register",
       "summary": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
       "type": "news",
@@ -128,6 +112,22 @@
       "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-12T13:31:54+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-0a917c5395",
+      "title": "BitPay ontvangt Nederlandse vergunning onder MiCA en wil stablecoin-betalingen uitbreiden",
+      "summary": "The Dutch Authority for the Financial Markets approved BitPay’s application as a crypto-asset service provider under the Markets in Crypto-Assets requirements.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/bitpay-licensing-mica-stablecoin-payments",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-07-16T18:45:25+00:00",
       "tags": [
         "crypto",
         "markets"
