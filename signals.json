@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-28T14:00:25.116989+00:00",
+  "generated_at": "2026-09-28T15:01:17.959075+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-985734cbc1",
+      "id": "news-4-fec123e9d2",
+      "title": "ESMA verschuift MiCA-focus naar toezicht en regelhandhaving",
+      "summary": "ESMA will focus on CASP resilience, outsourcing and reverse solicitation while pursuing harmonized reporting across national regulators.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-28T14:02:45+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-8d60b1c756",
+      "id": "news-6-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-83ae961067",
+      "id": "news-7-83ae961067",
       "title": "Franklin Templeton voert getokeniseerde onderpand-dienst in bij Bybit",
       "summary": "Crypto-friendly institution Franklin Templeton brings its tokenized collateral service to Bybit",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-07ccfd44d4",
+      "id": "news-8-07ccfd44d4",
       "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
       "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
       "type": "regulation",
@@ -115,22 +131,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-1385c310a5",
-      "title": "Slovenië voegt eerste stablecoin-uitgever toe aan MiCA-register",
-      "summary": "Slovenia entered the EU’s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-12T13:31:54+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
