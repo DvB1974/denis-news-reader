@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-29T06:00:20.990065+00:00",
+  "generated_at": "2026-09-29T07:00:18.275848+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -117,19 +117,20 @@
       ]
     },
     {
-      "id": "news-8-50e909ee63",
-      "title": "Bybit accepteert getokeniseerde Franklin Templeton-fondsen als onderpand",
-      "summary": "Eligible institutions can pledge Benji-issued fund shares for stablecoin credit lines while keeping the underlying assets in off-exchange custody.",
-      "type": "news",
+      "id": "news-8-07ccfd44d4",
+      "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
+      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
+      "type": "regulation",
       "impact": "high",
-      "confidence": 93,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/bybit-accepts-franklin-templeton-tokenized-funds-trading-collateral",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-28T18:02:54+00:00",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
+      "source_name": "EBA",
+      "published_at": "2026-09-24T07:00:00+00:00",
       "tags": [
-        "crypto",
-        "markets"
+        "regulation",
+        "EU",
+        "private-banking"
       ]
     }
   ]
