@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-29T05:00:55.667381+00:00",
+  "generated_at": "2026-09-29T06:00:20.990065+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,23 +53,7 @@
       ]
     },
     {
-      "id": "news-4-8ff1a41851",
-      "title": "Citi en Coinbase breiden samenwerking uit voor stablecoin-betalingen",
-      "summary": "Coinbase is expanding partnership with Citi to provide businesses with infrastructure connecting traditional fiat payments and stablecoins.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
-      "source_name": "The Block",
-      "published_at": "2026-09-28T17:22:06+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-985734cbc1",
+      "id": "news-4-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +69,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-5-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -95,6 +79,22 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-8ff1a41851",
+      "title": "Citi en Coinbase breiden samenwerking uit voor stablecoin-betalingen",
+      "summary": "Coinbase is expanding partnership with Citi to provide businesses with infrastructure connecting traditional fiat payments and stablecoins.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
+      "source_name": "The Block",
+      "published_at": "2026-09-28T17:22:06+00:00",
       "tags": [
         "crypto",
         "markets"
