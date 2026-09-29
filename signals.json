@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-28T20:00:22.505246+00:00",
+  "generated_at": "2026-09-29T05:00:55.667381+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,23 +69,7 @@
       ]
     },
     {
-      "id": "news-5-fec123e9d2",
-      "title": "ESMA verschuift MiCA-focus naar toezicht en regelhandhaving",
-      "summary": "ESMA will focus on CASP resilience, outsourcing and reverse solicitation while pursuing harmonized reporting across national regulators.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-28T14:02:45+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-985734cbc1",
+      "id": "news-5-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -101,7 +85,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-6-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -111,6 +95,22 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-fec123e9d2",
+      "title": "ESMA verschuift MiCA-focus naar toezicht en regelhandhaving",
+      "summary": "ESMA will focus on CASP resilience, outsourcing and reverse solicitation while pursuing harmonized reporting across national regulators.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-28T14:02:45+00:00",
       "tags": [
         "crypto",
         "markets"
