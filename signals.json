@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-29T17:00:21.539914+00:00",
+  "generated_at": "2026-09-29T18:00:22.003201+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -118,19 +118,20 @@
       ]
     },
     {
-      "id": "news-8-8ff1a41851",
-      "title": "Citi en Coinbase breiden samenwerking uit voor stablecoin-betalingen",
-      "summary": "Coinbase is expanding partnership with Citi to provide businesses with infrastructure connecting traditional fiat payments and stablecoins.",
-      "type": "news",
+      "id": "news-8-07ccfd44d4",
+      "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
+      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
+      "type": "regulation",
       "impact": "high",
       "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
-      "source_name": "The Block",
-      "published_at": "2026-09-28T17:22:06+00:00",
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
+      "source_name": "EBA",
+      "published_at": "2026-09-24T07:00:00+00:00",
       "tags": [
-        "crypto",
-        "markets"
+        "regulation",
+        "EU",
+        "private-banking"
       ]
     }
   ]
