@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-29T09:00:15.880524+00:00",
+  "generated_at": "2026-09-29T10:00:24.253225+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-2dc2346464",
+      "id": "news-4-aa7bb9cf45",
+      "title": "Griekenland voegt vier providers toe aan MiCA-register",
+      "summary": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-29T09:50:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-2dc2346464",
       "title": "ECB past richtlijnen voor monetaire politiek aan bij regelmatige herziening",
       "summary": "ECB amends monetary policy implementation guidelines as part of regular review",
       "type": "regulation",
@@ -70,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-8ff1a41851",
+      "id": "news-8-8ff1a41851",
       "title": "Citi en Coinbase breiden samenwerking uit voor stablecoin-betalingen",
       "summary": "Coinbase is expanding partnership with Citi to provide businesses with infrastructure connecting traditional fiat payments and stablecoins.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
       "source_name": "The Block",
       "published_at": "2026-09-28T17:22:06+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-fec123e9d2",
-      "title": "ESMA verschuift MiCA-focus naar toezicht en regelhandhaving",
-      "summary": "ESMA will focus on CASP resilience, outsourcing and reverse solicitation while pursuing harmonized reporting across national regulators.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/mica-shift-rulemaking-to-supervision-esma-chair",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-28T14:02:45+00:00",
       "tags": [
         "crypto",
         "markets"
