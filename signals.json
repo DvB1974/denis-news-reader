@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-29T18:00:22.003201+00:00",
+  "generated_at": "2026-09-29T19:00:26.516393+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -118,20 +118,19 @@
       ]
     },
     {
-      "id": "news-8-07ccfd44d4",
-      "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
-      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
-      "type": "regulation",
+      "id": "news-8-3aad9b02b6",
+      "title": "Cboe en S&P Dow Jones verkennen mogelijk getokeniseerde optiestrategie's",
+      "summary": "Cboe, S&P Dow Jones may explore tokenized options contracts under extended licensing deal",
+      "type": "news",
       "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
-      "source_name": "EBA",
-      "published_at": "2026-09-24T07:00:00+00:00",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/09/29/cboe-s-and-p-dow-jones-may-explore-tokenized-options-contracts-under-extended-licensing-deal",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-29T18:21:07+00:00",
       "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
+        "crypto",
+        "markets"
       ]
     }
   ]
