@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-30T09:00:16.921235+00:00",
+  "generated_at": "2026-09-30T10:00:14.770419+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -117,19 +117,20 @@
       ]
     },
     {
-      "id": "news-8-aa7bb9cf45",
-      "title": "Griekenland voegt vier providers toe aan MiCA-register",
-      "summary": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
-      "type": "news",
+      "id": "news-8-07ccfd44d4",
+      "title": "EBA stelt prioriteiten vast voor herziening van MiCA",
+      "summary": "The European Banking Authority (EBA) today published its response to the European Commission’s targeted consultation on the review of the Regulation on Markets in Crypto-assets (MiCA). While MiCA has established a comprehensive regulatory framework for crypto-asset activities in the European Union, the crypto sector continues to evolve rapidly with new products, services and business models emerging to market. Against this backdrop, the EBA recommends the European Commission prioritise specific issues in its review of MiCA.",
+      "type": "regulation",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/greece-first-mica-entrants-hcmc-binance-lagarde",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-29T09:50:22+00:00",
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica",
+      "source_name": "EBA",
+      "published_at": "2026-09-24T07:00:00+00:00",
       "tags": [
-        "crypto",
-        "markets"
+        "regulation",
+        "EU",
+        "private-banking"
       ]
     }
   ]
