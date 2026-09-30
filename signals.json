@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-30T18:00:21.787743+00:00",
+  "generated_at": "2026-09-30T19:00:44.381145+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-511ca1701e",
+      "id": "news-4-53462d6f43",
+      "title": "Bloomberg voegt stablecoin-gegevens toe aan Terminal-platform",
+      "summary": "Bloomberg’s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfers and activity across blockchain networks.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-30T18:49:06+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-511ca1701e",
       "title": "Open USD lanceert stablecoin met ander model dan Tether en Circle.",
       "summary": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-f207bbaa70",
+      "id": "news-6-f207bbaa70",
       "title": "EBA publiceert werkprogramma voor 2027",
       "summary": "​The European Banking Authority (EBA) published today its Work Programme outlining the key areas of focus and deliverables for 2027. The Programme also marks the first step towards a broader medium-term strategy to position the EBA as a next-generation regulator, a body developing supervision at new frontiers, and a provider of services to the supervisory and resolution community.",
       "type": "regulation",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-6b54f5e13b",
+      "id": "news-7-6b54f5e13b",
       "title": "Europese MiCA-herziening: balans tussen marktbescherming en bouwkosten",
       "summary": "As the European Commission’s MiCA review consultation closes, Europe must decide whether its crypto rulebook is protecting the market without making it too costly to build in.",
       "type": "news",
@@ -96,22 +112,6 @@
       "url": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right",
       "source_name": "Cointelegraph",
       "published_at": "2026-09-30T11:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-698764a4ba",
-      "title": "AllUnity lanceert USDAU-stablecoin onder MiCA-regelgeving in Europa",
-      "summary": "AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA-regulated lineup that already covers the euro, Swiss franc and Swedish krona.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-30T07:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
