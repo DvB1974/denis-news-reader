@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-30T07:00:14.029568+00:00",
+  "generated_at": "2026-09-30T08:00:27.019110+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-69aadd4b67",
+      "id": "news-4-698764a4ba",
+      "title": "AllUnity lanceert USDAU-stablecoin onder MiCA-regelgeving in Europa",
+      "summary": "AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA-regulated lineup that already covers the euro, Swiss franc and Swedish krona.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/allunity-europe-mica-usd-stablecoin-usdau",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-30T07:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-69aadd4b67",
       "title": "Illinois stelt regels voor belasting op digitale activa op",
       "summary": "Illinois’ draft rules spell out how its 0.2% digital asset transaction tax would apply to stablecoins, DeFi platforms, crypto bridges and self-custody transfers.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-aa7bb9cf45",
+      "id": "news-8-aa7bb9cf45",
       "title": "Griekenland voegt vier providers toe aan MiCA-register",
       "summary": "Greece joined the EU MiCA register with four providers as HCMC expanded its denial of remarks attributed to officials in a report on Binance.",
       "type": "news",
@@ -114,23 +130,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-2dc2346464",
-      "title": "ECB past richtlijnen voor monetaire politiek aan bij regelmatige herziening",
-      "summary": "ECB amends monetary policy implementation guidelines as part of regular review",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-09-29T08:00:00+00:00",
-      "tags": [
-        "macro",
-        "regulation",
-        "ECB"
       ]
     }
   ]
