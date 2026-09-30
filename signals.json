@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-30T15:00:22.000320+00:00",
+  "generated_at": "2026-09-30T16:00:20.075387+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-f207bbaa70",
+      "id": "news-4-511ca1701e",
+      "title": "Open USD lanceert stablecoin met ander model dan Tether en Circle.",
+      "summary": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
+      "source_name": "CoinDesk",
+      "published_at": "2026-09-30T15:34:50+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-f207bbaa70",
       "title": "EBA publiceert werkprogramma voor 2027",
       "summary": "​The European Banking Authority (EBA) published today its Work Programme outlining the key areas of focus and deliverables for 2027. The Programme also marks the first step towards a broader medium-term strategy to position the EBA as a next-generation regulator, a body developing supervision at new frontiers, and a provider of services to the supervisory and resolution community.",
       "type": "regulation",
@@ -70,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-6b54f5e13b",
+      "id": "news-6-6b54f5e13b",
       "title": "Europese MiCA-herziening: balans tussen marktbescherming en bouwkosten",
       "summary": "As the European Commission’s MiCA review consultation closes, Europe must decide whether its crypto rulebook is protecting the market without making it too costly to build in.",
       "type": "news",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-698764a4ba",
+      "id": "news-7-698764a4ba",
       "title": "AllUnity lanceert USDAU-stablecoin onder MiCA-regelgeving in Europa",
       "summary": "AllUnity is launching USDAU, its fourth fiat-backed stablecoin, expanding a MiCA-regulated lineup that already covers the euro, Swiss franc and Swedish krona.",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-69aadd4b67",
+      "id": "news-8-69aadd4b67",
       "title": "Illinois stelt regels voor belasting op digitale activa op",
       "summary": "Illinois’ draft rules spell out how its 0.2% digital asset transaction tax would apply to stablecoins, DeFi platforms, crypto bridges and self-custody transfers.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://cointelegraph.com/news/illinois-crypto-tax-rules-defi-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-09-30T04:29:28+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
