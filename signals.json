@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-09-30T20:00:19.622810+00:00",
+  "generated_at": "2026-10-01T05:01:16.099814+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,7 +69,39 @@
       ]
     },
     {
-      "id": "news-5-511ca1701e",
+      "id": "news-5-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-21T11:27:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-511ca1701e",
       "title": "Open USD lanceert stablecoin met ander model dan Tether en Circle.",
       "summary": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-f207bbaa70",
+      "id": "news-8-f207bbaa70",
       "title": "EBA publiceert werkprogramma voor 2027",
       "summary": "​The European Banking Authority (EBA) published today its Work Programme outlining the key areas of focus and deliverables for 2027. The Programme also marks the first step towards a broader medium-term strategy to position the EBA as a next-generation regulator, a body developing supervision at new frontiers, and a provider of services to the supervisory and resolution community.",
       "type": "regulation",
@@ -99,38 +131,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-7-6b54f5e13b",
-      "title": "Europese MiCA-herziening: balans tussen marktbescherming en bouwkosten",
-      "summary": "As the European Commission’s MiCA review consultation closes, Europe must decide whether its crypto rulebook is protecting the market without making it too costly to build in.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/opinion/a-single-market-worth-protecting-getting-the-mica-review-right",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-30T11:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
