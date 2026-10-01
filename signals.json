@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-01T11:00:20.085987+00:00",
+  "generated_at": "2026-10-01T12:00:28.004472+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-04658edf1e",
+      "id": "news-6-a53e063f23",
+      "title": "Gesynthetiseerde gettokeniseerde aandelen vormen risico voor Amerikaanse beleggers",
+      "summary": "Synthetic tokenized stocks are bad for American investors",
+      "type": "news",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "risk",
+      "url": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-01T11:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-04658edf1e",
       "title": "Getokeniseerde activa vertonen andere handelspatronen dan traditionele markten",
       "summary": "Dune found that tokenized markets show different trading patterns from traditional markets, with RWA value reaching $34.5 billion.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-53462d6f43",
+      "id": "news-8-53462d6f43",
       "title": "Bloomberg voegt stablecoin-gegevens toe aan Terminal-platform",
       "summary": "Bloomberg’s Allium-powered dashboard gives Terminal users hourly data on stablecoin supply, issuance, transfers and activity across blockchain networks.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/bloomberg-brings-onchain-stablecoin-data-to-its-terminal-news-brief",
       "source_name": "Cointelegraph",
       "published_at": "2026-09-30T18:49:06+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-511ca1701e",
-      "title": "Open USD lanceert stablecoin met ander model dan Tether en Circle.",
-      "summary": "Open USD takes on Tether, Circle with a different stablecoin model that's 'building money'",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/09/24/open-usd-takes-on-tether-circle-with-a-different-stablecoin-model-that-s-building-money",
-      "source_name": "CoinDesk",
-      "published_at": "2026-09-30T15:34:50+00:00",
       "tags": [
         "crypto",
         "markets"
