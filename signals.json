@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-01T19:00:29.725680+00:00",
+  "generated_at": "2026-10-01T20:00:20.302516+00:00",
   "signals": [
     {
-      "id": "news-1-9ef41fe9f9",
+      "id": "news-1-154ffdc203",
+      "title": "Hyperliquid en Circle dienen opmerkingen in over MiCA-regelgeving",
+      "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+      "source_name": "The Block",
+      "published_at": "2026-10-01T19:10:36+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-9ef41fe9f9",
       "title": "50.000 Europeanen vragen EU om stablecoin-beloningen in MiCA soepeler in te stellen",
       "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.",
       "type": "news",
@@ -20,7 +36,7 @@
       ]
     },
     {
-      "id": "news-2-3c1d1d9f86",
+      "id": "news-3-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-d89343b8cf",
+      "id": "news-4-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -52,7 +68,7 @@
       ]
     },
     {
-      "id": "news-4-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -69,7 +85,23 @@
       ]
     },
     {
-      "id": "news-5-6fb0caca79",
+      "id": "news-6-9bdb918240",
+      "title": "Kongres overweegt uitbreiding regelgeving crypto en stablecoins voor banken",
+      "summary": "Congress is reportedly considering expanding crypto rules to allow banks and credit unions to hold digital assets, issue&#8230;",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://watcher.guru/news/congress-considers-expanding-crypto-stablecoin-rules-for-banks",
+      "source_name": "Watcher.Guru",
+      "published_at": "2026-10-01T19:18:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-6fb0caca79",
       "title": "Liquiditeit LATAM-stablecoins mogelijk afhankelijk van beperkt aantal aanbieders",
       "summary": "Researchers in a Latin American stablecoin ecosystem report warned “fragility in the system is concentrated in its thinnest layer,” with just 16 of 494 companies focused primarily on wholesale liquidity, treasury and credit.",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-772939915f",
+      "id": "news-8-772939915f",
       "title": "Stablecoins kunnen snel uit banken en landen vloeien",
       "summary": "Highly liquid and settling 24/7, stablecoins can leave banks and countries at lightning speed. But whether stablecoins are a risk — or an opportunity — depends on your perspective.",
       "type": "news",
@@ -95,38 +127,6 @@
       "url": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-01T13:30:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-8d60b1c756",
-      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
