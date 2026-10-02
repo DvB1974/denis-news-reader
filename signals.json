@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-02T13:00:25.234988+00:00",
+  "generated_at": "2026-10-02T14:00:28.070393+00:00",
   "signals": [
     {
       "id": "news-1-cd5278b992",
@@ -68,7 +68,24 @@
       ]
     },
     {
-      "id": "news-5-d89343b8cf",
+      "id": "news-5-cb6784f470",
+      "title": "Besluiten van de Raad van Bestuur van de ECB naast beleidsrentebesluitingen",
+      "summary": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+      "source_name": "ECB Press Releases",
+      "published_at": "2026-10-02T13:00:00+00:00",
+      "tags": [
+        "macro",
+        "regulation",
+        "ECB"
+      ]
+    },
+    {
+      "id": "news-6-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -84,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-23fee21bfb",
+      "id": "news-7-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-985734cbc1",
+      "id": "news-8-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
       "source_name": "Cointelegraph",
       "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-8d60b1c756",
-      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
