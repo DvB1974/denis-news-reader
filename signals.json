@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-02T11:00:20.372523+00:00",
+  "generated_at": "2026-10-02T12:00:23.157664+00:00",
   "signals": [
     {
       "id": "news-1-154ffdc203",
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-9bdb918240",
-      "title": "Kongres overweegt uitbreiding regelgeving crypto en stablecoins voor banken",
-      "summary": "Congress is reportedly considering expanding crypto rules to allow banks and credit unions to hold digital assets, issue&#8230;",
+      "id": "news-8-c82f0db48a",
+      "title": "BNB Chain bereikt $1,1 miljard in getokeniseerde aandelen en ETF's",
+      "summary": "Tokenized stocks and ETFs on BNB Chain reached $1.1 billion as the broader market climbed to $3.7 billion, putting the network’s share at roughly 30%.",
       "type": "news",
       "impact": "high",
-      "confidence": 95,
+      "confidence": 93,
       "tone": "opportunity",
-      "url": "https://watcher.guru/news/congress-considers-expanding-crypto-stablecoin-rules-for-banks",
-      "source_name": "Watcher.Guru",
-      "published_at": "2026-10-01T19:18:00+00:00",
+      "url": "https://cointelegraph.com/markets/bnb-chain-1-billion-tokenized-assets-market-3-7-billion",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-02T11:40:21+00:00",
       "tags": [
         "crypto",
         "markets"
