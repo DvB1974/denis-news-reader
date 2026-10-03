@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-02T20:00:15.069365+00:00",
+  "generated_at": "2026-10-03T05:00:35.027045+00:00",
   "signals": [
     {
       "id": "news-1-cd5278b992",
@@ -83,24 +83,7 @@
       ]
     },
     {
-      "id": "news-6-cb6784f470",
-      "title": "Besluiten van de Raad van Bestuur van de ECB naast beleidsrentebesluitingen",
-      "summary": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-10-02T13:00:00+00:00",
-      "tags": [
-        "macro",
-        "regulation",
-        "ECB"
-      ]
-    },
-    {
-      "id": "news-7-d89343b8cf",
+      "id": "news-6-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -116,7 +99,7 @@
       ]
     },
     {
-      "id": "news-8-23fee21bfb",
+      "id": "news-7-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -130,6 +113,23 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-8-cb6784f470",
+      "title": "Besluiten van de Raad van Bestuur van de ECB naast beleidsrentebesluitingen",
+      "summary": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+      "source_name": "ECB Press Releases",
+      "published_at": "2026-10-02T13:00:00+00:00",
+      "tags": [
+        "macro",
+        "regulation",
+        "ECB"
       ]
     }
   ]
