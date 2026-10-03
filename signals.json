@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-03T06:00:23.901892+00:00",
+  "generated_at": "2026-10-03T07:00:15.199768+00:00",
   "signals": [
     {
       "id": "news-1-cd5278b992",
@@ -36,23 +36,7 @@
       ]
     },
     {
-      "id": "news-3-9ef41fe9f9",
-      "title": "50.000 Europeanen vragen EU om stablecoin-beloningen in MiCA soepeler in te stellen",
-      "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-01T18:45:09+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-3c1d1d9f86",
+      "id": "news-3-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -62,6 +46,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-9ef41fe9f9",
+      "title": "50.000 Europeanen vragen EU om stablecoin-beloningen in MiCA soepeler in te stellen",
+      "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-01T18:45:09+00:00",
       "tags": [
         "crypto",
         "markets"
