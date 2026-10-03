@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-03T19:00:15.951139+00:00",
+  "generated_at": "2026-10-03T20:00:20.788153+00:00",
   "signals": [
     {
       "id": "news-1-cd5278b992",
@@ -68,22 +68,7 @@
       ]
     },
     {
-      "id": "news-5-4654393997",
-      "title": "Circle bezwaard tegen MiCA-bankdepositverplichting voor stablecoins",
-      "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
-      "source_name": "Decrypt",
-      "published_at": "2026-10-02T19:46:03+00:00",
-      "tags": [
-        "crypto"
-      ]
-    },
-    {
-      "id": "news-6-d89343b8cf",
+      "id": "news-5-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -99,7 +84,7 @@
       ]
     },
     {
-      "id": "news-7-23fee21bfb",
+      "id": "news-6-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -113,6 +98,21 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-7-4654393997",
+      "title": "Circle bezwaard tegen MiCA-bankdepositverplichting voor stablecoins",
+      "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter—siding with the ECB in calling for more flexible rules.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
+      "source_name": "Decrypt",
+      "published_at": "2026-10-02T19:46:03+00:00",
+      "tags": [
+        "crypto"
       ]
     },
     {
