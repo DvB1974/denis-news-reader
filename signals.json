@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-04T19:00:20.742383+00:00",
+  "generated_at": "2026-10-04T20:00:16.508319+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -36,23 +36,7 @@
       ]
     },
     {
-      "id": "news-3-154ffdc203",
-      "title": "Hyperliquid en Circle dienen opmerkingen in over MiCA-regelgeving",
-      "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-      "source_name": "The Block",
-      "published_at": "2026-10-01T19:10:36+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-d89343b8cf",
+      "id": "news-3-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -68,7 +52,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -82,6 +66,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-154ffdc203",
+      "title": "Hyperliquid en Circle dienen opmerkingen in over MiCA-regelgeving",
+      "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+      "source_name": "The Block",
+      "published_at": "2026-10-01T19:10:36+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
