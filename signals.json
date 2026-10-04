@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-04T18:00:18.974627+00:00",
+  "generated_at": "2026-10-04T19:00:20.742383+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -52,23 +52,7 @@
       ]
     },
     {
-      "id": "news-4-9ef41fe9f9",
-      "title": "50.000 Europeanen vragen EU om stablecoin-beloningen in MiCA soepeler in te stellen",
-      "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-01T18:45:09+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-d89343b8cf",
+      "id": "news-4-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -84,7 +68,7 @@
       ]
     },
     {
-      "id": "news-6-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -98,6 +82,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-6-9ef41fe9f9",
+      "title": "50.000 Europeanen vragen EU om stablecoin-beloningen in MiCA soepeler in te stellen",
+      "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-01T18:45:09+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
