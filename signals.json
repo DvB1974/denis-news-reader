@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-05T19:00:20.054869+00:00",
+  "generated_at": "2026-10-05T20:00:27.496686+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -117,20 +117,19 @@
       ]
     },
     {
-      "id": "news-8-517b42d1a3",
-      "title": "Philip R. Lane: Diagnoseuitdagingen voor ECB-monetair beleid",
-      "summary": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-      "type": "regulation",
+      "id": "news-8-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+      "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-10-05T08:00:00+00:00",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
-        "macro",
-        "regulation",
-        "ECB"
+        "crypto",
+        "markets"
       ]
     }
   ]
