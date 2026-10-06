@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-05T20:00:27.496686+00:00",
+  "generated_at": "2026-10-06T05:01:04.003877+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,55 @@
       ]
     },
     {
-      "id": "news-4-42e44fd030",
+      "id": "news-4-c01b75568e",
+      "title": "OKX lanceert stablecoin-app met rendement voor opkomende markten",
+      "summary": "OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualifying USDG balances earning up to 10% APY.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/okx-money-stablecoin-savings-payments-emerging-markets",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-06T03:40:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-21T11:27:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-42e44fd030",
       "title": "Stripe breidt stablecoin-kaarten naar meer dan 100 landen uit",
       "summary": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
       "type": "news",
@@ -69,7 +117,7 @@
       ]
     },
     {
-      "id": "news-5-b017c54857",
+      "id": "news-8-b017c54857",
       "title": "Unieke stablecoin-wallets in China stijgen 43x ondanks crypto-beperkingen",
       "summary": "Unique wallets sending P2P stablecoin transactions in China grew 43-fold between Q1 2024 and Q2 2026 as crypto activity increasingly shifted toward direct wallet-to-wallet transfers.",
       "type": "news",
@@ -79,54 +127,6 @@
       "url": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-05T13:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-cd5278b992",
-      "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
-      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-02T12:25:56+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-c8a0582df1",
-      "title": "Bitcoin toont technische verschuiving, Ethereum voorbereidt zich op Glamsterdam",
-      "summary": "Technicals signal bitcoin shift, Ethereum gears up for Glamsterdam: Crypto Week Ahead",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/markets/2026/10/05/technicals-signal-bitcoin-shift-ethereum-gears-up-for-glamsterdam-crypto-week-ahead",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-05T09:37:13+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
