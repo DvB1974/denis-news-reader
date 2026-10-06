@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-06T09:00:13.585049+00:00",
+  "generated_at": "2026-10-06T10:00:24.415066+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-c01b75568e",
+      "id": "news-4-fc94c644ee",
+      "title": "OKX Money biedt sparen, tien procent rendement en uitgeven van dollarcoin in één app",
+      "summary": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-06T09:02:01+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-c01b75568e",
       "title": "OKX lanceert stablecoin-app met rendement voor opkomende markten",
       "summary": "OKX Money lets users hold, send and spend dollar-backed stablecoins, with qualifying USDG balances earning up to 10% APY.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -101,32 +117,16 @@
       ]
     },
     {
-      "id": "news-7-42e44fd030",
-      "title": "Stripe breidt stablecoin-kaarten naar meer dan 100 landen uit",
-      "summary": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+      "id": "news-8-aeb3f922f5",
+      "title": "Ondo biedt beleggingstoken met blootstelling aan privémarkt pre-IPO bedrijven",
+      "summary": "Ondo’s tokenized notes will give eligible investors exposure to private companies, with the first tied to an unnamed pre-IPO AI company.",
       "type": "news",
       "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-05T13:46:31+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-b017c54857",
-      "title": "Unieke stablecoin-wallets in China stijgen 43x ondanks crypto-beperkingen",
-      "summary": "Unique wallets sending P2P stablecoin transactions in China grew 43-fold between Q1 2024 and Q2 2026 as crypto activity increasingly shifted toward direct wallet-to-wallet transfers.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/china-stablecoin-p2p-wallets-crypto-restrictions",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai",
       "source_name": "Cointelegraph",
-      "published_at": "2026-10-05T13:00:00+00:00",
+      "published_at": "2026-10-06T09:21:38+00:00",
       "tags": [
         "crypto",
         "markets"
