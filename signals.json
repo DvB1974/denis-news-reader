@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-07T16:00:24.958152+00:00",
+  "generated_at": "2026-10-07T18:00:23.632501+00:00",
   "signals": [
     {
-      "id": "news-1-a0f695afe9",
+      "id": "news-1-c8b495a762",
+      "title": "Tether en Kazachse centrale bank verkennen tenge-stablecoin en activatokenisering",
+      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-07T16:25:38+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-a0f695afe9",
       "title": "Tether werkt samen met Kazachstans centrale bank aan stablecoin en tokenisering",
       "summary": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
       "type": "news",
@@ -20,7 +36,7 @@
       ]
     },
     {
-      "id": "news-2-3c1d1d9f86",
+      "id": "news-3-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-d528d0988c",
+      "id": "news-4-d528d0988c",
       "title": "Bitcoin.de-handel blijft stilgelegd na afwijzing MiCA-aanvraag Duitse toezichthouder",
       "summary": "Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services.",
       "type": "news",
@@ -52,7 +68,7 @@
       ]
     },
     {
-      "id": "news-4-d89343b8cf",
+      "id": "news-5-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -68,7 +84,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-6-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -85,7 +101,23 @@
       ]
     },
     {
-      "id": "news-6-90aa6cf8ee",
+      "id": "news-7-1c1142825d",
+      "title": "Polygon gebruikt TRON's stablecoin-liquiditeit voor grensoverschrijdende transacties",
+      "summary": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-07T16:30:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-90aa6cf8ee",
       "title": "Olie- en gaswinsten compenseren chemiebusiness verlies bij Ineos",
       "summary": "Division of Jim Ratcliffe’s conglomerate posts loss of €2.2bn last year",
       "type": "macro",
@@ -97,38 +129,6 @@
       "published_at": "2026-10-07T10:41:38+00:00",
       "tags": [
         "macro",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-8d60b1c756",
-      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
         "markets"
       ]
     }
