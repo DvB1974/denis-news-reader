@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-07T13:00:19.946050+00:00",
+  "generated_at": "2026-10-07T14:00:22.452894+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-803c97d080",
-      "title": "Arbitrum sluit aan bij stablecoin-initiatief Global Dollar van Paxos",
-      "summary": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
+      "id": "news-8-cd5278b992",
+      "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
+      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-06T13:02:33+00:00",
+      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-02T12:25:56+00:00",
       "tags": [
         "crypto",
         "markets"
