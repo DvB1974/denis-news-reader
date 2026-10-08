@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-08T14:00:23.838251+00:00",
+  "generated_at": "2026-10-08T15:00:19.613374+00:00",
   "signals": [
     {
       "id": "news-1-c8b495a762",
@@ -20,23 +20,7 @@
       ]
     },
     {
-      "id": "news-2-a0f695afe9",
-      "title": "Tether werkt samen met Kazachstans centrale bank aan stablecoin en tokenisering",
-      "summary": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-07T14:27:37+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-3c1d1d9f86",
+      "id": "news-2-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -46,6 +30,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-a0f695afe9",
+      "title": "Tether werkt samen met Kazachstans centrale bank aan stablecoin en tokenisering",
+      "summary": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-07T14:27:37+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-d528d0988c",
+      "id": "news-6-d4f96a0c17",
+      "title": "Securitize biedt gedecentraliseerde aandelen op Solana aan, ondersteund door echte aandelen.",
+      "summary": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
+      "source_name": "The Block",
+      "published_at": "2026-10-08T14:04:39+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-d528d0988c",
       "title": "Bitcoin.de-handel blijft stilgelegd na afwijzing MiCA-aanvraag Duitse toezichthouder",
       "summary": "Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-fa143ac932",
+      "id": "news-8-fa143ac932",
       "title": "Bitcoin daalt onder $83.000 nadat onderzoeker oproept tot voorzichtigheid",
       "summary": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
       "source_name": "CoinDesk",
       "published_at": "2026-10-08T10:30:41+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-3d8cdcfa08",
-      "title": "ESMA geeft cryptobedrijven drie maanden voor uitstap niet-conforme stablecoins",
-      "summary": "ESMA urged EU crypto firms to halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-08T09:42:04+00:00",
       "tags": [
         "crypto",
         "markets"
