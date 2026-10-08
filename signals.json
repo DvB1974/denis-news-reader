@@ -1,26 +1,10 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-08T16:00:20.838364+00:00",
+  "generated_at": "2026-10-08T17:00:26.886042+00:00",
   "signals": [
     {
-      "id": "news-1-c8b495a762",
-      "title": "Tether en Kazachse centrale bank verkennen tenge-stablecoin en activatokenisering",
-      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-07T16:25:38+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-2-3c1d1d9f86",
+      "id": "news-1-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -30,6 +14,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-c8b495a762",
+      "title": "Tether en Kazachse centrale bank verkennen tenge-stablecoin en activatokenisering",
+      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-07T16:25:38+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -52,7 +52,23 @@
       ]
     },
     {
-      "id": "news-4-d89343b8cf",
+      "id": "news-4-c6dce0c3c9",
+      "title": "IMF waarschuwt voor vergrote risico's op gettokeniseerde markten",
+      "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-08T16:25:06+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -68,7 +84,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-6-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-7bd69f40f2",
+      "id": "news-7-7bd69f40f2",
       "title": "ESMA geeft cryptoplatforms drie maanden tijd niet-goedgekeurde stablecoins te verwijderen",
       "summary": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-d4f96a0c17",
+      "id": "news-8-d4f96a0c17",
       "title": "Securitize biedt gedecentraliseerde aandelen op Solana aan, ondersteund door echte aandelen.",
       "summary": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
       "source_name": "The Block",
       "published_at": "2026-10-08T14:04:39+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-d528d0988c",
-      "title": "Bitcoin.de-handel blijft stilgelegd na afwijzing MiCA-aanvraag Duitse toezichthouder",
-      "summary": "Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-07T01:48:53+00:00",
       "tags": [
         "crypto",
         "markets"
