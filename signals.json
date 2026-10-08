@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-08T15:00:19.613374+00:00",
+  "generated_at": "2026-10-08T16:00:20.838364+00:00",
   "signals": [
     {
       "id": "news-1-c8b495a762",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-d4f96a0c17",
+      "id": "news-6-7bd69f40f2",
+      "title": "ESMA geeft cryptoplatforms drie maanden tijd niet-goedgekeurde stablecoins te verwijderen",
+      "summary": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-08T15:23:26+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-d4f96a0c17",
       "title": "Securitize biedt gedecentraliseerde aandelen op Solana aan, ondersteund door echte aandelen.",
       "summary": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-d528d0988c",
+      "id": "news-8-d528d0988c",
       "title": "Bitcoin.de-handel blijft stilgelegd na afwijzing MiCA-aanvraag Duitse toezichthouder",
       "summary": "Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-07T01:48:53+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-fa143ac932",
-      "title": "Bitcoin daalt onder $83.000 nadat onderzoeker oproept tot voorzichtigheid",
-      "summary": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-08T10:30:41+00:00",
       "tags": [
         "crypto",
         "markets"
