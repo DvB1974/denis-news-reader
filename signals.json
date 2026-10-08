@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-08T09:00:19.085908+00:00",
+  "generated_at": "2026-10-08T10:00:24.286235+00:00",
   "signals": [
     {
       "id": "news-1-c8b495a762",
@@ -101,7 +101,23 @@
       ]
     },
     {
-      "id": "news-7-e037e85684",
+      "id": "news-7-3d8cdcfa08",
+      "title": "ESMA geeft cryptobedrijven drie maanden voor uitstap niet-conforme stablecoins",
+      "summary": "ESMA urged EU crypto firms to halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-08T09:42:04+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-e037e85684",
       "title": "Tether onderzoekt stablecoin en tokenisering met Kazakhstaanse centrale bank",
       "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
       "type": "news",
@@ -113,22 +129,6 @@
       "published_at": "2026-10-07T19:46:04+00:00",
       "tags": [
         "crypto"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
