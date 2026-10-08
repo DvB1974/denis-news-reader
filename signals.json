@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-08T10:00:24.286235+00:00",
+  "generated_at": "2026-10-08T11:00:18.848887+00:00",
   "signals": [
     {
       "id": "news-1-c8b495a762",
@@ -101,7 +101,23 @@
       ]
     },
     {
-      "id": "news-7-3d8cdcfa08",
+      "id": "news-7-fa143ac932",
+      "title": "Bitcoin daalt onder $83.000 nadat onderzoeker oproept tot voorzichtigheid",
+      "summary": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-08T10:30:41+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-3d8cdcfa08",
       "title": "ESMA geeft cryptobedrijven drie maanden voor uitstap niet-conforme stablecoins",
       "summary": "ESMA urged EU crypto firms to halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
       "type": "news",
@@ -114,21 +130,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-e037e85684",
-      "title": "Tether onderzoekt stablecoin en tokenisering met Kazakhstaanse centrale bank",
-      "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
-      "source_name": "Decrypt",
-      "published_at": "2026-10-07T19:46:04+00:00",
-      "tags": [
-        "crypto"
       ]
     }
   ]
