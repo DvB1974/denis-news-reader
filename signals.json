@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-08T20:00:25.974158+00:00",
+  "generated_at": "2026-10-09T05:00:50.167335+00:00",
   "signals": [
     {
-      "id": "news-1-3c1d1d9f86",
+      "id": "news-1-a0b0d7159c",
+      "title": "XRP Ledger voegt controles toe voor banken, stablecoins en getokeniseerde fondsen",
+      "summary": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-09T04:21:36+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -20,7 +36,7 @@
       ]
     },
     {
-      "id": "news-2-c8b495a762",
+      "id": "news-3-c8b495a762",
       "title": "Tether en Kazachse centrale bank verkennen tenge-stablecoin en activatokenisering",
       "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-a0f695afe9",
+      "id": "news-4-a0f695afe9",
       "title": "Tether werkt samen met Kazachstans centrale bank aan stablecoin en tokenisering",
       "summary": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
       "type": "news",
@@ -52,7 +68,7 @@
       ]
     },
     {
-      "id": "news-4-6dd6fa0904",
+      "id": "news-5-6dd6fa0904",
       "title": "Tokenisering op Wall Street kan grotere winnaars voortbrengen dan bitcoin en ether",
       "summary": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
       "type": "news",
@@ -62,22 +78,6 @@
       "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
       "source_name": "CoinDesk",
       "published_at": "2026-10-08T19:46:15+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-c6dce0c3c9",
-      "title": "IMF waarschuwt voor vergrote risico's op gettokeniseerde markten",
-      "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-08T16:25:06+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-7bd69f40f2",
-      "title": "ESMA geeft cryptoplatforms drie maanden tijd niet-goedgekeurde stablecoins te verwijderen",
-      "summary": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+      "id": "news-8-c6dce0c3c9",
+      "title": "IMF waarschuwt voor vergrote risico's op gettokeniseerde markten",
+      "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-08T15:23:26+00:00",
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-08T16:25:06+00:00",
       "tags": [
         "crypto",
         "markets"
