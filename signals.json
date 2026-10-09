@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-09T09:00:14.834908+00:00",
+  "generated_at": "2026-10-09T10:00:24.243222+00:00",
   "signals": [
     {
       "id": "news-1-a0b0d7159c",
@@ -36,7 +36,24 @@
       ]
     },
     {
-      "id": "news-3-c8b495a762",
+      "id": "news-3-71646df7f1",
+      "title": "EBA-dashboard toont banken boven Basel III-minimumvereisten in Q2 2026",
+      "summary": "The European Banking Authority (EBA) today published its CRR3/CRD6 dashboard as of Q2 2026 for 129 banks at the highest level of consolidation across the EU/EEA. EU/EEA banks maintain capital levels well above minimum requirements under the fully loaded CRR3 framework, with an average Common Equity Tier 1 (CET1) ratio projected at 15.1%, despite an increased impact of the output floor compared with previous editions.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-crr3crd6-dashboard-shows-banks-maintain-capital-levels-well-above-minimum-requirements-under",
+      "source_name": "EBA",
+      "published_at": "2026-10-09T09:13:19+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-4-c8b495a762",
       "title": "Tether en Kazachse centrale bank verkennen tenge-stablecoin en activatokenisering",
       "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
       "type": "news",
@@ -52,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-a0f695afe9",
+      "id": "news-5-a0f695afe9",
       "title": "Tether werkt samen met Kazachstans centrale bank aan stablecoin en tokenisering",
       "summary": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
       "type": "news",
@@ -68,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-6dd6fa0904",
+      "id": "news-6-6dd6fa0904",
       "title": "Tokenisering op Wall Street kan grotere winnaars voortbrengen dan bitcoin en ether",
       "summary": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
       "type": "news",
@@ -84,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-d89343b8cf",
+      "id": "news-7-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -100,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-23fee21bfb",
+      "id": "news-8-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -114,22 +131,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-c6dce0c3c9",
-      "title": "IMF waarschuwt voor vergrote risico's op gettokeniseerde markten",
-      "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-08T16:25:06+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
