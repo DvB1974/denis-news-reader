@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-09T20:00:29.226486+00:00",
+  "generated_at": "2026-10-10T05:10:17.084869+00:00",
   "signals": [
     {
       "id": "news-1-2dd5dc00e4",
@@ -20,23 +20,7 @@
       ]
     },
     {
-      "id": "news-2-a0b0d7159c",
-      "title": "XRP Ledger voegt controles toe voor banken, stablecoins en getokeniseerde fondsen",
-      "summary": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-09T04:21:36+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-3c1d1d9f86",
+      "id": "news-2-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -46,6 +30,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-a0b0d7159c",
+      "title": "XRP Ledger voegt controles toe voor banken, stablecoins en getokeniseerde fondsen",
+      "summary": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-09T04:21:36+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -69,7 +69,40 @@
       ]
     },
     {
-      "id": "news-5-c8b495a762",
+      "id": "news-5-d89343b8cf",
+      "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
+      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-22T11:22:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-23fee21bfb",
+      "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
+      "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
+      "source_name": "EBA",
+      "published_at": "2026-06-26T13:27:24+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-7-c8b495a762",
       "title": "Tether en Kazachse centrale bank verkennen tenge-stablecoin en activatokenisering",
       "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
       "type": "news",
@@ -85,7 +118,7 @@
       ]
     },
     {
-      "id": "news-6-1b91d415d7",
+      "id": "news-8-1b91d415d7",
       "title": "IMF waarschuwt dat tokenisering financiële risico's kan vergroten",
       "summary": "IMF Warns Tokenized Markets Could Amplify Financial Risks \n\n                Authored by Nate Kostar via CoinTelegraph.com ,  \n\n  Tokenization could reshape financial markets by making trading and settlement more efficient , but legal uncertainty and risks to financial stability could hinder wider adoption, according to the International Monetary Fund (IMF). \n\n     \n\n In a Thursday  analysis , the IMF said tokenized financial markets are growing rapidly but remain small compared with traditional markets, with poor interoperability and a lack of widely accepted settlement assets among the key obstacles to expansion. \n\n The gap between tokenization's potential and its current scale is evident in trading activity.  Tokenized repurchase agreements, or repos, dominate tokenized trading activity, averaging $300 billion to $350 billion in daily transaction volume , compared with roughly $13 trillion traded daily in the broader US repo market. \n\n Beyond repos and stablecoins, outstanding tokeni",
       "type": "macro",
@@ -97,38 +130,6 @@
       "published_at": "2026-10-09T15:25:00+00:00",
       "tags": [
         "macro",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-a0f695afe9",
-      "title": "Tether werkt samen met Kazachstans centrale bank aan stablecoin en tokenisering",
-      "summary": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-07T14:27:37+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-d89343b8cf",
-      "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
-      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-22T11:22:00+00:00",
-      "tags": [
-        "crypto",
         "markets"
       ]
     }
