@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-11T09:00:13.028127+00:00",
+  "generated_at": "2026-10-11T10:00:15.867677+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -85,24 +85,7 @@
       ]
     },
     {
-      "id": "news-6-71646df7f1",
-      "title": "EBA-dashboard toont banken boven Basel III-minimumvereisten in Q2 2026",
-      "summary": "The European Banking Authority (EBA) today published its CRR3/CRD6 dashboard as of Q2 2026 for 129 banks at the highest level of consolidation across the EU/EEA. EU/EEA banks maintain capital levels well above minimum requirements under the fully loaded CRR3 framework, with an average Common Equity Tier 1 (CET1) ratio projected at 15.1%, despite an increased impact of the output floor compared with previous editions.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-crr3crd6-dashboard-shows-banks-maintain-capital-levels-well-above-minimum-requirements-under",
-      "source_name": "EBA",
-      "published_at": "2026-10-09T09:13:19+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
-      ]
-    },
-    {
-      "id": "news-7-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -118,7 +101,7 @@
       ]
     },
     {
-      "id": "news-8-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -131,6 +114,23 @@
       "tags": [
         "crypto",
         "markets"
+      ]
+    },
+    {
+      "id": "news-8-71646df7f1",
+      "title": "EBA-dashboard toont banken boven Basel III-minimumvereisten in Q2 2026",
+      "summary": "The European Banking Authority (EBA) today published its CRR3/CRD6 dashboard as of Q2 2026 for 129 banks at the highest level of consolidation across the EU/EEA. EU/EEA banks maintain capital levels well above minimum requirements under the fully loaded CRR3 framework, with an average Common Equity Tier 1 (CET1) ratio projected at 15.1%, despite an increased impact of the output floor compared with previous editions.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-crr3crd6-dashboard-shows-banks-maintain-capital-levels-well-above-minimum-requirements-under",
+      "source_name": "EBA",
+      "published_at": "2026-10-09T09:13:19+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
       ]
     }
   ]
