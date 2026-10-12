@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-12T05:00:41.871028+00:00",
+  "generated_at": "2026-10-12T09:19:04.374393+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,7 +20,24 @@
       ]
     },
     {
-      "id": "news-2-d89343b8cf",
+      "id": "news-2-ce70378a27",
+      "title": "Amerikaanse inflatie en Ethereum-upgrade op agenda deze week",
+      "summary": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+      "source_name": "CoinDesk – Policy",
+      "published_at": "2026-10-12T08:58:24+00:00",
+      "tags": [
+        "regulation",
+        "MiCA",
+        "crypto"
+      ]
+    },
+    {
+      "id": "news-3-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -36,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -53,7 +70,58 @@
       ]
     },
     {
-      "id": "news-4-2dd5dc00e4",
+      "id": "news-5-46e194e616",
+      "title": "XRP-bug bij aanbodlimiet jaren onopgemerkt gebleven",
+      "summary": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+      "source_name": "CoinDesk – Policy",
+      "published_at": "2026-10-12T08:32:17+00:00",
+      "tags": [
+        "regulation",
+        "MiCA",
+        "crypto"
+      ]
+    },
+    {
+      "id": "news-6-30d9dd476d",
+      "title": "Ledger meldt ongeautoriseerde component in apparaat van CryptoBilis",
+      "summary": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+      "source_name": "CoinDesk – Policy",
+      "published_at": "2026-10-12T07:49:40+00:00",
+      "tags": [
+        "regulation",
+        "MiCA",
+        "crypto"
+      ]
+    },
+    {
+      "id": "news-7-b0e9aee9f1",
+      "title": "EBA publiceert eindrapport over technische normen centrale effectenbewaarplaatsen",
+      "summary": "The European Banking Authority (EBA) today published a report proposing draft amendments to the Regulatory Technical Standards (RTS) on certain prudential requirements for central securities depositories (CSDs) and designated credit institutions offering ‘banking-type ancillary services’. This mostly responds to changes introduced by the Central Securities Depositories Regulation (CSDR) “Refit”, notably those allowing banking CSDs to provide banking-type ancillary services to other CSDs.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-final-report-draft-amendments-technical-standards-prudential-requirements-central",
+      "source_name": "EBA",
+      "published_at": "2026-10-12T07:13:34+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-8-2dd5dc00e4",
       "title": "Base-oprichter Pollak voorspelt groei tokenisering aandelen en niet-dollar stablecoins",
       "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
       "type": "news",
@@ -63,70 +131,6 @@
       "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
       "source_name": "The Block",
       "published_at": "2026-10-09T13:12:57+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-9b60eb3d1f",
-      "title": "IMF signaleert vraag naar getokeniseerde aandelen ondanks volatiliteit",
-      "summary": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-11T13:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-8d60b1c756",
-      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-a0b0d7159c",
-      "title": "XRP Ledger voegt controles toe voor banken, stablecoins en getokeniseerde fondsen",
-      "summary": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-09T04:21:36+00:00",
       "tags": [
         "crypto",
         "markets"
