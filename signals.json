@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-12T10:00:17.512865+00:00",
+  "generated_at": "2026-10-12T11:00:23.808171+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -70,7 +70,23 @@
       ]
     },
     {
-      "id": "news-5-46e194e616",
+      "id": "news-5-1f4590158c",
+      "title": "Morgan Stanley bereidt ondersteuning tokenisering aandelen voor Q1 2027 voor",
+      "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
+      "source_name": "The Block",
+      "published_at": "2026-10-12T10:10:13+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-46e194e616",
       "title": "XRP-bug bij aanbodlimiet jaren onopgemerkt gebleven",
       "summary": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
       "type": "regulation",
@@ -87,7 +103,7 @@
       ]
     },
     {
-      "id": "news-6-30d9dd476d",
+      "id": "news-7-30d9dd476d",
       "title": "Ledger meldt ongeautoriseerde component in apparaat van CryptoBilis",
       "summary": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
       "type": "regulation",
@@ -104,7 +120,7 @@
       ]
     },
     {
-      "id": "news-7-b0e9aee9f1",
+      "id": "news-8-b0e9aee9f1",
       "title": "EBA publiceert eindrapport over technische normen centrale effectenbewaarplaatsen",
       "summary": "The European Banking Authority (EBA) today published a report proposing draft amendments to the Regulatory Technical Standards (RTS) on certain prudential requirements for central securities depositories (CSDs) and designated credit institutions offering ‘banking-type ancillary services’. This mostly responds to changes introduced by the Central Securities Depositories Regulation (CSDR) “Refit”, notably those allowing banking CSDs to provide banking-type ancillary services to other CSDs.",
       "type": "regulation",
@@ -118,22 +134,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-02fc568e2e",
-      "title": "FSB waarschuwt voor stablecoin-risico's en AI-bedreigingen voor G20",
-      "summary": "The Financial Stability Board flagged cross-border stablecoin risks and AI-related cybersecurity threats while urging G20 policymakers to support stronger safeguards.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/fsb-stablecoin-ai-risks-g20-finance-meeting",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-12T06:30:21+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
