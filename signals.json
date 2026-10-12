@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-11T20:00:21.041676+00:00",
+  "generated_at": "2026-10-12T05:00:41.871028+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,39 +20,7 @@
       ]
     },
     {
-      "id": "news-2-2dd5dc00e4",
-      "title": "Base-oprichter Pollak voorspelt groei tokenisering aandelen en niet-dollar stablecoins",
-      "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
-      "source_name": "The Block",
-      "published_at": "2026-10-09T13:12:57+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-9b60eb3d1f",
-      "title": "IMF signaleert vraag naar getokeniseerde aandelen ondanks volatiliteit",
-      "summary": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-11T13:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-d89343b8cf",
+      "id": "news-2-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -68,7 +36,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -85,23 +53,39 @@
       ]
     },
     {
-      "id": "news-6-a0b0d7159c",
-      "title": "XRP Ledger voegt controles toe voor banken, stablecoins en getokeniseerde fondsen",
-      "summary": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+      "id": "news-4-2dd5dc00e4",
+      "title": "Base-oprichter Pollak voorspelt groei tokenisering aandelen en niet-dollar stablecoins",
+      "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-09T04:21:36+00:00",
+      "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
+      "source_name": "The Block",
+      "published_at": "2026-10-09T13:12:57+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-7-985734cbc1",
+      "id": "news-5-9b60eb3d1f",
+      "title": "IMF signaleert vraag naar getokeniseerde aandelen ondanks volatiliteit",
+      "summary": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-11T13:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -117,7 +101,7 @@
       ]
     },
     {
-      "id": "news-8-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -127,6 +111,22 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-a0b0d7159c",
+      "title": "XRP Ledger voegt controles toe voor banken, stablecoins en getokeniseerde fondsen",
+      "summary": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-09T04:21:36+00:00",
       "tags": [
         "crypto",
         "markets"
