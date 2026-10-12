@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-12T11:00:23.808171+00:00",
+  "generated_at": "2026-10-12T12:00:19.599616+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -70,7 +70,23 @@
       ]
     },
     {
-      "id": "news-5-1f4590158c",
+      "id": "news-5-f187bfdcec",
+      "title": "Financiële toezichthouder roept op tot grensoverschrijdende informatie-uitwisseling en stablecoin-crisisbereiding",
+      "summary": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-12T11:02:38+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-1f4590158c",
       "title": "Morgan Stanley bereidt ondersteuning tokenisering aandelen voor Q1 2027 voor",
       "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.",
       "type": "news",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-46e194e616",
+      "id": "news-7-46e194e616",
       "title": "XRP-bug bij aanbodlimiet jaren onopgemerkt gebleven",
       "summary": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
       "type": "regulation",
@@ -103,7 +119,7 @@
       ]
     },
     {
-      "id": "news-7-30d9dd476d",
+      "id": "news-8-30d9dd476d",
       "title": "Ledger meldt ongeautoriseerde component in apparaat van CryptoBilis",
       "summary": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
       "type": "regulation",
@@ -117,23 +133,6 @@
         "regulation",
         "MiCA",
         "crypto"
-      ]
-    },
-    {
-      "id": "news-8-b0e9aee9f1",
-      "title": "EBA publiceert eindrapport over technische normen centrale effectenbewaarplaatsen",
-      "summary": "The European Banking Authority (EBA) today published a report proposing draft amendments to the Regulatory Technical Standards (RTS) on certain prudential requirements for central securities depositories (CSDs) and designated credit institutions offering ‘banking-type ancillary services’. This mostly responds to changes introduced by the Central Securities Depositories Regulation (CSDR) “Refit”, notably those allowing banking CSDs to provide banking-type ancillary services to other CSDs.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-final-report-draft-amendments-technical-standards-prudential-requirements-central",
-      "source_name": "EBA",
-      "published_at": "2026-10-12T07:13:34+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     }
   ]
