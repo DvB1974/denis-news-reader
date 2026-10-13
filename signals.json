@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-12T18:00:33.789457+00:00",
+  "generated_at": "2026-10-13T07:01:05.934326+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -70,69 +70,67 @@
       ]
     },
     {
-      "id": "news-5-27dc48a49a",
-      "title": "EBA publiceert definitieve technische documenten voor rapportageframework versie 4.4",
-      "summary": "​The European Banking Authority (EBA) today released the final technical package for version 4.4 of its reporting and disclosure framework, covering IFRS 18 reporting, Pillar 3 ESG disclosures and other technical amendments.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-releases-final-technical-package-release-44-its-reporting-and-pillar-3-disclosure-framework",
-      "source_name": "EBA",
-      "published_at": "2026-10-12T13:10:34+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
-      ]
-    },
-    {
-      "id": "news-6-f187bfdcec",
-      "title": "Financiële toezichthouder roept op tot grensoverschrijdende informatie-uitwisseling en stablecoin-crisisbereiding",
-      "summary": "Global financial watchdog calls for cross-border information sharing, planning for stablecoin crisis",
+      "id": "news-5-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/10/12/global-financial-watchdog-calls-for-cross-border-information-sharing-planning-for-stablecoin-crisis",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-12T11:02:38+00:00",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-7-1f4590158c",
-      "title": "Morgan Stanley bereidt ondersteuning tokenisering aandelen voor Q1 2027 voor",
-      "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.",
+      "id": "news-6-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
-      "source_name": "The Block",
-      "published_at": "2026-10-12T10:10:13+00:00",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-8-46e194e616",
-      "title": "XRP-bug bij aanbodlimiet jaren onopgemerkt gebleven",
-      "summary": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
-      "type": "regulation",
+      "id": "news-7-1c696ff424",
+      "title": "Boekhoudkundig voorstel VS maakt stablecoins aantrekkelijker voor bedrijven",
+      "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.",
+      "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
-      "source_name": "CoinDesk – Policy",
-      "published_at": "2026-10-12T08:32:17+00:00",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-12T18:38:14+00:00",
       "tags": [
-        "regulation",
-        "MiCA",
-        "crypto"
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-271982e531",
+      "title": "Tokeniseerde SanDisk-posities zagen meer liquidaties dan XRP na chipcrisis in Azië",
+      "summary": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+      "type": "news",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-13T05:27:17+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     }
   ]
