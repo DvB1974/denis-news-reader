@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-13T12:00:28.165367+00:00",
+  "generated_at": "2026-10-13T13:00:16.505108+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -70,7 +70,40 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-5-329cacc0bd",
+      "title": "Federated Hermes lanceert eerste onchain-fondsen met getokeniseerde aandelen",
+      "summary": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-13T11:56:04+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-76a81334e7",
+      "title": "Europese toezichthouders stellen prioriteiten vast voor 2027",
+      "summary": "The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) published today its Annual Work Programme for 2027, setting out its priorities for addressing cross-sectoral risks and strengthening coordination across the European Union's financial sector.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-supervisory-authorities-set-priorities-2027",
+      "source_name": "EBA",
+      "published_at": "2026-10-13T08:16:04+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-7-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -86,7 +119,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-8-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -96,38 +129,6 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-1c696ff424",
-      "title": "Boekhoudkundig voorstel VS maakt stablecoins aantrekkelijker voor bedrijven",
-      "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-12T18:38:14+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-271982e531",
-      "title": "Tokeniseerde SanDisk-posities zagen meer liquidaties dan XRP na chipcrisis in Azië",
-      "summary": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
-      "type": "news",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-13T05:27:17+00:00",
       "tags": [
         "crypto",
         "markets"
