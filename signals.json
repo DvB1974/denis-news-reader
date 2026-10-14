@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-14T12:00:24.032767+00:00",
+  "generated_at": "2026-10-14T13:00:30.999676+00:00",
   "signals": [
     {
-      "id": "news-1-3c1d1d9f86",
+      "id": "news-1-6195aadc03",
+      "title": "DriveWealth gebruikt RLUSD voor stablecoin-afwikkeling en grensoverschrijdende betalingen",
+      "summary": "DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-10-14-drivewealth-ripple-rlusd-stablecoin-settlement-418479",
+      "source_name": "The Block – Policy",
+      "published_at": "2026-10-14T13:00:00+00:00",
+      "tags": [
+        "regulation",
+        "crypto"
+      ]
+    },
+    {
+      "id": "news-2-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -20,7 +36,7 @@
       ]
     },
     {
-      "id": "news-2-d89343b8cf",
+      "id": "news-3-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -53,7 +69,7 @@
       ]
     },
     {
-      "id": "news-4-ee04c656c2",
+      "id": "news-5-ee04c656c2",
       "title": "DNB verleent Qivalis vergunning voor MiCA-conforme euro-stablecoin",
       "summary": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-1bfcee0b87",
+      "id": "news-6-1bfcee0b87",
       "title": "Frankrijk overweegt belasting op gereglementeerde stablecoins",
       "summary": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-985734cbc1",
+      "id": "news-7-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-8-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -114,23 +130,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-ce70378a27",
-      "title": "Amerikaanse inflatie en Ethereum-upgrade op agenda deze week",
-      "summary": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-      "source_name": "CoinDesk – Policy",
-      "published_at": "2026-10-12T08:58:24+00:00",
-      "tags": [
-        "regulation",
-        "MiCA",
-        "crypto"
       ]
     }
   ]
