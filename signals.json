@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-14T17:00:37.198472+00:00",
+  "generated_at": "2026-10-14T18:00:26.936825+00:00",
   "signals": [
     {
       "id": "news-1-6195aadc03",
@@ -85,7 +85,22 @@
       ]
     },
     {
-      "id": "news-6-cdb4c5928d",
+      "id": "news-6-3c018a9416",
+      "title": "Standard Chartered biedt Bitcoin en Ethereum aan vermogen klanten in UAE",
+      "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+      "source_name": "Decrypt",
+      "published_at": "2026-10-14T17:46:05+00:00",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "id": "news-7-cdb4c5928d",
       "title": "Standard Chartered verwacht stablecoin-markt van 2 biljoen dollar in 2030",
       "summary": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields.",
       "type": "news",
@@ -101,7 +116,7 @@
       ]
     },
     {
-      "id": "news-7-38b0b1e91a",
+      "id": "news-8-38b0b1e91a",
       "title": "Standard Chartered verschuift prognose stablecoin-markt naar 2030 door groeivertraging",
       "summary": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year.",
       "type": "news",
@@ -114,23 +129,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-07f81f31e8",
-      "title": "EBA klassificeerd USDC als eerste significante e-money token in EU",
-      "summary": "​The European Banking Authority (EBA) has classified USDC, issued by Circle Internet Financial Europe SAS, as a significant e-money token (EMT) under the Markets in Crypto Assets Regulation (MiCA), following its assessment of the criteria set out in the Regulation. There are currently 45 EMTs in the European Union, which have been notified under MiCA, and USDC is the first one to be classified as being significant.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
-      "source_name": "EBA",
-      "published_at": "2026-10-14T14:36:49+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     }
   ]
