@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-13T20:00:24.311892+00:00",
+  "generated_at": "2026-10-14T05:00:55.761694+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,24 +20,7 @@
       ]
     },
     {
-      "id": "news-2-ce70378a27",
-      "title": "Amerikaanse inflatie en Ethereum-upgrade op agenda deze week",
-      "summary": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
-      "source_name": "CoinDesk – Policy",
-      "published_at": "2026-10-12T08:58:24+00:00",
-      "tags": [
-        "regulation",
-        "MiCA",
-        "crypto"
-      ]
-    },
-    {
-      "id": "news-3-d89343b8cf",
+      "id": "news-2-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -53,7 +36,7 @@
       ]
     },
     {
-      "id": "news-4-23fee21bfb",
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -70,40 +53,24 @@
       ]
     },
     {
-      "id": "news-5-329cacc0bd",
-      "title": "Federated Hermes lanceert eerste onchain-fondsen met getokeniseerde aandelen",
-      "summary": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-13T11:56:04+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-76a81334e7",
-      "title": "Europese toezichthouders stellen prioriteiten vast voor 2027",
-      "summary": "The Joint Committee of the European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) published today its Annual Work Programme for 2027, setting out its priorities for addressing cross-sectoral risks and strengthening coordination across the European Union's financial sector.",
+      "id": "news-4-ce70378a27",
+      "title": "Amerikaanse inflatie en Ethereum-upgrade op agenda deze week",
+      "summary": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
       "type": "regulation",
       "impact": "high",
       "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-supervisory-authorities-set-priorities-2027",
-      "source_name": "EBA",
-      "published_at": "2026-10-13T08:16:04+00:00",
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+      "source_name": "CoinDesk – Policy",
+      "published_at": "2026-10-12T08:58:24+00:00",
       "tags": [
         "regulation",
-        "EU",
-        "private-banking"
+        "MiCA",
+        "crypto"
       ]
     },
     {
-      "id": "news-7-985734cbc1",
+      "id": "news-5-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -119,7 +86,7 @@
       ]
     },
     {
-      "id": "news-8-8d60b1c756",
+      "id": "news-6-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -129,6 +96,38 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-329cacc0bd",
+      "title": "Federated Hermes lanceert eerste onchain-fondsen met getokeniseerde aandelen",
+      "summary": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-13T11:56:04+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-19409389d8",
+      "title": "BNY en Citadel Securities testen tokenisering van Amerikaanse staatsobligaties",
+      "summary": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+      "type": "news",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "risk",
+      "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-13T21:52:00+00:00",
       "tags": [
         "crypto",
         "markets"
