@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-14T14:00:32.662872+00:00",
+  "generated_at": "2026-10-14T16:00:30.281743+00:00",
   "signals": [
     {
       "id": "news-1-6195aadc03",
@@ -36,7 +36,23 @@
       ]
     },
     {
-      "id": "news-3-d89343b8cf",
+      "id": "news-3-bf4097fa9e",
+      "title": "Voormalige FTX Europa-chef richt zich op tokenisering aandelen in VS met SEC-vrijstelling",
+      "summary": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-14T14:08:43+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -52,7 +68,7 @@
       ]
     },
     {
-      "id": "news-4-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -69,7 +85,40 @@
       ]
     },
     {
-      "id": "news-5-5daebdd132",
+      "id": "news-6-38b0b1e91a",
+      "title": "Standard Chartered verschuift prognose stablecoin-markt naar 2030 door groeivertraging",
+      "summary": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
+      "source_name": "The Block",
+      "published_at": "2026-10-14T15:47:18+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-07f81f31e8",
+      "title": "EBA klassificeerd USDC als eerste significante e-money token in EU",
+      "summary": "​The European Banking Authority (EBA) has classified USDC, issued by Circle Internet Financial Europe SAS, as a significant e-money token (EMT) under the Markets in Crypto Assets Regulation (MiCA), following its assessment of the criteria set out in the Regulation. There are currently 45 EMTs in the European Union, which have been notified under MiCA, and USDC is the first one to be classified as being significant.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-classifies-usdc-first-significant-e-money-token-european-union",
+      "source_name": "EBA",
+      "published_at": "2026-10-14T14:36:49+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-8-5daebdd132",
       "title": "Qivalis ontvangt EMI-vergunning DNB voor eurostablecoin",
       "summary": "Qivalis said the EMI authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.",
       "type": "news",
@@ -79,54 +128,6 @@
       "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-14T12:53:41+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-ee04c656c2",
-      "title": "DNB verleent Qivalis vergunning voor MiCA-conforme euro-stablecoin",
-      "summary": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-14T11:12:36+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-1bfcee0b87",
-      "title": "Frankrijk overweegt belasting op gereglementeerde stablecoins",
-      "summary": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-14T08:48:11+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
