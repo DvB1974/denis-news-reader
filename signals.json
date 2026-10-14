@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-14T16:00:30.281743+00:00",
+  "generated_at": "2026-10-14T17:00:37.198472+00:00",
   "signals": [
     {
       "id": "news-1-6195aadc03",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-38b0b1e91a",
+      "id": "news-6-cdb4c5928d",
+      "title": "Standard Chartered verwacht stablecoin-markt van 2 biljoen dollar in 2030",
+      "summary": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-14T16:26:31+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-38b0b1e91a",
       "title": "Standard Chartered verschuift prognose stablecoin-markt naar 2030 door groeivertraging",
       "summary": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-07f81f31e8",
+      "id": "news-8-07f81f31e8",
       "title": "EBA klassificeerd USDC als eerste significante e-money token in EU",
       "summary": "​The European Banking Authority (EBA) has classified USDC, issued by Circle Internet Financial Europe SAS, as a significant e-money token (EMT) under the Markets in Crypto Assets Regulation (MiCA), following its assessment of the criteria set out in the Regulation. There are currently 45 EMTs in the European Union, which have been notified under MiCA, and USDC is the first one to be classified as being significant.",
       "type": "regulation",
@@ -115,22 +131,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-5daebdd132",
-      "title": "Qivalis ontvangt EMI-vergunning DNB voor eurostablecoin",
-      "summary": "Qivalis said the EMI authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-14T12:53:41+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
