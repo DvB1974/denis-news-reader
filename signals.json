@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-15T16:00:26.507848+00:00",
+  "generated_at": "2026-10-15T17:00:21.980135+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-bf4097fa9e",
-      "title": "Voormalige FTX Europa-chef richt zich op tokenisering aandelen in VS met SEC-vrijstelling",
-      "summary": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+      "id": "news-8-92db7a885b",
+      "title": "Multiliquid haalt 8 miljoen dollar op voor tokeniseeringsplatform",
+      "summary": "Multiliquid has raised $8 million across its pre-seed and seed rounds, with Polychain leading the seed round.",
       "type": "news",
       "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-14T14:08:43+00:00",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
+      "source_name": "The Block",
+      "published_at": "2026-10-15T16:00:02+00:00",
       "tags": [
         "crypto",
         "markets"
