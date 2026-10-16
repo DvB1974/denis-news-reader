@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-16T17:00:29.101643+00:00",
+  "generated_at": "2026-10-16T18:00:21.052356+00:00",
   "signals": [
     {
       "id": "news-1-d712e45969",
@@ -69,7 +69,39 @@
       ]
     },
     {
-      "id": "news-5-6195aadc03",
+      "id": "news-5-f88070939a",
+      "title": "Stablecoins kosten 84 procent minder voor geldtransfers dan bankwisselingen",
+      "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-16T17:21:45+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-59b786b103",
+      "title": "Coinbase biedt stablecoin-kaarten via Marqeta-platform",
+      "summary": "The expanded partnership builds on Marqeta’s work powering Coinbase’s U.S. debit card offering in 2020.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
+      "source_name": "The Block",
+      "published_at": "2026-10-16T17:21:29+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-6195aadc03",
       "title": "DriveWealth gebruikt RLUSD voor stablecoin-afwikkeling en grensoverschrijdende betalingen",
       "summary": "DriveWealth will use Ripple's RLUSD on the XRP Ledger for stablecoin settlement, collateral funding and custody, starting in Europe.",
       "type": "regulation",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-35d99220f9",
+      "id": "news-8-35d99220f9",
       "title": "Circle breidt naar 40 nieuwe markten uit onder groeiende vraag stablecoins",
       "summary": "Circle targets 40 new markets as stablecoin demand grows globally",
       "type": "news",
@@ -95,38 +127,6 @@
       "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
       "source_name": "CoinDesk",
       "published_at": "2026-10-16T10:54:35+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-8d60b1c756",
-      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
