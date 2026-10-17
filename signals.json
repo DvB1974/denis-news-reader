@@ -1,26 +1,10 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-17T10:00:13.202971+00:00",
+  "generated_at": "2026-10-17T11:00:19.699802+00:00",
   "signals": [
     {
-      "id": "news-1-d712e45969",
-      "title": "Tokenisering: liquiditeit en dagelijkse stablecoins als volgende uitdagingen",
-      "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-16T10:27:18+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-2-3c1d1d9f86",
+      "id": "news-1-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -30,6 +14,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-d712e45969",
+      "title": "Tokenisering: liquiditeit en dagelijkse stablecoins als volgende uitdagingen",
+      "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-16T10:27:18+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -69,7 +69,23 @@
       ]
     },
     {
-      "id": "news-5-e545c03081",
+      "id": "news-5-6c9f61930f",
+      "title": "Circle onderzoekt toepassing in veertig ontwikkelingslanden",
+      "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-17T10:00:07+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-e545c03081",
       "title": "ECB-voorzitter Lagarde geeft verklaring aan IMFC",
       "summary": "Christine Lagarde: IMFC Statement",
       "type": "regulation",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-985734cbc1",
+      "id": "news-7-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-8-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-f88070939a",
-      "title": "Stablecoins kosten 84 procent minder voor geldtransfers dan bankwisselingen",
-      "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-16T17:21:45+00:00",
       "tags": [
         "crypto",
         "markets"
