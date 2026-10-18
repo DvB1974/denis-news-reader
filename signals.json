@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-18T14:00:26.151003+00:00",
+  "generated_at": "2026-10-18T15:00:13.383801+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,7 +69,23 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-5-015676352c",
+      "title": "Stablecoin-aanbod stagneert, betalingen stijgen 45% met Visa, Mastercard en Stripe",
+      "summary": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-18T14:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-a93a0edab8",
+      "id": "news-8-a93a0edab8",
       "title": "Circle verdedigt USDC-economie tegen concurrentie van rivalen",
       "summary": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
       "source_name": "CoinDesk",
       "published_at": "2026-10-18T01:06:35+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-cd5278b992",
-      "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
-      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-02T12:25:56+00:00",
       "tags": [
         "crypto",
         "markets"
