@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-19T19:00:16.157964+00:00",
+  "generated_at": "2026-10-19T20:00:27.342733+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-a98f399e1d",
+      "id": "news-4-38956c0e41",
+      "title": "Mastercard introduceert screeningservice voor stablecoinrisico's bij banken",
+      "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-19T19:03:23+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-a98f399e1d",
       "title": "Mastercard introduceert risicoscreeningtool voor stablecoinbetalingen",
       "summary": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
       "type": "regulation",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-9b0e007b67",
+      "id": "news-6-9b0e007b67",
       "title": "USD1-stablecoin van World Liberty verliest 400 miljoen dollar marktwaarde",
       "summary": "World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-026f2d8016",
+      "id": "news-7-026f2d8016",
       "title": "SEC-kader voor getokeniseerde aandelen krijgt tegenstand van uitgevers Broadcom en Verizon",
       "summary": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-d2d280c8c7",
+      "id": "news-8-d2d280c8c7",
       "title": "Frankrijk neemt stablecoin-belastingvoorstel aan, onderzoekt regelgeving zelfcustody",
       "summary": "France’s National Assembly adopted a crypto tax amendment targeting certain stablecoin swaps, while separate proposals on exit taxes and self-custodial wallet reporting remain under consideration.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-19T10:22:30+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-094b6e5985",
-      "title": "BingX en YouHodler ingeschreven in ESMA MiCA-register",
-      "summary": "ESMA’s latest MiCA register update includes BingX, YouHodler and Banco Santander’s Openbank, bringing the total to 375 unique CASPs.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-19T10:13:00+00:00",
       "tags": [
         "crypto",
         "markets"
