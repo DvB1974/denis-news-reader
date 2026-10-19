@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-18T20:00:18.757215+00:00",
+  "generated_at": "2026-10-19T05:00:31.517433+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,16 +20,16 @@
       ]
     },
     {
-      "id": "news-2-d712e45969",
-      "title": "Tokenisering: liquiditeit en dagelijkse stablecoins als volgende uitdagingen",
-      "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
+      "id": "news-2-026f2d8016",
+      "title": "SEC-kader voor getokeniseerde aandelen krijgt tegenstand van uitgevers Broadcom en Verizon",
+      "summary": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-16T10:27:18+00:00",
+      "tone": "risk",
+      "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-18T23:28:06+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -69,16 +69,16 @@
       ]
     },
     {
-      "id": "news-5-015676352c",
-      "title": "Stablecoin-aanbod stagneert, betalingen stijgen 45% met Visa, Mastercard en Stripe",
-      "summary": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "id": "news-5-d712e45969",
+      "title": "Tokenisering: liquiditeit en dagelijkse stablecoins als volgende uitdagingen",
+      "summary": "Panelists at Cointelegraph’s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-18T14:00:00+00:00",
+      "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-16T10:27:18+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-a93a0edab8",
-      "title": "Circle verdedigt USDC-economie tegen concurrentie van rivalen",
-      "summary": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "id": "news-8-015676352c",
+      "title": "Stablecoin-aanbod stagneert, betalingen stijgen 45% met Visa, Mastercard en Stripe",
+      "summary": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
       "source_name": "CoinDesk",
-      "published_at": "2026-10-18T01:06:35+00:00",
+      "published_at": "2026-10-18T14:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
