@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-20T16:00:23.377790+00:00",
+  "generated_at": "2026-10-20T17:00:22.183294+00:00",
   "signals": [
     {
-      "id": "news-1-3c1d1d9f86",
+      "id": "news-1-3d43220e04",
+      "title": "Injective en BDACS plannen won-stablecoin voor tokenisering",
+      "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-20T16:47:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -20,7 +36,7 @@
       ]
     },
     {
-      "id": "news-2-d89343b8cf",
+      "id": "news-3-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -53,7 +69,23 @@
       ]
     },
     {
-      "id": "news-4-744a19325e",
+      "id": "news-5-aa612c817e",
+      "title": "Stablecoin-overdrachten stijgen naar 891 miljard dollar ondanks onveranderde marktkapitalisatie.",
+      "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-20T16:38:13+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-744a19325e",
       "title": "Injective brengt Koreaanse won-stablecoin naar RWA-ecosysteem",
       "summary": "The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins.",
       "type": "news",
@@ -69,7 +101,7 @@
       ]
     },
     {
-      "id": "news-5-46c6413884",
+      "id": "news-7-46c6413884",
       "title": "Stablecoins verwerken gemiddeld $400 miljoen per uur volgens onderzoek Coinbase",
       "summary": "Stablecoins are on track to reach $1.5 trillion in quarterly adjusted transfer volume by the end of 2027 at current growth rates, according to the report.",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-bc9f9f5b46",
+      "id": "news-8-bc9f9f5b46",
       "title": "Tx lanceert USTX stablecoin voor RWA-liquiditeit op eigen blockchain",
       "summary": "The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx.",
       "type": "news",
@@ -95,38 +127,6 @@
       "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-20T12:30:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-12043e279f",
-      "title": "Frankrijk stemt in met 31% belastingstarief op stablecoins.",
-      "summary": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-20T11:25:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
