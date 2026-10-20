@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-20T11:00:21.577629+00:00",
+  "generated_at": "2026-10-20T12:00:20.190315+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-985734cbc1",
+      "id": "news-4-12043e279f",
+      "title": "Frankrijk stemt in met 31% belastingstarief op stablecoins.",
+      "summary": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-20T11:25:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-8d60b1c756",
+      "id": "news-6-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-38956c0e41",
+      "id": "news-7-38956c0e41",
       "title": "Mastercard introduceert screeningservice voor stablecoinrisico's bij banken",
       "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-a98f399e1d",
+      "id": "news-8-a98f399e1d",
       "title": "Mastercard introduceert risicoscreeningtool voor stablecoinbetalingen",
       "summary": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
       "type": "regulation",
@@ -114,22 +130,6 @@
       "tags": [
         "regulation",
         "crypto"
-      ]
-    },
-    {
-      "id": "news-8-9b0e007b67",
-      "title": "USD1-stablecoin van World Liberty verliest 400 miljoen dollar marktwaarde",
-      "summary": "World Liberty Financial’s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-19T11:57:58+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
