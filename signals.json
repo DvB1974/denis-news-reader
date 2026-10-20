@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-20T12:00:20.190315+00:00",
+  "generated_at": "2026-10-20T13:00:21.195817+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-12043e279f",
+      "id": "news-4-bc9f9f5b46",
+      "title": "Tx lanceert USTX stablecoin voor RWA-liquiditeit op eigen blockchain",
+      "summary": "The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-20T12:30:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-12043e279f",
       "title": "Frankrijk stemt in met 31% belastingstarief op stablecoins.",
       "summary": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -101,35 +117,19 @@
       ]
     },
     {
-      "id": "news-7-38956c0e41",
-      "title": "Mastercard introduceert screeningservice voor stablecoinrisico's bij banken",
-      "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+      "id": "news-8-2b435228d8",
+      "title": "Microsoft, Alphabet en Goldman Sachs bezwaar tegen OKX-ICE tokenisering aandelen",
+      "summary": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
       "type": "news",
       "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-19T19:03:23+00:00",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-20T12:40:17+00:00",
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-a98f399e1d",
-      "title": "Mastercard introduceert risicoscreeningtool voor stablecoinbetalingen",
-      "summary": "Mastercard unveiled Stablecoin Security, a risk screening service launching in North America before planned global availability in 2027.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.theblock.co/news/business/2026-10-19-mastercard-unveils-stablecoin-security-tool-to-screen-payments-for-fraud-and-sanctions-risks-420658",
-      "source_name": "The Block – Policy",
-      "published_at": "2026-10-19T16:00:00+00:00",
-      "tags": [
-        "regulation",
-        "crypto"
       ]
     }
   ]
