@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-21T17:00:17.348837+00:00",
+  "generated_at": "2026-10-21T18:00:35.458986+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,7 +69,39 @@
       ]
     },
     {
-      "id": "news-5-dc9f7bed33",
+      "id": "news-5-252d8ab1e6",
+      "title": "American Bankers Association kritiseert OCC over definitieve stablecoin-beloningsregel",
+      "summary": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
+      "source_name": "The Block",
+      "published_at": "2026-10-21T17:59:36+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-566178ce14",
+      "title": "Stablecoin-transacties bereiken $400 miljoen per uur in Q3 2026",
+      "summary": "Stablecoins Move $400M An Hour, With 73% Of Volume Outside Banking Hours: Coinbase \n\n                Authored by Nate Kostar via CoinTelegraph.com ,  \n\n  Stablecoins moved more than $400 million an hour in adjusted transfer volume during the third quarter of 2026, as quarterly activity reached $891 billion, more than quadrupling since early 2023, according to a new report commissioned by Coinbase.  \n\n     \n\n The report found that 73% of screened stablecoin transfer volume occurred outside US banking hours, including nights, weekends and holidays. \n\n     \n\n  Distribution of stablecoin transfer volume by time of day. Source:    Coinbase and The Block Research, via Dune Analytics   \n\n Seven of the 10 largest US banks have tested stablecoins or tokenized deposits for settlement, while 30% of mid-market companies conducting cross-border business are using or piloting stablecoins, up from 10% in 2024. Business-to-business payment volume also rose 36% year over year. \n\n  Conducted by The Bloc",
+      "type": "macro",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.zerohedge.com/crypto/stablecoins-move-400m-hour-73-volume-outside-banking-hours-coinbase",
+      "source_name": "ZeroHedge",
+      "published_at": "2026-10-21T14:50:00+00:00",
+      "tags": [
+        "macro",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-dc9f7bed33",
       "title": "OCC stelt definitieve regels GENIUS Act vast voor stablecoin-uitgevers",
       "summary": "The Office of the Comptroller of the Currency’s final rule covers payment stablecoin issuance and some custody activities, with the GENIUS Act framework taking effect in mid-January.",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-91c2fa178b",
+      "id": "news-8-91c2fa178b",
       "title": "Japanse bezoekers kunnen mogelijk met yen-stablecoins in Zuid-Korea betalen via Shinhan-SBI-overeenkomst",
       "summary": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
       "type": "news",
@@ -95,38 +127,6 @@
       "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
       "source_name": "CoinDesk",
       "published_at": "2026-10-21T12:10:39+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-76dcd7489b",
-      "title": "OCC evalueert stablecoin-beloningen opnieuw onder GENIUS Act",
-      "summary": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-21T11:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-ed2dcdd488",
-      "title": "Shinhan en SBI testen yen-stablecoin voor toerisme Japan-Korea",
-      "summary": "The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement between South Korea and Japan.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-21T10:22:44+00:00",
       "tags": [
         "crypto",
         "markets"
