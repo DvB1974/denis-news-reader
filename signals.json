@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-21T06:00:18.957604+00:00",
+  "generated_at": "2026-10-21T07:00:19.443908+00:00",
   "signals": [
     {
       "id": "news-1-3d43220e04",
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-aa612c817e",
-      "title": "Stablecoin-overdrachten stijgen naar 891 miljard dollar ondanks onveranderde marktkapitalisatie.",
-      "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.",
+      "id": "news-8-d8ba2b4cb1",
+      "title": "Maleisische centrale bank lanceert DLT-platform voor getokeniseerde obligaties",
+      "summary": "The platform tracks tokenized securities ownership and transfers, linking to Malaysia’s RENTAS+ system to settle corresponding payments in central bank money.",
       "type": "news",
       "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report",
+      "confidence": 93,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform",
       "source_name": "Cointelegraph",
-      "published_at": "2026-10-20T16:38:13+00:00",
+      "published_at": "2026-10-21T05:56:29+00:00",
       "tags": [
         "crypto",
         "markets"
