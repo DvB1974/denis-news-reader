@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-20T20:00:28.452634+00:00",
+  "generated_at": "2026-10-21T05:00:56.634675+00:00",
   "signals": [
     {
       "id": "news-1-3d43220e04",
@@ -69,7 +69,55 @@
       ]
     },
     {
-      "id": "news-5-aa612c817e",
+      "id": "news-5-9112f5e3a5",
+      "title": "MoonPay en Dunamu onderzoeken samenwerking voor stablecoin-betalingen en GIWA-uitbreiding",
+      "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+      "source_name": "The Block",
+      "published_at": "2026-10-21T02:30:08+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-21T11:27:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-aa612c817e",
       "title": "Stablecoin-overdrachten stijgen naar 891 miljard dollar ondanks onveranderde marktkapitalisatie.",
       "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year.",
       "type": "news",
@@ -79,54 +127,6 @@
       "url": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-20T16:38:13+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-744a19325e",
-      "title": "Injective brengt Koreaanse won-stablecoin naar RWA-ecosysteem",
-      "summary": "The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883",
-      "source_name": "The Block",
-      "published_at": "2026-10-20T14:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-46c6413884",
-      "title": "Stablecoins verwerken gemiddeld $400 miljoen per uur volgens onderzoek Coinbase",
-      "summary": "Stablecoins are on track to reach $1.5 trillion in quarterly adjusted transfer volume by the end of 2027 at current growth rates, according to the report.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111",
-      "source_name": "The Block",
-      "published_at": "2026-10-20T13:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-bc9f9f5b46",
-      "title": "Tx lanceert USTX stablecoin voor RWA-liquiditeit op eigen blockchain",
-      "summary": "The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-20T12:30:00+00:00",
       "tags": [
         "crypto",
         "markets"
