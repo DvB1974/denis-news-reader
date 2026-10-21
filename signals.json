@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-21T12:00:21.771073+00:00",
+  "generated_at": "2026-10-21T13:02:49.228919+00:00",
   "signals": [
     {
       "id": "news-1-3d43220e04",
@@ -69,7 +69,39 @@
       ]
     },
     {
-      "id": "news-5-76dcd7489b",
+      "id": "news-5-dc9f7bed33",
+      "title": "OCC stelt definitieve regels GENIUS Act vast voor stablecoin-uitgevers",
+      "summary": "The Office of the Comptroller of the Currency’s final rule covers payment stablecoin issuance and some custody activities, with the GENIUS Act framework taking effect in mid-January.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-21T12:26:58+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-91c2fa178b",
+      "title": "Japanse bezoekers kunnen mogelijk met yen-stablecoins in Zuid-Korea betalen via Shinhan-SBI-overeenkomst",
+      "summary": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-21T12:10:39+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-76dcd7489b",
       "title": "OCC evalueert stablecoin-beloningen opnieuw onder GENIUS Act",
       "summary": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-ed2dcdd488",
+      "id": "news-8-ed2dcdd488",
       "title": "Shinhan en SBI testen yen-stablecoin voor toerisme Japan-Korea",
       "summary": "The companies will assess safeguards for travelers and whether stablecoins can speed up trade settlement between South Korea and Japan.",
       "type": "news",
@@ -95,38 +127,6 @@
       "url": "https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-21T10:22:44+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-9112f5e3a5",
-      "title": "MoonPay en Dunamu onderzoeken samenwerking voor stablecoin-betalingen en GIWA-uitbreiding",
-      "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
-      "source_name": "The Block",
-      "published_at": "2026-10-21T02:30:08+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
