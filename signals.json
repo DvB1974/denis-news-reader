@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-22T15:00:22.366672+00:00",
+  "generated_at": "2026-10-22T16:00:28.508158+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -84,7 +84,23 @@
       ]
     },
     {
-      "id": "news-6-3830bc4cee",
+      "id": "news-6-09e3de0be5",
+      "title": "Stablecoins zijn klaar voor mainstream adoptie door adviseurs",
+      "summary": "Crypto for Advisors: Stablecoins are ready for prime time",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-22T14:58:31+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-3830bc4cee",
       "title": "Shell en Exxon verkopen chemicaliënbedrijf Infineum voor miljarden",
       "summary": "Infineum taps advisers at Bank of America to run a sale of the business as Shell focuses on core oil and gas operations",
       "type": "macro",
@@ -100,7 +116,7 @@
       ]
     },
     {
-      "id": "news-7-32b702304a",
+      "id": "news-8-32b702304a",
       "title": "EBA verlengt consultatietermijnen vanwege websiteonderhoud",
       "summary": "On 21 October 2026, CERT-EU, the cybersecurity service for the EU institutions, bodies and agencies, alerted organisations to two critical security flaws in software used to run many websites, including that of the European Banking Authority (EBA). As a precaution, the EBA took its website offline on Wednesday 21 October 2026 at 13:00 CEST while the necessary security updates were applied. The website was restored on Thursday 22 October 2026 at 14:00 CEST.",
       "type": "regulation",
@@ -110,23 +126,6 @@
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-extends-some-consultation-deadlines-due-website-maintenance",
       "source_name": "EBA",
       "published_at": "2026-10-22T12:53:14+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-fabb6e6bad",
-      "title": "Ik kan deze kop niet herschrijven. Dit is geen financieel nieuwsbericht — het gaat over softwareontwikkeling (PHP-patch), niet over financiën, crypto, markten of regelgeving.\n\nMijn taak is het hersch",
-      "summary": "test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/test-see-if-php-patch-works",
-      "source_name": "EBA",
-      "published_at": "2026-10-22T10:02:58+00:00",
       "tags": [
         "regulation",
         "EU",
