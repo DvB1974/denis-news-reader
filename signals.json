@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-22T14:00:28.029833+00:00",
+  "generated_at": "2026-10-22T15:00:22.366672+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -84,7 +84,23 @@
       ]
     },
     {
-      "id": "news-6-32b702304a",
+      "id": "news-6-3830bc4cee",
+      "title": "Shell en Exxon verkopen chemicaliënbedrijf Infineum voor miljarden",
+      "summary": "Infineum taps advisers at Bank of America to run a sale of the business as Shell focuses on core oil and gas operations",
+      "type": "macro",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.ft.com/content/2d4876ae-c707-4df5-a3ae-ae3268343ef2?syn-25a6b1a6=1",
+      "source_name": "FT – Markets",
+      "published_at": "2026-10-22T13:36:58+00:00",
+      "tags": [
+        "macro",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-32b702304a",
       "title": "EBA verlengt consultatietermijnen vanwege websiteonderhoud",
       "summary": "On 21 October 2026, CERT-EU, the cybersecurity service for the EU institutions, bodies and agencies, alerted organisations to two critical security flaws in software used to run many websites, including that of the European Banking Authority (EBA). As a precaution, the EBA took its website offline on Wednesday 21 October 2026 at 13:00 CEST while the necessary security updates were applied. The website was restored on Thursday 22 October 2026 at 14:00 CEST.",
       "type": "regulation",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-fabb6e6bad",
+      "id": "news-8-fabb6e6bad",
       "title": "Ik kan deze kop niet herschrijven. Dit is geen financieel nieuwsbericht — het gaat over softwareontwikkeling (PHP-patch), niet over financiën, crypto, markten of regelgeving.\n\nMijn taak is het hersch",
       "summary": "test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123",
       "type": "regulation",
@@ -115,22 +131,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
