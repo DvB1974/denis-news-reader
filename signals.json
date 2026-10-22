@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-22T11:00:20.002216+00:00",
+  "generated_at": "2026-10-22T12:00:29.954594+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,7 +69,24 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-5-fabb6e6bad",
+      "title": "Ik kan deze kop niet herschrijven. Dit is geen financieel nieuwsbericht — het gaat over softwareontwikkeling (PHP-patch), niet over financiën, crypto, markten of regelgeving.\n\nMijn taak is het hersch",
+      "summary": "test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/test-see-if-php-patch-works",
+      "source_name": "EBA",
+      "published_at": "2026-10-22T10:02:58+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -101,35 +118,19 @@
       ]
     },
     {
-      "id": "news-7-252d8ab1e6",
-      "title": "American Bankers Association kritiseert OCC over definitieve stablecoin-beloningsregel",
-      "summary": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
-      "type": "news",
+      "id": "news-8-9f1734e35a",
+      "title": "Dune lanceert onchain handelsgegevens voor tokengebaseerde markten",
+      "summary": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
+      "type": "regulation",
       "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
-      "source_name": "The Block",
-      "published_at": "2026-10-21T17:59:36+00:00",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+      "source_name": "The Block – Policy",
+      "published_at": "2026-10-22T12:00:00+00:00",
       "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-93d1cfc13c",
-      "title": "Cardano Foundation waarschuwt EU tegen uitbreiding MiCA naar DeFi en staking",
-      "summary": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-21T17:57:39+00:00",
-      "tags": [
-        "crypto",
-        "markets"
+        "regulation",
+        "crypto"
       ]
     }
   ]
