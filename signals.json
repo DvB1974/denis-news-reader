@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-22T12:00:29.954594+00:00",
+  "generated_at": "2026-10-22T13:00:19.007065+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -36,7 +36,22 @@
       ]
     },
     {
-      "id": "news-3-d89343b8cf",
+      "id": "news-3-094cd75e16",
+      "title": "SoFi lanceert tokenized storting met 4,4% rendement en stablecoin-conversie",
+      "summary": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance—a yield-and-protection combination ordinary stablecoins lack.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+      "source_name": "Decrypt",
+      "published_at": "2026-10-22T12:01:03+00:00",
+      "tags": [
+        "crypto"
+      ]
+    },
+    {
+      "id": "news-4-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -52,7 +67,7 @@
       ]
     },
     {
-      "id": "news-4-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -69,7 +84,24 @@
       ]
     },
     {
-      "id": "news-5-fabb6e6bad",
+      "id": "news-6-32b702304a",
+      "title": "EBA verlengt consultatietermijnen vanwege websiteonderhoud",
+      "summary": "On 21 October 2026, CERT-EU, the cybersecurity service for the EU institutions, bodies and agencies, alerted organisations to two critical security flaws in software used to run many websites, including that of the European Banking Authority (EBA). As a precaution, the EBA took its website offline on Wednesday 21 October 2026 at 13:00 CEST while the necessary security updates were applied. The website was restored on Thursday 22 October 2026 at 14:00 CEST.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-extends-some-consultation-deadlines-due-website-maintenance",
+      "source_name": "EBA",
+      "published_at": "2026-10-22T12:53:14+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-7-fabb6e6bad",
       "title": "Ik kan deze kop niet herschrijven. Dit is geen financieel nieuwsbericht — het gaat over softwareontwikkeling (PHP-patch), niet over financiën, crypto, markten of regelgeving.\n\nMijn taak is het hersch",
       "summary": "test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123 test text comes here 123",
       "type": "regulation",
@@ -86,7 +118,7 @@
       ]
     },
     {
-      "id": "news-6-985734cbc1",
+      "id": "news-8-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -99,38 +131,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-7-8d60b1c756",
-      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-9f1734e35a",
-      "title": "Dune lanceert onchain handelsgegevens voor tokengebaseerde markten",
-      "summary": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
-      "source_name": "The Block – Policy",
-      "published_at": "2026-10-22T12:00:00+00:00",
-      "tags": [
-        "regulation",
-        "crypto"
       ]
     }
   ]
