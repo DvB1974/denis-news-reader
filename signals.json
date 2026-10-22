@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-21T20:00:16.832801+00:00",
+  "generated_at": "2026-10-22T05:01:09.386164+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -101,32 +101,32 @@
       ]
     },
     {
-      "id": "news-7-566178ce14",
-      "title": "Stablecoin-transacties bereiken $400 miljoen per uur in Q3 2026",
-      "summary": "Stablecoins Move $400M An Hour, With 73% Of Volume Outside Banking Hours: Coinbase \n\n                Authored by Nate Kostar via CoinTelegraph.com ,  \n\n  Stablecoins moved more than $400 million an hour in adjusted transfer volume during the third quarter of 2026, as quarterly activity reached $891 billion, more than quadrupling since early 2023, according to a new report commissioned by Coinbase.  \n\n     \n\n The report found that 73% of screened stablecoin transfer volume occurred outside US banking hours, including nights, weekends and holidays. \n\n     \n\n  Distribution of stablecoin transfer volume by time of day. Source:    Coinbase and The Block Research, via Dune Analytics   \n\n Seven of the 10 largest US banks have tested stablecoins or tokenized deposits for settlement, while 30% of mid-market companies conducting cross-border business are using or piloting stablecoins, up from 10% in 2024. Business-to-business payment volume also rose 36% year over year. \n\n  Conducted by The Bloc",
-      "type": "macro",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.zerohedge.com/crypto/stablecoins-move-400m-hour-73-volume-outside-banking-hours-coinbase",
-      "source_name": "ZeroHedge",
-      "published_at": "2026-10-21T14:50:00+00:00",
-      "tags": [
-        "macro",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-dc9f7bed33",
-      "title": "OCC stelt definitieve regels GENIUS Act vast voor stablecoin-uitgevers",
-      "summary": "The Office of the Comptroller of the Currency’s final rule covers payment stablecoin issuance and some custody activities, with the GENIUS Act framework taking effect in mid-January.",
+      "id": "news-7-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/occ-finalizes-genius-act-rules-stablecoin-issuers-custody",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
       "source_name": "Cointelegraph",
-      "published_at": "2026-10-21T12:26:58+00:00",
+      "published_at": "2026-09-21T11:27:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
