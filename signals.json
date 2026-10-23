@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-23T10:00:21.268660+00:00",
+  "generated_at": "2026-10-23T11:00:16.981988+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-672bac5bfd",
+      "id": "news-4-85fc56c510",
+      "title": "HSBC lanceert eerste stablecoin voor meer dan drie miljoen app-gebruikers",
+      "summary": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-23T10:22:56+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-672bac5bfd",
       "title": "Zuid-Korea wijzigt valutawet voor regulering stablecoins als betaalmiddel",
       "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-568c5cce48",
+      "id": "news-6-568c5cce48",
       "title": "Zweedse centrale bank hervat discussie over e-krona vanwege stablecoins en digitale euro",
       "summary": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-f1c169baf5",
+      "id": "news-7-f1c169baf5",
       "title": "HSBC lanceert hongkongdollar-stablecoin voor betalingen via PayMe",
       "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-da039c1481",
+      "id": "news-8-da039c1481",
       "title": "ECB-consumentenenquête september 2026 gepubliceerd",
       "summary": "ECB Consumer Expectations Survey results – September 2026",
       "type": "regulation",
@@ -115,22 +131,6 @@
         "macro",
         "regulation",
         "ECB"
-      ]
-    },
-    {
-      "id": "news-8-a1354fb082",
-      "title": "Maleisië en Thailand sluiten aan bij stablecoin-initiatief Singapore",
-      "summary": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-23T07:15:53+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
