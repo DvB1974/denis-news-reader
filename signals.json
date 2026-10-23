@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-23T13:00:23.400237+00:00",
+  "generated_at": "2026-10-23T14:00:21.975248+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,24 @@
       ]
     },
     {
-      "id": "news-4-87056e513e",
+      "id": "news-4-2037174a3a",
+      "title": "EBA benoemt Kristīne Černaja-Mežmale tot plaatsvervangend voorzitter",
+      "summary": "​The Board of Supervisors of the European Banking Authority (EBA) has elected Kristīne Černaja-Mežmale as its Vice-Chair for a duration of two and a half years. Ms Černaja-Mežmale will take up her new role on 1 November 2026 when the current EBA Vice-Chair, Helmut Ettl starts his new role as Executive Director of the International Monetary Fund (IMF).",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-appoints-kristine-cernaja-mezmale-its-new-vice-chair",
+      "source_name": "EBA",
+      "published_at": "2026-10-23T13:19:12+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-87056e513e",
       "title": "Singapore, Maleisië en Thailand breiden stablecoin-initiatief uit",
       "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
       "type": "news",
@@ -69,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-85fc56c510",
+      "id": "news-6-85fc56c510",
       "title": "HSBC lanceert eerste stablecoin voor meer dan drie miljoen app-gebruikers",
       "summary": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
       "type": "news",
@@ -85,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-672bac5bfd",
+      "id": "news-7-672bac5bfd",
       "title": "Zuid-Korea wijzigt valutawet voor regulering stablecoins als betaalmiddel",
       "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
       "type": "news",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-568c5cce48",
+      "id": "news-8-568c5cce48",
       "title": "Zweedse centrale bank hervat discussie over e-krona vanwege stablecoins en digitale euro",
       "summary": "Sweden’s central bank revives e-krona debate as stablecoins and digital euro loom",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
       "source_name": "CoinDesk",
       "published_at": "2026-10-23T08:57:34+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-f1c169baf5",
-      "title": "HSBC lanceert hongkongdollar-stablecoin voor betalingen via PayMe",
-      "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-23T08:47:34+00:00",
       "tags": [
         "crypto",
         "markets"
