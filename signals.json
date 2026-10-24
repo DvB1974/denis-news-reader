@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-24T12:00:13.223791+00:00",
+  "generated_at": "2026-10-24T13:00:39.027040+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -118,16 +118,16 @@
       ]
     },
     {
-      "id": "news-8-87056e513e",
-      "title": "Singapore, Maleisië en Thailand breiden stablecoin-initiatief uit",
-      "summary": "Malaysia and Thailand have joined Singapore's BLOOM initiative for cross-border stablecoin and tokenized deposit settlement.",
+      "id": "news-8-cd5278b992",
+      "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
+      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.theblock.co/news/regulation/2026-10-23-singapore-malaysia-and-thailand-central-banks-expand-cross-border-stablecoin-initiative-involving-ripple-visa-and-mastercard-426492",
-      "source_name": "The Block",
-      "published_at": "2026-10-23T12:55:26+00:00",
+      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-02T12:25:56+00:00",
       "tags": [
         "crypto",
         "markets"
