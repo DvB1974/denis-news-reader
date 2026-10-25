@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-24T20:00:16.612024+00:00",
+  "generated_at": "2026-10-25T06:00:28.961350+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,39 +20,7 @@
       ]
     },
     {
-      "id": "news-2-940e55205b",
-      "title": "Bitcoin-beleggers gebruiken steeds meer leningen en rendement",
-      "summary": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-24T14:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-d9bb4b4d21",
-      "title": "Welgestelde Bitcoin-houders gebruiken vaker leningen en rendementsstrategie",
-      "summary": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-24T14:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-d89343b8cf",
+      "id": "news-2-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -68,7 +36,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-3-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -82,6 +50,38 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-4-940e55205b",
+      "title": "Bitcoin-beleggers gebruiken steeds meer leningen en rendement",
+      "summary": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-24T14:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-d9bb4b4d21",
+      "title": "Welgestelde Bitcoin-houders gebruiken vaker leningen en rendementsstrategie",
+      "summary": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-24T14:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-fea77f7a64",
-      "title": "SEC ziet tokenisering als hoog risico in toezicht 2027",
-      "summary": "The SEC’s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
+      "id": "news-8-cd5278b992",
+      "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
+      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
       "source_name": "Cointelegraph",
-      "published_at": "2026-10-23T16:08:40+00:00",
+      "published_at": "2026-10-02T12:25:56+00:00",
       "tags": [
         "crypto",
         "markets"
