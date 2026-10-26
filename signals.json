@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-26T10:00:18.186879+00:00",
+  "generated_at": "2026-10-26T11:00:20.231935+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -101,7 +101,23 @@
       ]
     },
     {
-      "id": "news-7-cd5278b992",
+      "id": "news-7-2344b4bd97",
+      "title": "Waarde Securitize-tokens daalt naar $208,6 miljoen in tokenisatiemarkt",
+      "summary": "SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion tokenized equities market.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-26T10:25:01+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-cd5278b992",
       "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
       "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-02T12:25:56+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-154ffdc203",
-      "title": "Hyperliquid en Circle dienen opmerkingen in over MiCA-regelgeving",
-      "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-      "source_name": "The Block",
-      "published_at": "2026-10-01T19:10:36+00:00",
       "tags": [
         "crypto",
         "markets"
