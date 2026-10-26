@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-26T11:00:20.231935+00:00",
+  "generated_at": "2026-10-26T12:00:28.886423+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -101,32 +101,32 @@
       ]
     },
     {
-      "id": "news-7-2344b4bd97",
-      "title": "Waarde Securitize-tokens daalt naar $208,6 miljoen in tokenisatiemarkt",
-      "summary": "SECZ’s onchain market cap fell to $208.6 million as Circle-linked tokens reached a combined $383.6 million across several issuers in the $3.3 billion tokenized equities market.",
+      "id": "news-7-db22d4e301",
+      "title": "Aviva Investors tokeniseert aandeleenklasse van 29 miljard pond sterling fonds op XRP Ledger",
+      "summary": "The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger.",
       "type": "news",
       "impact": "high",
       "confidence": 93,
       "tone": "risk",
-      "url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead",
+      "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger",
       "source_name": "Cointelegraph",
-      "published_at": "2026-10-26T10:25:01+00:00",
+      "published_at": "2026-10-26T11:39:27+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-8-cd5278b992",
-      "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
-      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
+      "id": "news-8-153c84fefd",
+      "title": "Aviva Investors lanceert getokeniseerde aandeleklasse op XRP Ledger",
+      "summary": "Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger.",
       "type": "news",
       "impact": "high",
-      "confidence": 95,
+      "confidence": 93,
       "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-02T12:25:56+00:00",
+      "url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
+      "source_name": "The Block",
+      "published_at": "2026-10-26T11:34:12+00:00",
       "tags": [
         "crypto",
         "markets"
