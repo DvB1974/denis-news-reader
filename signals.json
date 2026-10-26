@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-26T14:00:35.387723+00:00",
+  "generated_at": "2026-10-26T15:00:24.162636+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-985734cbc1",
+      "id": "news-4-98142ecf4a",
+      "title": "Canada opent raadpleging over stablecoin-regelgeving, handhaaft rendementverbod",
+      "summary": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-26T14:23:41+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-8d60b1c756",
+      "id": "news-6-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-1087f4325b",
+      "id": "news-7-1087f4325b",
       "title": "Anchorpoint verschuift geen haast voor retailgerichte stablecoin",
       "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-db22d4e301",
+      "id": "news-8-db22d4e301",
       "title": "Aviva Investors tokeniseert aandeleenklasse van 29 miljard pond sterling fonds op XRP Ledger",
       "summary": "The move marks Aviva’s second fund to list tokenized shares, part of a broader collaboration to bring more tokenized funds to the XRP Ledger.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-26T11:39:27+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-153c84fefd",
-      "title": "Aviva Investors lanceert getokeniseerde aandeleklasse op XRP Ledger",
-      "summary": "Aviva Investors has launched a tokenized share class of its Sterling Liquidity Fund on the Ripple-backed XRP Ledger.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/business/2026-10-26-aviva-investors-ripple-tokenized-share-class-sterling-fund-xrp-ledger-431712",
-      "source_name": "The Block",
-      "published_at": "2026-10-26T11:34:12+00:00",
       "tags": [
         "crypto",
         "markets"
