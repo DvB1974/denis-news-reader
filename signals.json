@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-26T19:00:35.309233+00:00",
+  "generated_at": "2026-10-26T20:00:21.910764+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-e7d3b515f5",
+      "id": "news-4-b4356c3a03",
+      "title": "Canada opent consultatieronde over stablecoins en regelgeving",
+      "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-26T19:47:40+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-e7d3b515f5",
       "title": "OCC roept bankenstelling op tot deelname stablecoins-betalingsmarkt",
       "summary": "OCC calls on community banks to enter the stablecoin payments market",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-98142ecf4a",
+      "id": "news-6-98142ecf4a",
       "title": "Canada opent raadpleging over stablecoin-regelgeving, handhaaft rendementverbod",
       "summary": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-985734cbc1",
+      "id": "news-7-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-8-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-1087f4325b",
-      "title": "Anchorpoint verschuift geen haast voor retailgerichte stablecoin",
-      "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-26T00:13:29+00:00",
       "tags": [
         "crypto",
         "markets"
