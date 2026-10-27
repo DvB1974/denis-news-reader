@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-26T21:00:19.537799+00:00",
+  "generated_at": "2026-10-27T06:02:29.831831+00:00",
   "signals": [
     {
-      "id": "news-1-3c1d1d9f86",
+      "id": "news-1-e253bfe546",
+      "title": "BlackRock, SBI en Startale onderzoeken koppeling gettokeniseerde geldmarktfondsen met JPYSC",
+      "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+      "source_name": "The Block",
+      "published_at": "2026-10-27T01:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -20,7 +36,7 @@
       ]
     },
     {
-      "id": "news-2-d89343b8cf",
+      "id": "news-3-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -53,7 +69,23 @@
       ]
     },
     {
-      "id": "news-4-b4356c3a03",
+      "id": "news-5-74af46f719",
+      "title": "OCC nodigt communautaire banken uit stabelcoin-uitgever te worden",
+      "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-26T21:38:30+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-b4356c3a03",
       "title": "Canada opent consultatieronde over stablecoins en regelgeving",
       "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
       "type": "news",
@@ -63,38 +95,6 @@
       "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-26T19:47:40+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-e7d3b515f5",
-      "title": "OCC roept bankenstelling op tot deelname stablecoins-betalingsmarkt",
-      "summary": "OCC calls on community banks to enter the stablecoin payments market",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-26T15:45:51+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-98142ecf4a",
-      "title": "Canada opent raadpleging over stablecoin-regelgeving, handhaaft rendementverbod",
-      "summary": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-26T14:23:41+00:00",
       "tags": [
         "crypto",
         "markets"
