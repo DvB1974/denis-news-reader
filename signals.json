@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-27T17:00:23.899095+00:00",
+  "generated_at": "2026-10-27T18:00:18.030741+00:00",
   "signals": [
     {
       "id": "news-1-e253bfe546",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-7999e46842",
+      "id": "news-6-71b1d394fd",
+      "title": "Robinhood integreert Ripples RLUSD-stablecoin ondanks steun voor concurrent USDG",
+      "summary": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-27T16:35:29+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-7999e46842",
       "title": "USDC passeert USDT in euro-stablecoinhandel door MiCA-regelgeving",
       "summary": "USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-63878664dc",
+      "id": "news-8-63878664dc",
       "title": "Japanse yen-stablecoin haalt doelstellingen niet in eerste jaar",
       "summary": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
       "source_name": "CoinDesk",
       "published_at": "2026-10-27T11:37:52+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
