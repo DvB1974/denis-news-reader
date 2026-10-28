@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-28T11:00:25.602831+00:00",
+  "generated_at": "2026-10-28T12:00:36.196361+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,7 +69,23 @@
       ]
     },
     {
-      "id": "news-5-0251e23abd",
+      "id": "news-5-707ab69ca6",
+      "title": "XRP Ledger-ontwikkelaars stellen portefeuilles voor stablecoins zonder XRP voor",
+      "summary": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-28T11:52:14+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-0251e23abd",
       "title": "Moody's kent A2-rating toe aan Ripple's RLUSD-stablecoin",
       "summary": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-985734cbc1",
+      "id": "news-7-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-8-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-e4406dad70",
-      "title": "Ruim 85% van grote bedrijven omarmt getokeniseerde contanten voor snellere betalingen",
-      "summary": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-      "type": "news",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-28T10:41:51+00:00",
       "tags": [
         "crypto",
         "markets"
