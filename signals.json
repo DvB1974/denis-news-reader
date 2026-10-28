@@ -1,26 +1,10 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-27T21:00:31.312556+00:00",
+  "generated_at": "2026-10-28T06:01:05.760101+00:00",
   "signals": [
     {
-      "id": "news-1-e253bfe546",
-      "title": "BlackRock, SBI en Startale onderzoeken koppeling gettokeniseerde geldmarktfondsen met JPYSC",
-      "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
-      "source_name": "The Block",
-      "published_at": "2026-10-27T01:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-2-3c1d1d9f86",
+      "id": "news-1-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -30,6 +14,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-e253bfe546",
+      "title": "BlackRock, SBI en Startale onderzoeken koppeling gettokeniseerde geldmarktfondsen met JPYSC",
+      "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-10-26-blackrock-sbi-startale-mou-431642",
+      "source_name": "The Block",
+      "published_at": "2026-10-27T01:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -69,7 +69,39 @@
       ]
     },
     {
-      "id": "news-5-c9ac2f19c7",
+      "id": "news-5-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-21T11:27:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-c9ac2f19c7",
       "title": "Braziliaanse bedrijven gebruiken stablecoins op verkiezingsdag vanwege valutavolutiliteit",
       "summary": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-71b1d394fd",
+      "id": "news-8-71b1d394fd",
       "title": "Robinhood integreert Ripples RLUSD-stablecoin ondanks steun voor concurrent USDG",
       "summary": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
       "type": "news",
@@ -95,38 +127,6 @@
       "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
       "source_name": "CoinDesk",
       "published_at": "2026-10-27T16:35:29+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-7999e46842",
-      "title": "USDC passeert USDT in euro-stablecoinhandel door MiCA-regelgeving",
-      "summary": "USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-27T15:59:58+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-63878664dc",
-      "title": "Japanse yen-stablecoin haalt doelstellingen niet in eerste jaar",
-      "summary": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-27T11:37:52+00:00",
       "tags": [
         "crypto",
         "markets"
