@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-29T13:00:24.780082+00:00",
+  "generated_at": "2026-10-29T14:00:29.265177+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,7 +69,23 @@
       ]
     },
     {
-      "id": "news-5-e253bfe546",
+      "id": "news-5-913affb66f",
+      "title": "USDT komt naar Bitcoin met privacyfuncties en snellere betalingen",
+      "summary": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-29T13:30:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-e253bfe546",
       "title": "BlackRock, SBI en Startale onderzoeken koppeling gettokeniseerde geldmarktfondsen met JPYSC",
       "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-5e25e64b9f",
+      "id": "news-7-5e25e64b9f",
       "title": "ECB-president Lagarde treedt op 7 februari 2027 af",
       "summary": "ECB President Lagarde to step down on 7 February 2027",
       "type": "regulation",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-d0697542a3",
+      "id": "news-8-d0697542a3",
       "title": "EBA adviseert op vereenvoudiging Taxonomie-informatievoorschriften",
       "summary": "The European Banking Authority (EBA) has published its response to the European Commission’s Call for Technical Advice on certain key performance indicators (KPIs) and other aspects of the Disclosures Delegated Act under Article 8 of the Taxonomy Regulation. The EBA advises on targeted changes to streamline disclosure requirements, reduce complexity and enhance the usability of information disclosed by credit institutions and investment firms.",
       "type": "regulation",
@@ -116,22 +132,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-c7316516b6",
-      "title": "Voormalig SWIFT-topman wordt voorzitter van stalecoin-bedrijf OpenTrade",
-      "summary": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
-      "source_name": "CoinDesk",
-      "published_at": "2026-10-29T09:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
