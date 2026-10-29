@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-29T16:00:24.836520+00:00",
+  "generated_at": "2026-10-29T17:00:32.651552+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,7 +69,39 @@
       ]
     },
     {
-      "id": "news-5-913affb66f",
+      "id": "news-5-17a79d8d39",
+      "title": "Polygon en Solana bundelen krachten voor stablecoin-betalingen aan banken",
+      "summary": "From rivals to partners: Polygon and Solana team to bring stablecoin payments to banks",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/10/29/from-rivals-to-partners-polygon-and-solana-team-to-bring-stablecoin-payments-to-banks",
+      "source_name": "CoinDesk",
+      "published_at": "2026-10-29T16:35:43+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-24d063ff8e",
+      "title": "Canton Strategic Holdings start tokenisering van aandelen vanaf november",
+      "summary": "The tokenized shares would carry the same shareholder rights as traditional stock, with round-the-clock trading and immediate settlement under the SEC’s innovation exemption.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/canton-strategic-holdings-tokenized-stock-trading-november-2026",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-29T16:27:39+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-913affb66f",
       "title": "USDT komt naar Bitcoin met privacyfuncties en snellere betalingen",
       "summary": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin’s revamped version of Tether compete with stablecoins on ETH and TRON?",
       "type": "news",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-e253bfe546",
+      "id": "news-8-e253bfe546",
       "title": "BlackRock, SBI en Startale onderzoeken koppeling gettokeniseerde geldmarktfondsen met JPYSC",
       "summary": "BlackRock, SBI Holdings, and Startale will explore connecting tokenized money market funds with SBI's Japanese yen-pegged stablecoin JPYSC.",
       "type": "news",
@@ -98,40 +130,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-7-5e25e64b9f",
-      "title": "ECB-president Lagarde treedt op 7 februari 2027 af",
-      "summary": "ECB President Lagarde to step down on 7 February 2027",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "tags": [
-        "macro",
-        "regulation",
-        "ECB"
-      ]
-    },
-    {
-      "id": "news-8-d0697542a3",
-      "title": "EBA adviseert op vereenvoudiging Taxonomie-informatievoorschriften",
-      "summary": "The European Banking Authority (EBA) has published its response to the European Commission’s Call for Technical Advice on certain key performance indicators (KPIs) and other aspects of the Disclosures Delegated Act under Article 8 of the Taxonomy Regulation. The EBA advises on targeted changes to streamline disclosure requirements, reduce complexity and enhance the usability of information disclosed by credit institutions and investment firms.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-advises-targeted-simplifications-taxonomy-disclosures",
-      "source_name": "EBA",
-      "published_at": "2026-10-29T09:46:40+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     }
   ]
