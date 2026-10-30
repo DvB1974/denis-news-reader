@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-10-30T10:00:18.912662+00:00",
+  "generated_at": "2026-10-30T11:00:19.464411+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -86,23 +86,7 @@
       ]
     },
     {
-      "id": "news-6-71e9e02051",
-      "title": "Binance onderzoekt mogelijke beveiligingskwestie; Tether en Circle bevriezen miljarden stablecoins",
-      "summary": "Crypto Rattled By Possible Binance Hack; Tether, Circle Freeze Billions In Stablecoins \n\n                Binance said Thursday it is investigating a \"potential security issue\" after billions of dollars in crypto left its exchange wallets , and the issuers of the two largest dollar stablecoins say they have frozen well over $1 billion of it. The exchange has not said how much was taken, how, or whether it was a hack.       \" Our teams are aware of reports of a potential security issue and are actively investigating ,\" Binance said in a  post on X . \"User funds are completely safe.\"  FinanceFeeds , which reviewed the post's edit history, reports that Binance changed it twice. The first version said the exchange had \"not confirmed any impact to user funds\"; at 21:24 UTC that sentence came out, and at 21:29 UTC \"User funds are completely safe\" went in.     Our teams are aware of reports of a potential security issue and are actively investigating. User funds are completely safe.  Our secur",
-      "type": "macro",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.zerohedge.com/crypto/binance-investigates-possible-hack-after-billions-transferred-out-tether-and-circle-freeze",
-      "source_name": "ZeroHedge",
-      "published_at": "2026-10-29T23:00:00+00:00",
-      "tags": [
-        "macro",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -118,7 +102,7 @@
       ]
     },
     {
-      "id": "news-8-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -130,6 +114,22 @@
       "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-71e9e02051",
+      "title": "Binance onderzoekt mogelijke beveiligingskwestie; Tether en Circle bevriezen miljarden stablecoins",
+      "summary": "Crypto Rattled By Possible Binance Hack; Tether, Circle Freeze Billions In Stablecoins \n\n                Binance said Thursday it is investigating a \"potential security issue\" after billions of dollars in crypto left its exchange wallets , and the issuers of the two largest dollar stablecoins say they have frozen well over $1 billion of it. The exchange has not said how much was taken, how, or whether it was a hack.       \" Our teams are aware of reports of a potential security issue and are actively investigating ,\" Binance said in a  post on X . \"User funds are completely safe.\"  FinanceFeeds , which reviewed the post's edit history, reports that Binance changed it twice. The first version said the exchange had \"not confirmed any impact to user funds\"; at 21:24 UTC that sentence came out, and at 21:29 UTC \"User funds are completely safe\" went in.     Our teams are aware of reports of a potential security issue and are actively investigating. User funds are completely safe.  Our secur",
+      "type": "macro",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.zerohedge.com/crypto/binance-investigates-possible-hack-after-billions-transferred-out-tether-and-circle-freeze",
+      "source_name": "ZeroHedge",
+      "published_at": "2026-10-29T23:00:00+00:00",
+      "tags": [
+        "macro",
         "markets"
       ]
     }
