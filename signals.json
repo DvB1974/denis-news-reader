@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-02T15:00:25.523016+00:00",
+  "generated_at": "2026-11-02T16:00:28.757622+00:00",
   "signals": [
     {
       "id": "news-1-5e1276b370",
@@ -69,7 +69,23 @@
       ]
     },
     {
-      "id": "news-5-53e52d4b79",
+      "id": "news-5-00eacdd977",
+      "title": "Standard Chartered biedt tokenized deposito's in Hongkong voor bedrijven",
+      "summary": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+      "source_name": "CoinDesk",
+      "published_at": "2026-11-02T15:05:24+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-53e52d4b79",
       "title": "XRP Ledger beheert kwetsbaarheid in stablecoin-partnersysteem",
       "summary": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-985734cbc1",
+      "id": "news-7-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-8-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-f0be0c588a",
-      "title": "Tokeniseringsbedrijf tZERO plant beursgang via SPAC-deal van 350 miljoen dollar",
-      "summary": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
-      "type": "news",
-      "impact": "high",
-      "confidence": 93,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
-      "source_name": "CoinDesk",
-      "published_at": "2026-11-02T14:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
