@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-02T14:00:26.919512+00:00",
+  "generated_at": "2026-11-02T15:00:25.523016+00:00",
   "signals": [
     {
       "id": "news-1-5e1276b370",
@@ -117,20 +117,19 @@
       ]
     },
     {
-      "id": "news-8-ab4c32c288",
-      "title": "Boris Vujčić: Geïntegreerde, open en veerkrachtige Europese economie in fragmenterende wereld",
-      "summary": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
-      "type": "regulation",
+      "id": "news-8-f0be0c588a",
+      "title": "Tokeniseringsbedrijf tZERO plant beursgang via SPAC-deal van 350 miljoen dollar",
+      "summary": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+      "type": "news",
       "impact": "high",
       "confidence": 93,
       "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-11-02T09:30:00+00:00",
+      "url": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
+      "source_name": "CoinDesk",
+      "published_at": "2026-11-02T14:00:00+00:00",
       "tags": [
-        "macro",
-        "regulation",
-        "ECB"
+        "crypto",
+        "markets"
       ]
     }
   ]
