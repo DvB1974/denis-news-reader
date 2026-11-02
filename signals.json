@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-02T09:00:22.194560+00:00",
+  "generated_at": "2026-11-02T10:00:21.077610+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -85,7 +85,24 @@
       ]
     },
     {
-      "id": "news-6-cd5278b992",
+      "id": "news-6-ab4c32c288",
+      "title": "Boris Vujčić: Geïntegreerde, open en veerkrachtige Europese economie in fragmenterende wereld",
+      "summary": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "source_name": "ECB Press Releases",
+      "published_at": "2026-11-02T09:30:00+00:00",
+      "tags": [
+        "macro",
+        "regulation",
+        "ECB"
+      ]
+    },
+    {
+      "id": "news-7-cd5278b992",
       "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
       "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
       "type": "news",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-154ffdc203",
+      "id": "news-8-154ffdc203",
       "title": "Hyperliquid en Circle dienen opmerkingen in over MiCA-regelgeving",
       "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
       "source_name": "The Block",
       "published_at": "2026-10-01T19:10:36+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-9ef41fe9f9",
-      "title": "50.000 Europeanen vragen EU om stablecoin-beloningen in MiCA soepeler in te stellen",
-      "summary": "A 50,000-letter campaign is pressing Brussels to rethink stablecoin rewards as EU central banks seek broader changes to MiCA’s stablecoin rules.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-01T18:45:09+00:00",
       "tags": [
         "crypto",
         "markets"
