@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-02T12:00:19.921789+00:00",
+  "generated_at": "2026-11-02T13:00:26.684137+00:00",
   "signals": [
     {
       "id": "news-1-5e1276b370",
@@ -69,7 +69,23 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-5-53e52d4b79",
+      "title": "XRP Ledger beheert kwetsbaarheid in stablecoin-partnersysteem",
+      "summary": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+      "source_name": "CoinDesk",
+      "published_at": "2026-11-02T12:37:24+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-ab4c32c288",
+      "id": "news-8-ab4c32c288",
       "title": "Boris Vujčić: Geïntegreerde, open en veerkrachtige Europese economie in fragmenterende wereld",
       "summary": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
       "type": "regulation",
@@ -115,22 +131,6 @@
         "macro",
         "regulation",
         "ECB"
-      ]
-    },
-    {
-      "id": "news-8-cd5278b992",
-      "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
-      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-02T12:25:56+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
