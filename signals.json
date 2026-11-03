@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-02T21:00:28.570257+00:00",
+  "generated_at": "2026-11-03T06:02:10.724268+00:00",
   "signals": [
     {
       "id": "news-1-5e1276b370",
@@ -101,32 +101,32 @@
       ]
     },
     {
-      "id": "news-7-00eacdd977",
-      "title": "Standard Chartered biedt tokenized deposito's in Hongkong voor bedrijven",
-      "summary": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+      "id": "news-7-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
-      "source_name": "CoinDesk",
-      "published_at": "2026-11-02T15:05:24+00:00",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-8-53e52d4b79",
-      "title": "XRP Ledger beheert kwetsbaarheid in stablecoin-partnersysteem",
-      "summary": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+      "id": "news-8-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
-      "source_name": "CoinDesk",
-      "published_at": "2026-11-02T12:37:24+00:00",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
