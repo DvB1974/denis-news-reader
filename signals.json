@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-03T06:02:10.724268+00:00",
+  "generated_at": "2026-11-03T07:00:19.592296+00:00",
   "signals": [
     {
       "id": "news-1-5e1276b370",
@@ -85,23 +85,7 @@
       ]
     },
     {
-      "id": "news-6-4746ae48a6",
-      "title": "Tether CEO presenteert stichtingvisie met referentie naar Asimov",
-      "summary": "From Stablecoin To Foundation: Tether CEO Unveils Asimovian Vision To \"Reduce The Darkness\" \n\n              Tether CEO Paolo Ardoino cast the company as Asimov's Foundation, a seed of light for the coming dark age. Somewhat ironically, the seed money, it turns out, is the Empire's own debt, and a growing pile of Swiss gold.  Ardoino envisions Tether through the eyes of Asimov's  psychohistory : civilizational decline can't be stopped, but the \"darkness\" can be shortened by building open, unstoppable infrastructure ahead of time. Tether's version is a six-layer \"Independence Stack\" running from solar kiosks in Africa to on-device AI.  The platform for that 'stack' is the giant stablecoin firm's assets.  Bitcoin, Bills, &amp; Bullion  In the far-reaching keynote address at Lugano's Plan ₿ Forum posted to  X  this week, Tether CEO Paolo Ardoino told the audience that the giant stablecoin issuer  holds \"give or take 150,000 Bitcoin\" of its own.&nbsp;   But it's not just Bitcoin, according ",
-      "type": "macro",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.zerohedge.com/crypto/stablecoin-foundation-tether-ceo-unveils-asimovian-vision-reduce-darkness",
-      "source_name": "ZeroHedge",
-      "published_at": "2026-11-02T18:20:00+00:00",
-      "tags": [
-        "macro",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -117,7 +101,7 @@
       ]
     },
     {
-      "id": "news-8-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -129,6 +113,22 @@
       "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-4746ae48a6",
+      "title": "Tether CEO presenteert stichtingvisie met referentie naar Asimov",
+      "summary": "From Stablecoin To Foundation: Tether CEO Unveils Asimovian Vision To \"Reduce The Darkness\" \n\n              Tether CEO Paolo Ardoino cast the company as Asimov's Foundation, a seed of light for the coming dark age. Somewhat ironically, the seed money, it turns out, is the Empire's own debt, and a growing pile of Swiss gold.  Ardoino envisions Tether through the eyes of Asimov's  psychohistory : civilizational decline can't be stopped, but the \"darkness\" can be shortened by building open, unstoppable infrastructure ahead of time. Tether's version is a six-layer \"Independence Stack\" running from solar kiosks in Africa to on-device AI.  The platform for that 'stack' is the giant stablecoin firm's assets.  Bitcoin, Bills, &amp; Bullion  In the far-reaching keynote address at Lugano's Plan ₿ Forum posted to  X  this week, Tether CEO Paolo Ardoino told the audience that the giant stablecoin issuer  holds \"give or take 150,000 Bitcoin\" of its own.&nbsp;   But it's not just Bitcoin, according ",
+      "type": "macro",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.zerohedge.com/crypto/stablecoin-foundation-tether-ceo-unveils-asimovian-vision-reduce-darkness",
+      "source_name": "ZeroHedge",
+      "published_at": "2026-11-02T18:20:00+00:00",
+      "tags": [
+        "macro",
         "markets"
       ]
     }
