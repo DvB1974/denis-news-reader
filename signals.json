@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-03T21:00:19.010135+00:00",
+  "generated_at": "2026-11-04T06:01:59.489540+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,18 +69,18 @@
       ]
     },
     {
-      "id": "news-5-3ab3757a05",
-      "title": "OUSD-stablecoin beheerder stelt beheerskosten vast en biedt equity-pool",
-      "summary": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
-      "type": "news",
+      "id": "news-5-966c1fb4ae",
+      "title": "Israëlische inlichtingendiensten waarschuwen VS voor Iraanse chemische wapens",
+      "summary": "Israeli Intelligence Tells US That Iran Could Use Chemical Weapons \n\n              In something that sounds straight out of the  Babylong Bee , the Israeli government has shared intelligence with the United States asserting that  Iran is readying chemical weapons to use against adversaries .  And all of this is being floated in the pages of the  New York Times , and on election day no less... A more on the nose script couldn't be written - very much  like this one...   \n   \n  AFP/Getty Images  \n \n Apparently fully aware of this, the NY Times story authors underscore in their Tuesday afternoon headline that  \"Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials.\"   This is given that the information was  \"met with alarm by some American officials and deep skepticism by others , according to U.S. and regional officials.\"     Stating the    obvious   :  \"Some American officials see the Israeli intelligence as part of a pressure campaign by Prime Minister Benjamin Netanyahu’s g",
+      "type": "macro",
       "impact": "high",
       "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
-      "source_name": "CoinDesk",
-      "published_at": "2026-11-03T16:12:35+00:00",
+      "tone": "neutral",
+      "url": "https://www.zerohedge.com/geopolitical/israeli-intelligence-tells-us-iran-could-use-chemical-weapons",
+      "source_name": "ZeroHedge",
+      "published_at": "2026-11-04T04:00:00+00:00",
       "tags": [
-        "crypto",
+        "macro",
         "markets"
       ]
     },
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-df70f36857",
-      "title": "Amazon, Tesla en SpaceX verzetten zich tegen OKX-ICE tokenisering aandelen",
-      "summary": "Amazon, Tesla and SpaceX join OKX–ICE tokenized stock objections as deadline looms",
+      "id": "news-8-3ab3757a05",
+      "title": "OUSD-stablecoin beheerder stelt beheerskosten vast en biedt equity-pool",
+      "summary": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
       "type": "news",
       "impact": "high",
-      "confidence": 93,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
       "source_name": "CoinDesk",
-      "published_at": "2026-11-03T16:17:51+00:00",
+      "published_at": "2026-11-03T16:12:35+00:00",
       "tags": [
         "crypto",
         "markets"
