@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-04T09:00:16.990631+00:00",
+  "generated_at": "2026-11-04T10:00:31.839962+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -85,7 +85,24 @@
       ]
     },
     {
-      "id": "news-6-985734cbc1",
+      "id": "news-6-c244f5f62d",
+      "title": "ECB verwacht iets hogere loonstijging in eerste negen maanden 2027 dan in 2026",
+      "summary": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "source_name": "ECB Press Releases",
+      "published_at": "2026-11-04T00:00:00+00:00",
+      "tags": [
+        "macro",
+        "regulation",
+        "ECB"
+      ]
+    },
+    {
+      "id": "news-7-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-8-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-3ab3757a05",
-      "title": "OUSD-stablecoin beheerder stelt beheerskosten vast en biedt equity-pool",
-      "summary": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
-      "source_name": "CoinDesk",
-      "published_at": "2026-11-03T16:12:35+00:00",
       "tags": [
         "crypto",
         "markets"
