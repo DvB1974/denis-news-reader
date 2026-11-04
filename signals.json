@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-04T16:00:26.851290+00:00",
+  "generated_at": "2026-11-04T17:00:25.074795+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -101,7 +101,23 @@
       ]
     },
     {
-      "id": "news-7-966c1fb4ae",
+      "id": "news-7-458d23b811",
+      "title": "Schroders lanceert gettokeniseerde obligatiefonds voor opkomende markten op Solana",
+      "summary": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 93,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+      "source_name": "The Block",
+      "published_at": "2026-11-04T16:27:49+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-966c1fb4ae",
       "title": "Israëlische inlichtingendiensten waarschuwen VS voor Iraanse chemische wapens",
       "summary": "Israeli Intelligence Tells US That Iran Could Use Chemical Weapons \n\n              In something that sounds straight out of the  Babylong Bee , the Israeli government has shared intelligence with the United States asserting that  Iran is readying chemical weapons to use against adversaries .  And all of this is being floated in the pages of the  New York Times , and on election day no less... A more on the nose script couldn't be written - very much  like this one...   \n   \n  AFP/Getty Images  \n \n Apparently fully aware of this, the NY Times story authors underscore in their Tuesday afternoon headline that  \"Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials.\"   This is given that the information was  \"met with alarm by some American officials and deep skepticism by others , according to U.S. and regional officials.\"     Stating the    obvious   :  \"Some American officials see the Israeli intelligence as part of a pressure campaign by Prime Minister Benjamin Netanyahu’s g",
       "type": "macro",
@@ -114,23 +130,6 @@
       "tags": [
         "macro",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-c244f5f62d",
-      "title": "ECB verwacht iets hogere loonstijging in eerste negen maanden 2027 dan in 2026",
-      "summary": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-11-04T00:00:00+00:00",
-      "tags": [
-        "macro",
-        "regulation",
-        "ECB"
       ]
     }
   ]
