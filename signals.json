@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-04T15:00:19.595597+00:00",
+  "generated_at": "2026-11-04T16:00:26.851290+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,23 +69,7 @@
       ]
     },
     {
-      "id": "news-5-966c1fb4ae",
-      "title": "Israëlische inlichtingendiensten waarschuwen VS voor Iraanse chemische wapens",
-      "summary": "Israeli Intelligence Tells US That Iran Could Use Chemical Weapons \n\n              In something that sounds straight out of the  Babylong Bee , the Israeli government has shared intelligence with the United States asserting that  Iran is readying chemical weapons to use against adversaries .  And all of this is being floated in the pages of the  New York Times , and on election day no less... A more on the nose script couldn't be written - very much  like this one...   \n   \n  AFP/Getty Images  \n \n Apparently fully aware of this, the NY Times story authors underscore in their Tuesday afternoon headline that  \"Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials.\"   This is given that the information was  \"met with alarm by some American officials and deep skepticism by others , according to U.S. and regional officials.\"     Stating the    obvious   :  \"Some American officials see the Israeli intelligence as part of a pressure campaign by Prime Minister Benjamin Netanyahu’s g",
-      "type": "macro",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.zerohedge.com/geopolitical/israeli-intelligence-tells-us-iran-could-use-chemical-weapons",
-      "source_name": "ZeroHedge",
-      "published_at": "2026-11-04T04:00:00+00:00",
-      "tags": [
-        "macro",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-985734cbc1",
+      "id": "news-5-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -101,7 +85,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-6-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -113,6 +97,22 @@
       "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-966c1fb4ae",
+      "title": "Israëlische inlichtingendiensten waarschuwen VS voor Iraanse chemische wapens",
+      "summary": "Israeli Intelligence Tells US That Iran Could Use Chemical Weapons \n\n              In something that sounds straight out of the  Babylong Bee , the Israeli government has shared intelligence with the United States asserting that  Iran is readying chemical weapons to use against adversaries .  And all of this is being floated in the pages of the  New York Times , and on election day no less... A more on the nose script couldn't be written - very much  like this one...   \n   \n  AFP/Getty Images  \n \n Apparently fully aware of this, the NY Times story authors underscore in their Tuesday afternoon headline that  \"Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials.\"   This is given that the information was  \"met with alarm by some American officials and deep skepticism by others , according to U.S. and regional officials.\"     Stating the    obvious   :  \"Some American officials see the Israeli intelligence as part of a pressure campaign by Prime Minister Benjamin Netanyahu’s g",
+      "type": "macro",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.zerohedge.com/geopolitical/israeli-intelligence-tells-us-iran-could-use-chemical-weapons",
+      "source_name": "ZeroHedge",
+      "published_at": "2026-11-04T04:00:00+00:00",
+      "tags": [
+        "macro",
         "markets"
       ]
     },
