@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-05T16:00:29.354719+00:00",
+  "generated_at": "2026-11-05T18:00:22.794135+00:00",
   "signals": [
     {
       "id": "news-1-3d0d20cafe",
@@ -69,7 +69,58 @@
       ]
     },
     {
-      "id": "news-5-c3f28b29da",
+      "id": "news-5-092f0ff0be",
+      "title": "TraderTraitor: hackerscollectief achter vermeende diefstal bij Binance",
+      "summary": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+      "source_name": "CoinDesk – Policy",
+      "published_at": "2026-11-05T16:58:21+00:00",
+      "tags": [
+        "regulation",
+        "MiCA",
+        "crypto"
+      ]
+    },
+    {
+      "id": "news-6-5bb93d25e7",
+      "title": "Standard Chartered en SBI steunen cryptoverzakeraar Soter met 23,5 miljoen dollar",
+      "summary": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+      "source_name": "CoinDesk – Policy",
+      "published_at": "2026-11-05T16:49:08+00:00",
+      "tags": [
+        "regulation",
+        "MiCA",
+        "crypto"
+      ]
+    },
+    {
+      "id": "news-7-7c01a711dd",
+      "title": "Waar beleggers cryptovaluta staken bepaalt hun beloningsaandeel",
+      "summary": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
+      "source_name": "CoinDesk – Policy",
+      "published_at": "2026-11-05T16:13:32+00:00",
+      "tags": [
+        "regulation",
+        "MiCA",
+        "crypto"
+      ]
+    },
+    {
+      "id": "news-8-c3f28b29da",
       "title": "EBA publiceert herziene richtlijnen interne governance voor banken",
       "summary": "The European Banking Authority (EBA) today published its revised Guidelines on internal governance under the Capital Requirements Directive (CRD). The revised Guidelines reflect the changes introduced by CRD VI and form part of the EBA’s broader commitment to simplify the regulatory framework, strengthen proportionality and reduce unnecessary compliance burdens, while safeguarding sound and robust governance across the EU banking sector.",
       "type": "regulation",
@@ -83,54 +134,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-6-cc689b5c0d",
-      "title": "Frans budget verwierp stablecoin-belasting en wallet-rapportage voorstellen",
-      "summary": "Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/france-rejects-budget-revenue-sidelines-crypto-amendments",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-05T09:04:42+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-8d60b1c756",
-      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
