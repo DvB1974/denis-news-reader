@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-05T18:00:22.794135+00:00",
+  "generated_at": "2026-11-05T19:00:30.700263+00:00",
   "signals": [
     {
       "id": "news-1-3d0d20cafe",
@@ -36,7 +36,23 @@
       ]
     },
     {
-      "id": "news-3-d89343b8cf",
+      "id": "news-3-0ea8d0eebe",
+      "title": "Amundi tokeniseert aandelenindexfonds op Ethereum",
+      "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-05T18:09:38+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -52,7 +68,7 @@
       ]
     },
     {
-      "id": "news-4-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-092f0ff0be",
+      "id": "news-6-092f0ff0be",
       "title": "TraderTraitor: hackerscollectief achter vermeende diefstal bij Binance",
       "summary": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
       "type": "regulation",
@@ -86,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-5bb93d25e7",
+      "id": "news-7-5bb93d25e7",
       "title": "Standard Chartered en SBI steunen cryptoverzakeraar Soter met 23,5 miljoen dollar",
       "summary": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
       "type": "regulation",
@@ -103,7 +119,7 @@
       ]
     },
     {
-      "id": "news-7-7c01a711dd",
+      "id": "news-8-7c01a711dd",
       "title": "Waar beleggers cryptovaluta staken bepaalt hun beloningsaandeel",
       "summary": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
       "type": "regulation",
@@ -117,23 +133,6 @@
         "regulation",
         "MiCA",
         "crypto"
-      ]
-    },
-    {
-      "id": "news-8-c3f28b29da",
-      "title": "EBA publiceert herziene richtlijnen interne governance voor banken",
-      "summary": "The European Banking Authority (EBA) today published its revised Guidelines on internal governance under the Capital Requirements Directive (CRD). The revised Guidelines reflect the changes introduced by CRD VI and form part of the EBA’s broader commitment to simplify the regulatory framework, strengthen proportionality and reduce unnecessary compliance burdens, while safeguarding sound and robust governance across the EU banking sector.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-revised-guidelines-internal-governance-delivering-greater-proportionality-and",
-      "source_name": "EBA",
-      "published_at": "2026-11-05T12:22:03+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     }
   ]
