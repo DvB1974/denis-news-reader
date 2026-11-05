@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-04T21:00:26.577050+00:00",
+  "generated_at": "2026-11-05T06:01:41.733478+00:00",
   "signals": [
     {
-      "id": "news-1-3c1d1d9f86",
+      "id": "news-1-3d0d20cafe",
+      "title": "Tokenisering en stablecoins mogelijk minder risico bij Democratische zetel ondanks onzekere regelgeving",
+      "summary": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+      "source_name": "CoinDesk",
+      "published_at": "2026-11-04T22:55:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -14,22 +30,6 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-2-5e1276b370",
-      "title": "Hong Kong breidt tokenisering uit naar 24/7-settlement, plant stablecoin-proeven",
-      "summary": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-02T10:14:55+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -69,7 +69,23 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-5-5e1276b370",
+      "title": "Hong Kong breidt tokenisering uit naar 24/7-settlement, plant stablecoin-proeven",
+      "summary": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-02T10:14:55+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -101,34 +117,18 @@
       ]
     },
     {
-      "id": "news-7-458d23b811",
-      "title": "Schroders lanceert gettokeniseerde obligatiefonds voor opkomende markten op Solana",
-      "summary": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds.",
+      "id": "news-8-cd5278b992",
+      "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
+      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
       "type": "news",
       "impact": "high",
-      "confidence": 93,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
-      "source_name": "The Block",
-      "published_at": "2026-11-04T16:27:49+00:00",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-10-02T12:25:56+00:00",
       "tags": [
         "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-966c1fb4ae",
-      "title": "Israëlische inlichtingendiensten waarschuwen VS voor Iraanse chemische wapens",
-      "summary": "Israeli Intelligence Tells US That Iran Could Use Chemical Weapons \n\n              In something that sounds straight out of the  Babylong Bee , the Israeli government has shared intelligence with the United States asserting that  Iran is readying chemical weapons to use against adversaries .  And all of this is being floated in the pages of the  New York Times , and on election day no less... A more on the nose script couldn't be written - very much  like this one...   \n   \n  AFP/Getty Images  \n \n Apparently fully aware of this, the NY Times story authors underscore in their Tuesday afternoon headline that  \"Israeli Claims of Iranian Chemical Weapons Divide U.S. Officials.\"   This is given that the information was  \"met with alarm by some American officials and deep skepticism by others , according to U.S. and regional officials.\"     Stating the    obvious   :  \"Some American officials see the Israeli intelligence as part of a pressure campaign by Prime Minister Benjamin Netanyahu’s g",
-      "type": "macro",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.zerohedge.com/geopolitical/israeli-intelligence-tells-us-iran-could-use-chemical-weapons",
-      "source_name": "ZeroHedge",
-      "published_at": "2026-11-04T04:00:00+00:00",
-      "tags": [
-        "macro",
         "markets"
       ]
     }
