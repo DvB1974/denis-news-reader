@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-05T12:00:21.286761+00:00",
+  "generated_at": "2026-11-05T13:00:29.216498+00:00",
   "signals": [
     {
       "id": "news-1-3d0d20cafe",
@@ -69,7 +69,24 @@
       ]
     },
     {
-      "id": "news-5-cc689b5c0d",
+      "id": "news-5-c3f28b29da",
+      "title": "EBA publiceert herziene richtlijnen interne governance voor banken",
+      "summary": "The European Banking Authority (EBA) today published its revised Guidelines on internal governance under the Capital Requirements Directive (CRD). The revised Guidelines reflect the changes introduced by CRD VI and form part of the EBA’s broader commitment to simplify the regulatory framework, strengthen proportionality and reduce unnecessary compliance burdens, while safeguarding sound and robust governance across the EU banking sector.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-publishes-revised-guidelines-internal-governance-delivering-greater-proportionality-and",
+      "source_name": "EBA",
+      "published_at": "2026-11-05T12:22:03+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-6-cc689b5c0d",
       "title": "Frans budget verwierp stablecoin-belasting en wallet-rapportage voorstellen",
       "summary": "Three adopted amendments, including stablecoin taxation and self-custody reporting, fall away but could be reintroduced in the Senate.",
       "type": "news",
@@ -85,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-985734cbc1",
+      "id": "news-7-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-8-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-5e1276b370",
-      "title": "Hong Kong breidt tokenisering uit naar 24/7-settlement, plant stablecoin-proeven",
-      "summary": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-02T10:14:55+00:00",
       "tags": [
         "crypto",
         "markets"
