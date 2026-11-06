@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-06T14:00:20.028156+00:00",
+  "generated_at": "2026-11-06T16:00:18.037368+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-e815e06341",
+      "id": "news-6-6587c8b1c6",
+      "title": "Nigeria voert licentievereisten in en verbiedt algoritmische stablecoins",
+      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-06T13:57:14+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-e815e06341",
       "title": "EBA stelt vereenvoudigde regelgeving voor toezichtsrapportage met langere implementatietermijnen voor",
       "summary": "The European Banking Authority (EBA) today outlines the way forward for the finalisation of proposals to simplify EU supervisory reporting, following extensive dialogue with the banking industry and feedback received during the public consultation. The package that is currently being finalised will introduce additional simplification measures, greater proportionality and extended implementation timelines, reducing reporting costs while preserving the information necessary for effective supervision. The final report on the draft Implementing Technical Standards (ITS) on supervisory reporting will be published by the EBA in December 2026.",
       "type": "regulation",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-7b75954bb5",
+      "id": "news-8-7b75954bb5",
       "title": "Nigeriaanse centrale bank voert vergunningseisen stablecoins in, verbiedt algoritmische varianten",
       "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
       "type": "news",
@@ -115,23 +131,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-46e9c7984e",
-      "title": "ECB publiceert geconsolideerde bankgegevens voor einde juni 2026",
-      "summary": "ECB publishes consolidated banking data for end-June 2026",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-11-06T09:00:00+00:00",
-      "tags": [
-        "macro",
-        "regulation",
-        "ECB"
       ]
     }
   ]
