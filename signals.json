@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-06T18:00:51.393185+00:00",
+  "generated_at": "2026-11-06T19:00:23.501621+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -36,23 +36,7 @@
       ]
     },
     {
-      "id": "news-3-0ea8d0eebe",
-      "title": "Amundi tokeniseert aandelenindexfonds op Ethereum",
-      "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-05T18:09:38+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-d89343b8cf",
+      "id": "news-3-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -68,7 +52,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -82,6 +66,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-0ea8d0eebe",
+      "title": "Amundi tokeniseert aandelenindexfonds op Ethereum",
+      "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-05T18:09:38+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
