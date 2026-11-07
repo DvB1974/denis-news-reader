@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-07T17:00:22.456068+00:00",
+  "generated_at": "2026-11-07T19:00:27.438761+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -101,23 +101,7 @@
       ]
     },
     {
-      "id": "news-7-0ea8d0eebe",
-      "title": "Amundi tokeniseert aandelenindexfonds op Ethereum",
-      "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-05T18:09:38+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-cd5278b992",
+      "id": "news-7-cd5278b992",
       "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
       "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
       "type": "news",
@@ -127,6 +111,22 @@
       "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
       "source_name": "Cointelegraph",
       "published_at": "2026-10-02T12:25:56+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-154ffdc203",
+      "title": "Hyperliquid en Circle dienen opmerkingen in over MiCA-regelgeving",
+      "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+      "source_name": "The Block",
+      "published_at": "2026-10-01T19:10:36+00:00",
       "tags": [
         "crypto",
         "markets"
