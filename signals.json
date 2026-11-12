@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-12T15:00:38.911151+00:00",
+  "generated_at": "2026-11-12T16:00:30.269364+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-007ab92c39",
+      "id": "news-4-eb1bfe5f70",
+      "title": "Visa voegt USDPT-stablecoin van Western Union toe aan settlementnetwerk",
+      "summary": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
+      "source_name": "The Block",
+      "published_at": "2026-11-12T16:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-007ab92c39",
       "title": "SoFiUSD launch op Polygon uitgebreid naar drie blockchains",
       "summary": "SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-50307c4acf",
+      "id": "news-6-50307c4acf",
       "title": "Thailand stelt dagelijkse limiet van 148.000 dollar voor stablecoin-transacties voor.",
       "summary": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-2571fd00c2",
+      "id": "news-7-2571fd00c2",
       "title": "Griffin haalt $20 miljoen op voor stablecoin en betalingsservices",
       "summary": "The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-3bf0f3aa3c",
+      "id": "news-8-3bf0f3aa3c",
       "title": "BitGo breidt USDC-minting- en inlossingsdiensten voor institutionele klanten uit",
       "summary": "BitGo's institutional clients can now mint and redeem USDC through Go Accounts, with orders handled through its Circle Mint account.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
       "source_name": "The Block",
       "published_at": "2026-11-12T12:35:02+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-1b9400f198",
-      "title": "Britse bank Griffin haalt 20 miljoen dollar op voor stablecoin-betalingen",
-      "summary": "UK bank Griffin raises $20 million to expand into stablecoin payments",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-      "source_name": "CoinDesk",
-      "published_at": "2026-11-12T12:04:42+00:00",
       "tags": [
         "crypto",
         "markets"
