@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-12T09:00:17.591245+00:00",
+  "generated_at": "2026-11-12T10:00:20.137670+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-5bd22741fb",
+      "id": "news-4-de521e2962",
+      "title": "Gemini verkoopt UK- en Europese activiteiten aan stablecoin-betalingsbedrijf KAST",
+      "summary": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+      "source_name": "CoinDesk",
+      "published_at": "2026-11-12T09:07:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-5bd22741fb",
       "title": "OKXICE plant lancering tokengesecuriseerde beurs voor eind november",
       "summary": "OKXICC, plans to launch its tokenized securities venue at the end of the month, the joint venture announced on Wednesday.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-40a21f3f7a",
+      "id": "news-8-40a21f3f7a",
       "title": "Stablecoin-aanbod daalt 14,2 miljard dollar in grootste krimp sinds 2022",
       "summary": "USDT and USDC supply fell nearly $11 billion over the past month, while gold-backed tokens held steady.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
       "source_name": "The Block",
       "published_at": "2026-11-11T17:23:10+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-5ec5a218db",
-      "title": "Bankfaillissement Paraguay toont waarde stablecoins voor klanten.",
-      "summary": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-11T13:30:00+00:00",
       "tags": [
         "crypto",
         "markets"
