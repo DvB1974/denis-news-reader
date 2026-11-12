@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-12T14:00:23.303441+00:00",
+  "generated_at": "2026-11-12T15:00:38.911151+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-50307c4acf",
+      "id": "news-4-007ab92c39",
+      "title": "SoFiUSD launch op Polygon uitgebreid naar drie blockchains",
+      "summary": "SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
+      "source_name": "The Block",
+      "published_at": "2026-11-12T14:00:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-50307c4acf",
       "title": "Thailand stelt dagelijkse limiet van 148.000 dollar voor stablecoin-transacties voor.",
       "summary": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-2571fd00c2",
+      "id": "news-6-2571fd00c2",
       "title": "Griffin haalt $20 miljoen op voor stablecoin en betalingsservices",
       "summary": "The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-3bf0f3aa3c",
+      "id": "news-7-3bf0f3aa3c",
       "title": "BitGo breidt USDC-minting- en inlossingsdiensten voor institutionele klanten uit",
       "summary": "BitGo's institutional clients can now mint and redeem USDC through Go Accounts, with orders handled through its Circle Mint account.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-1b9400f198",
+      "id": "news-8-1b9400f198",
       "title": "Britse bank Griffin haalt 20 miljoen dollar op voor stablecoin-betalingen",
       "summary": "UK bank Griffin raises $20 million to expand into stablecoin payments",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
       "source_name": "CoinDesk",
       "published_at": "2026-11-12T12:04:42+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-43f24d5a2e",
-      "title": "Stablecoinaanbod daalt 14,2 miljard dollar in grootste maandverlies sinds juni 2022",
-      "summary": "Crypto markets were left with “less fuel” to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-12T11:38:50+00:00",
       "tags": [
         "crypto",
         "markets"
