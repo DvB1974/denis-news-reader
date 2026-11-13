@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-13T14:00:39.690104+00:00",
+  "generated_at": "2026-11-13T15:00:26.941528+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,24 @@
       ]
     },
     {
-      "id": "news-4-56b7e38be9",
+      "id": "news-4-39a6dc3d71",
+      "title": "EBA steunt NGFS-verklaring over macro-financiële impact energietransitie",
+      "summary": "​As an active member of the Network for Greening the Financial System (NGFS), the European Banking Authority (EBA) welcomes the publication of the NGFS Declaration on the macro-financial dimension of the energy transition on the occasion of the 2026 United Nations Climate Change Conference (COP31) in Antalya, Türkiye. The Declaration highlights how energy price shocks and increasingly frequent climate-related shocks are becoming a macro-financial reality, and calls for an orderly, whole-economy transition.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-supports-ngfs-declaration-macro-financial-dimension-energy-transition-occasion-cop31",
+      "source_name": "EBA",
+      "published_at": "2026-11-13T13:51:57+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-56b7e38be9",
       "title": "Thailand stelt dagelijkse limiet van 148.000 dollar in voor bepaalde stabilecoins",
       "summary": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
       "type": "news",
@@ -69,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -85,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-8d60b1c756",
+      "id": "news-7-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-d4c65ddb93",
+      "id": "news-8-d4c65ddb93",
       "title": "Centrale banken VS, Singapore en Thailand voltooien proef grensoverschrijdende deviezenafwikkeling",
       "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
       "source_name": "The Block",
       "published_at": "2026-11-13T12:27:41+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-eb1bfe5f70",
-      "title": "Visa voegt USDPT-stablecoin van Western Union toe aan settlementnetwerk",
-      "summary": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
-      "source_name": "The Block",
-      "published_at": "2026-11-12T16:00:00+00:00",
       "tags": [
         "crypto",
         "markets"
