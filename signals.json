@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-13T10:00:17.301735+00:00",
+  "generated_at": "2026-11-13T11:00:23.518197+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -53,7 +53,23 @@
       ]
     },
     {
-      "id": "news-4-985734cbc1",
+      "id": "news-4-56b7e38be9",
+      "title": "Thailand stelt dagelijkse limiet van 148.000 dollar in voor bepaalde stabilecoins",
+      "summary": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
+      "source_name": "The Block",
+      "published_at": "2026-11-13T10:16:04+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -69,7 +85,7 @@
       ]
     },
     {
-      "id": "news-5-8d60b1c756",
+      "id": "news-6-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-eb1bfe5f70",
+      "id": "news-7-eb1bfe5f70",
       "title": "Visa voegt USDPT-stablecoin van Western Union toe aan settlementnetwerk",
       "summary": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-007ab92c39",
+      "id": "news-8-007ab92c39",
       "title": "SoFiUSD launch op Polygon uitgebreid naar drie blockchains",
       "summary": "SoFiUSD went live on Polygon, adding the network alongside Ethereum and Solana for SoFi's more than 17 million members.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-11-12-sofiusd-goes-live-on-polygon-as-bank-issued-stablecoin-expands-reach-438542",
       "source_name": "The Block",
       "published_at": "2026-11-12T14:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-50307c4acf",
-      "title": "Thailand stelt dagelijkse limiet van 148.000 dollar voor stablecoin-transacties voor.",
-      "summary": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-12T13:44:03+00:00",
       "tags": [
         "crypto",
         "markets"
