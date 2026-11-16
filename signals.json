@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-16T09:00:38.960168+00:00",
+  "generated_at": "2026-11-16T10:00:22.780500+00:00",
   "signals": [
     {
       "id": "news-1-eb6b4e9ad5",
@@ -118,16 +118,16 @@
       ]
     },
     {
-      "id": "news-8-90385f5087",
-      "title": "DBS en JPMorgan's Kinexys starten 24/7 tokenisering van deposito's",
-      "summary": "Ant International is the first customer to use the service, which lets clients transfer US dollar deposits between Singapore and the US.",
+      "id": "news-8-8959635c59",
+      "title": "DBS en JPMorgan lanceren tokenisering van deposito's tussen VS en Singapore",
+      "summary": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
       "type": "news",
       "impact": "high",
       "confidence": 93,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-16T08:50:50+00:00",
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+      "source_name": "The Block",
+      "published_at": "2026-11-16T09:26:39+00:00",
       "tags": [
         "crypto",
         "markets"
