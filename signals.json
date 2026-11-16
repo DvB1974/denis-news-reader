@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-16T19:00:26.992819+00:00",
+  "generated_at": "2026-11-16T20:00:21.412596+00:00",
   "signals": [
     {
       "id": "news-1-eb6b4e9ad5",
@@ -117,20 +117,19 @@
       ]
     },
     {
-      "id": "news-8-c9ee0621e2",
-      "title": "EBA steunt verdere voortgang Bankenunie, inclusief depositogarantie",
-      "summary": "The EBA supports further progress on the Banking Union, including on deposit insurance, as a key step towards a more efficient and resilient European banking system.",
-      "type": "regulation",
+      "id": "news-8-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
+      "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-supports-further-progress-banking-union-including-deposit-insurance",
-      "source_name": "EBA",
-      "published_at": "2026-11-16T07:32:41+00:00",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
+        "crypto",
+        "markets"
       ]
     }
   ]
