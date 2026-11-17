@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-17T20:01:01.191370+00:00",
+  "generated_at": "2026-11-17T21:00:20.009740+00:00",
   "signals": [
     {
       "id": "news-1-f52a89b6ad",
@@ -101,7 +101,23 @@
       ]
     },
     {
-      "id": "news-7-8481a1d7c5",
+      "id": "news-7-e9ab0e905b",
+      "title": "Cryptostromen Oost-Europa dalen 7,9%, Oekraïne ontvangt 12 miljard stablecoins",
+      "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-17T20:05:04+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-8481a1d7c5",
       "title": "Philip R. Lane: Praktijk en wetenschap van beleidsrentecommunicatie bij ECB",
       "summary": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
       "type": "regulation",
@@ -115,22 +131,6 @@
         "macro",
         "regulation",
         "ECB"
-      ]
-    },
-    {
-      "id": "news-8-186117e3a5",
-      "title": "Boris Johnson steunt tokenisering ondanks eerdere kritiek op crypto",
-      "summary": "Boris Johnson backed blockchain and tokenization at Solana Breakpoint but reiterated his concerns about crypto speculation.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
-      "source_name": "The Block",
-      "published_at": "2026-11-16T16:49:23+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
