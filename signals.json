@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-17T13:00:38.445310+00:00",
+  "generated_at": "2026-11-17T14:00:39.484581+00:00",
   "signals": [
     {
       "id": "news-1-eb6b4e9ad5",
@@ -101,7 +101,23 @@
       ]
     },
     {
-      "id": "news-7-efd5a3d807",
+      "id": "news-7-13bd1894b9",
+      "title": "Stablecoin-infrastructuurbedrijf Avenia haalt 25 miljoen dollar op",
+      "summary": "Lightspeed Faction led the equity round, bringing Avenia's total funding to $44.6 million as it plans new products and acquisitions.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/deals/2026-11-17-avenia-funding-stablecoin-crypto-infrastructure-442119",
+      "source_name": "The Block",
+      "published_at": "2026-11-17T13:08:34+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-efd5a3d807",
       "title": "Ik kan deze kop niet herschrijven. Dit artikel gaat niet over financiën, economie of crypto — het behandelt geopolitieke veiligheidskwesties en is daarmee buiten mijn werkterrein als financieel nieuwsredacteur.",
       "summary": "Anon Intel Officials: Iran Could Detonate Dirty Bomb Or Chemical Weapon In D.C. \n\n              A  who's who of top Trump administration officials and their families are currently    living on military bases  around Washington D.C. on fears that Iranian intelligence or Iran-linked agents could move to attack or assasinate them.    This growing list includes Attorney General Todd Blanche, Treasury Secretary Scott Bessent, Secretary of State Marco Rubio, Pentagon chief Pete Hegseth, White House Chief of Staff Stephen Miller, Army Secretary Dan Driscoll, former Homeland Security Secretary Kristi Noem, former Attorney General Pam Bondi, and former Navy Secretary John Phelan.   \n   \n  Getty Images  \n \n This heightened state of security for these current and (some of them) former government officials is due to undefined threats reported to be  \"linked\"  to Tehran in some way. So far nothing specific has been made public, but on Monday a CNN report has  dialed up the threat level 100x .  Amer",
       "type": "macro",
@@ -113,22 +129,6 @@
       "published_at": "2026-11-17T02:20:00+00:00",
       "tags": [
         "macro",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
         "markets"
       ]
     }
