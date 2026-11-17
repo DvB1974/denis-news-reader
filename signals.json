@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-17T16:00:23.485960+00:00",
+  "generated_at": "2026-11-17T17:00:21.069367+00:00",
   "signals": [
     {
       "id": "news-1-f52a89b6ad",
@@ -68,23 +68,7 @@
       ]
     },
     {
-      "id": "news-5-186117e3a5",
-      "title": "Boris Johnson steunt tokenisering ondanks eerdere kritiek op crypto",
-      "summary": "Boris Johnson backed blockchain and tokenization at Solana Breakpoint but reiterated his concerns about crypto speculation.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
-      "source_name": "The Block",
-      "published_at": "2026-11-16T16:49:23+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-d89343b8cf",
+      "id": "news-5-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -100,7 +84,7 @@
       ]
     },
     {
-      "id": "news-7-23fee21bfb",
+      "id": "news-6-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -114,6 +98,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-7-186117e3a5",
+      "title": "Boris Johnson steunt tokenisering ondanks eerdere kritiek op crypto",
+      "summary": "Boris Johnson backed blockchain and tokenization at Solana Breakpoint but reiterated his concerns about crypto speculation.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
+      "source_name": "The Block",
+      "published_at": "2026-11-16T16:49:23+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
