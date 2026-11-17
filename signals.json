@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-17T11:00:28.099132+00:00",
+  "generated_at": "2026-11-17T12:00:39.315384+00:00",
   "signals": [
     {
       "id": "news-1-eb6b4e9ad5",
@@ -36,7 +36,23 @@
       ]
     },
     {
-      "id": "news-3-186117e3a5",
+      "id": "news-3-4277acab20",
+      "title": "Senatoren vragen SEC naar toezicht op getokeniseerde aandelen",
+      "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-17T11:36:26+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-186117e3a5",
       "title": "Boris Johnson steunt tokenisering ondanks eerdere kritiek op crypto",
       "summary": "Boris Johnson backed blockchain and tokenization at Solana Breakpoint but reiterated his concerns about crypto speculation.",
       "type": "news",
@@ -52,7 +68,7 @@
       ]
     },
     {
-      "id": "news-4-d89343b8cf",
+      "id": "news-5-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -68,7 +84,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-6-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -85,7 +101,7 @@
       ]
     },
     {
-      "id": "news-6-efd5a3d807",
+      "id": "news-7-efd5a3d807",
       "title": "Ik kan deze kop niet herschrijven. Dit artikel gaat niet over financiën, economie of crypto — het behandelt geopolitieke veiligheidskwesties en is daarmee buiten mijn werkterrein als financieel nieuwsredacteur.",
       "summary": "Anon Intel Officials: Iran Could Detonate Dirty Bomb Or Chemical Weapon In D.C. \n\n              A  who's who of top Trump administration officials and their families are currently    living on military bases  around Washington D.C. on fears that Iranian intelligence or Iran-linked agents could move to attack or assasinate them.    This growing list includes Attorney General Todd Blanche, Treasury Secretary Scott Bessent, Secretary of State Marco Rubio, Pentagon chief Pete Hegseth, White House Chief of Staff Stephen Miller, Army Secretary Dan Driscoll, former Homeland Security Secretary Kristi Noem, former Attorney General Pam Bondi, and former Navy Secretary John Phelan.   \n   \n  Getty Images  \n \n This heightened state of security for these current and (some of them) former government officials is due to undefined threats reported to be  \"linked\"  to Tehran in some way. So far nothing specific has been made public, but on Monday a CNN report has  dialed up the threat level 100x .  Amer",
       "type": "macro",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-985734cbc1",
+      "id": "news-8-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
       "source_name": "Cointelegraph",
       "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-8d60b1c756",
-      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
-      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
