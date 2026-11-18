@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-18T11:00:21.539620+00:00",
+  "generated_at": "2026-11-18T12:00:21.581202+00:00",
   "signals": [
     {
       "id": "news-1-f52a89b6ad",
@@ -85,7 +85,24 @@
       ]
     },
     {
-      "id": "news-6-adc36d6ae8",
+      "id": "news-6-88065c99ed",
+      "title": "EBA rapporteert groei marktaandeel niet-EU bankfilalen en minder valutakritieke posities",
+      "summary": "​The European Banking Authority (EBA) today published two Reports on the market share of subsidiaries of non-EU banks in the EU, as well as on EU banks’ assets and liabilities in foreign currencies. As of December 2025, subsidiaries of third country banking groups accounted for 10.22% of total EU banking assets, up from 9.8% a year earlier. The Reports also show that EU banks increased foreign currency funding  to 25.3% of total funding, up from 24.8% as of December 2024, helping to reduce currency mismatches and largely eliminate the mismatch in US dollar positions.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-reports-growing-market-share-third-country-bank-subsidiaries-eu-and-reduced-foreign-currency",
+      "source_name": "EBA",
+      "published_at": "2026-11-18T11:32:00+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-7-adc36d6ae8",
       "title": "Wereldbank onderzoekt stablecoins voor betalingen met Circle en Citi",
       "summary": "The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceability for investments in developing countries.",
       "type": "news",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-490db46d22",
+      "id": "news-8-490db46d22",
       "title": "Wereldbank test stablecoin-betalingen met Circle en Citi",
       "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
       "source_name": "The Block",
       "published_at": "2026-11-18T04:21:02+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-4277acab20",
-      "title": "Senatoren vragen SEC naar toezicht op getokeniseerde aandelen",
-      "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-17T11:36:26+00:00",
       "tags": [
         "crypto",
         "markets"
