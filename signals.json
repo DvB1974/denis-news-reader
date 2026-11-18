@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-18T09:00:22.628965+00:00",
+  "generated_at": "2026-11-18T10:00:21.617924+00:00",
   "signals": [
     {
       "id": "news-1-f52a89b6ad",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-490db46d22",
+      "id": "news-6-adc36d6ae8",
+      "title": "Wereldbank onderzoekt stablecoins voor betalingen met Circle en Citi",
+      "summary": "The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceability for investments in developing countries.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-18T09:17:18+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-490db46d22",
       "title": "Wereldbank test stablecoin-betalingen met Circle en Citi",
       "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-4277acab20",
+      "id": "news-8-4277acab20",
       "title": "Senatoren vragen SEC naar toezicht op getokeniseerde aandelen",
       "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
       "source_name": "Cointelegraph",
       "published_at": "2026-11-17T11:36:26+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
