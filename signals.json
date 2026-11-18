@@ -1,26 +1,10 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-18T15:00:19.325483+00:00",
+  "generated_at": "2026-11-18T16:00:19.206776+00:00",
   "signals": [
     {
-      "id": "news-1-f52a89b6ad",
-      "title": "Hong Kong en Swift testen getokeniseerde deposito's voor snellere betalingen",
-      "summary": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
-      "source_name": "CoinDesk",
-      "published_at": "2026-11-17T15:11:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-2-3c1d1d9f86",
+      "id": "news-1-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -30,6 +14,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-f52a89b6ad",
+      "title": "Hong Kong en Swift testen getokeniseerde deposito's voor snellere betalingen",
+      "summary": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+      "source_name": "CoinDesk",
+      "published_at": "2026-11-17T15:11:00+00:00",
       "tags": [
         "crypto",
         "markets"
