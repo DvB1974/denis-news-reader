@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-18T16:00:19.206776+00:00",
+  "generated_at": "2026-11-18T17:00:24.015090+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-88065c99ed",
+      "id": "news-6-9da5bac4f1",
+      "title": "Visa Direct breidt stablecoin-prefunding voor grensoverschrijdende betalingen naar Azië-Stille Oceaan uit",
+      "summary": "Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
+      "source_name": "The Block",
+      "published_at": "2026-11-18T16:30:41+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-88065c99ed",
       "title": "EBA rapporteert groei marktaandeel niet-EU bankfilalen en minder valutakritieke posities",
       "summary": "​The European Banking Authority (EBA) today published two Reports on the market share of subsidiaries of non-EU banks in the EU, as well as on EU banks’ assets and liabilities in foreign currencies. As of December 2025, subsidiaries of third country banking groups accounted for 10.22% of total EU banking assets, up from 9.8% a year earlier. The Reports also show that EU banks increased foreign currency funding  to 25.3% of total funding, up from 24.8% as of December 2024, helping to reduce currency mismatches and largely eliminate the mismatch in US dollar positions.",
       "type": "regulation",
@@ -102,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-adc36d6ae8",
+      "id": "news-8-adc36d6ae8",
       "title": "Wereldbank onderzoekt stablecoins voor betalingen met Circle en Citi",
       "summary": "The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceability for investments in developing countries.",
       "type": "news",
@@ -112,22 +128,6 @@
       "url": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments",
       "source_name": "Cointelegraph",
       "published_at": "2026-11-18T09:17:18+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-490db46d22",
-      "title": "Wereldbank test stablecoin-betalingen met Circle en Citi",
-      "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
-      "source_name": "The Block",
-      "published_at": "2026-11-18T04:21:02+00:00",
       "tags": [
         "crypto",
         "markets"
