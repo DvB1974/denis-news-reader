@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-17T21:00:20.009740+00:00",
+  "generated_at": "2026-11-18T06:01:07.454023+00:00",
   "signals": [
     {
       "id": "news-1-f52a89b6ad",
@@ -52,23 +52,7 @@
       ]
     },
     {
-      "id": "news-4-4277acab20",
-      "title": "Senatoren vragen SEC naar toezicht op getokeniseerde aandelen",
-      "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-17T11:36:26+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-d89343b8cf",
+      "id": "news-4-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -84,7 +68,7 @@
       ]
     },
     {
-      "id": "news-6-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -101,7 +85,39 @@
       ]
     },
     {
-      "id": "news-7-e9ab0e905b",
+      "id": "news-6-490db46d22",
+      "title": "Wereldbank test stablecoin-betalingen met Circle en Citi",
+      "summary": "The initiative plans to initially focus on an intermediated and interoperable stablecoin-based payment model.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-11-17-world-bank-group-citi-circle-fund-disbursements-442924",
+      "source_name": "The Block",
+      "published_at": "2026-11-18T04:21:02+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-4277acab20",
+      "title": "Senatoren vragen SEC naar toezicht op getokeniseerde aandelen",
+      "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-17T11:36:26+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-e9ab0e905b",
       "title": "Cryptostromen Oost-Europa dalen 7,9%, Oekraïne ontvangt 12 miljard stablecoins",
       "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war.",
       "type": "news",
@@ -114,23 +130,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-8481a1d7c5",
-      "title": "Philip R. Lane: Praktijk en wetenschap van beleidsrentecommunicatie bij ECB",
-      "summary": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-11-17T18:30:00+00:00",
-      "tags": [
-        "macro",
-        "regulation",
-        "ECB"
       ]
     }
   ]
