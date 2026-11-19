@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-19T10:00:15.489278+00:00",
+  "generated_at": "2026-11-19T11:00:28.429608+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,7 +20,23 @@
       ]
     },
     {
-      "id": "news-2-d078f9acca",
+      "id": "news-2-333c639144",
+      "title": "Singapore vereffent tokenisering van schuldbelastingen voor 77,5 miljoen dollar in lokale CBDC",
+      "summary": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+      "source_name": "CoinDesk",
+      "published_at": "2026-11-19T10:39:36+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-d078f9acca",
       "title": "Singapore voltooit tokenized obligatieverkoopstransactie voor 77,5 miljoen dollar",
       "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
       "type": "news",
@@ -36,7 +52,7 @@
       ]
     },
     {
-      "id": "news-3-467fb5e15e",
+      "id": "news-4-467fb5e15e",
       "title": "MAS geeft voor 77 miljoen dollar uit in tokenized schuldbewijzen via CBDC",
       "summary": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC.",
       "type": "news",
@@ -52,7 +68,7 @@
       ]
     },
     {
-      "id": "news-4-f52a89b6ad",
+      "id": "news-5-f52a89b6ad",
       "title": "Hong Kong en Swift testen getokeniseerde deposito's voor snellere betalingen",
       "summary": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
       "type": "news",
@@ -68,7 +84,7 @@
       ]
     },
     {
-      "id": "news-5-eb6b4e9ad5",
+      "id": "news-6-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -84,7 +100,7 @@
       ]
     },
     {
-      "id": "news-6-d89343b8cf",
+      "id": "news-7-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -100,7 +116,7 @@
       ]
     },
     {
-      "id": "news-7-23fee21bfb",
+      "id": "news-8-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -114,22 +130,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-8-888084d3ff",
-      "title": "Senatoren waarschuwen dat GENIUS Act-regels stablecoin-bedrijven naar federaal toezicht kunnen drijven",
-      "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-19T05:27:45+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
