@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-19T20:00:21.993394+00:00",
+  "generated_at": "2026-11-19T21:00:19.558211+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -68,7 +68,23 @@
       ]
     },
     {
-      "id": "news-5-6ab9c3a865",
+      "id": "news-5-c601755bad",
+      "title": "SEC-kandidaat Johnson steunt formele regelgeving voor tokenisering van aandelen",
+      "summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-19T20:06:34+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-6ab9c3a865",
       "title": "Trump benoemt SEC-bestuurder die regelproces voor tokenisering bepleit",
       "summary": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
       "type": "news",
@@ -84,7 +100,7 @@
       ]
     },
     {
-      "id": "news-6-f52a89b6ad",
+      "id": "news-7-f52a89b6ad",
       "title": "Hong Kong en Swift testen getokeniseerde deposito's voor snellere betalingen",
       "summary": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
       "type": "news",
@@ -100,7 +116,7 @@
       ]
     },
     {
-      "id": "news-7-eb6b4e9ad5",
+      "id": "news-8-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -110,22 +126,6 @@
       "url": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
       "source_name": "CoinDesk",
       "published_at": "2026-11-15T07:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-d89343b8cf",
-      "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
-      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-22T11:22:00+00:00",
       "tags": [
         "crypto",
         "markets"
