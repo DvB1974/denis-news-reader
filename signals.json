@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-19T18:00:20.206492+00:00",
+  "generated_at": "2026-11-19T19:00:31.909811+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -68,7 +68,23 @@
       ]
     },
     {
-      "id": "news-5-f52a89b6ad",
+      "id": "news-5-6ab9c3a865",
+      "title": "Trump benoemt SEC-bestuurder die regelproces voor tokenisering bepleit",
+      "summary": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+      "source_name": "CoinDesk",
+      "published_at": "2026-11-19T18:15:56+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-6-f52a89b6ad",
       "title": "Hong Kong en Swift testen getokeniseerde deposito's voor snellere betalingen",
       "summary": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
       "type": "news",
@@ -84,7 +100,7 @@
       ]
     },
     {
-      "id": "news-6-eb6b4e9ad5",
+      "id": "news-7-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -100,7 +116,7 @@
       ]
     },
     {
-      "id": "news-7-d89343b8cf",
+      "id": "news-8-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -113,23 +129,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-23fee21bfb",
-      "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
-      "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
-      "source_name": "EBA",
-      "published_at": "2026-06-26T13:27:24+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     }
   ]
