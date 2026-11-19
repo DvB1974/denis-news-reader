@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-18T21:00:30.629800+00:00",
+  "generated_at": "2026-11-19T06:01:33.109147+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -85,49 +85,48 @@
       ]
     },
     {
-      "id": "news-6-9da5bac4f1",
-      "title": "Visa Direct breidt stablecoin-prefunding voor grensoverschrijdende betalingen naar Azië-Stille Oceaan uit",
-      "summary": "Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins.",
+      "id": "news-6-888084d3ff",
+      "title": "Senatoren waarschuwen dat GENIUS Act-regels stablecoin-bedrijven naar federaal toezicht kunnen drijven",
+      "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
-      "source_name": "The Block",
-      "published_at": "2026-11-18T16:30:41+00:00",
+      "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-19T05:27:45+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-7-88065c99ed",
-      "title": "EBA rapporteert groei marktaandeel niet-EU bankfilalen en minder valutakritieke posities",
-      "summary": "​The European Banking Authority (EBA) today published two Reports on the market share of subsidiaries of non-EU banks in the EU, as well as on EU banks’ assets and liabilities in foreign currencies. As of December 2025, subsidiaries of third country banking groups accounted for 10.22% of total EU banking assets, up from 9.8% a year earlier. The Reports also show that EU banks increased foreign currency funding  to 25.3% of total funding, up from 24.8% as of December 2024, helping to reduce currency mismatches and largely eliminate the mismatch in US dollar positions.",
-      "type": "regulation",
+      "id": "news-7-bba1c31df5",
+      "title": "Senatoren eisen gelijk speelveld voor stablecoin-emittenten bij implementatie GENIUS Act",
+      "summary": "Senators are pressing Treasury Secretary Bessent to grant a safe harbor for stablecoin issuers operating under state regulatory frameworks.",
+      "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-reports-growing-market-share-third-country-bank-subsidiaries-eu-and-reduced-foreign-currency",
-      "source_name": "EBA",
-      "published_at": "2026-11-18T11:32:00+00:00",
+      "tone": "risk",
+      "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
+      "source_name": "The Block",
+      "published_at": "2026-11-18T22:09:17+00:00",
       "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
+        "crypto",
+        "markets"
       ]
     },
     {
-      "id": "news-8-adc36d6ae8",
-      "title": "Wereldbank onderzoekt stablecoins voor betalingen met Circle en Citi",
-      "summary": "The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceability for investments in developing countries.",
+      "id": "news-8-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
       "source_name": "Cointelegraph",
-      "published_at": "2026-11-18T09:17:18+00:00",
+      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
