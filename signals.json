@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-19T08:00:21.162339+00:00",
+  "generated_at": "2026-11-19T09:00:22.035934+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,7 +20,39 @@
       ]
     },
     {
-      "id": "news-2-f52a89b6ad",
+      "id": "news-2-d078f9acca",
+      "title": "Singapore voltooit tokenized obligatieverkoopstransactie voor 77,5 miljoen dollar",
+      "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-19T08:54:58+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-467fb5e15e",
+      "title": "MAS geeft voor 77 miljoen dollar uit in tokenized schuldbewijzen via CBDC",
+      "summary": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+      "source_name": "The Block",
+      "published_at": "2026-11-19T08:25:35+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-4-f52a89b6ad",
       "title": "Hong Kong en Swift testen getokeniseerde deposito's voor snellere betalingen",
       "summary": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
       "type": "news",
@@ -36,7 +68,7 @@
       ]
     },
     {
-      "id": "news-3-eb6b4e9ad5",
+      "id": "news-5-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -52,7 +84,7 @@
       ]
     },
     {
-      "id": "news-4-d89343b8cf",
+      "id": "news-6-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -68,7 +100,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-7-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -85,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-888084d3ff",
+      "id": "news-8-888084d3ff",
       "title": "Senatoren waarschuwen dat GENIUS Act-regels stablecoin-bedrijven naar federaal toezicht kunnen drijven",
       "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
       "type": "news",
@@ -95,38 +127,6 @@
       "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers",
       "source_name": "Cointelegraph",
       "published_at": "2026-11-19T05:27:45+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-bba1c31df5",
-      "title": "Senatoren eisen gelijk speelveld voor stablecoin-emittenten bij implementatie GENIUS Act",
-      "summary": "Senators are pressing Treasury Secretary Bessent to grant a safe harbor for stablecoin issuers operating under state regulatory frameworks.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
-      "source_name": "The Block",
-      "published_at": "2026-11-18T22:09:17+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
