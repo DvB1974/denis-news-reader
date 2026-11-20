@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-20T18:00:19.678266+00:00",
+  "generated_at": "2026-11-20T19:00:26.368080+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-333c639144",
+      "id": "news-6-04b987ace0",
+      "title": "Sky Protocol ervaart 2 miljard dollar stablecoin-opnames, betwist illegale-fondsclaims",
+      "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-20T18:37:10+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-333c639144",
       "title": "Singapore vereffent tokenisering van schuldbelastingen voor 77,5 miljoen dollar in lokale CBDC",
       "summary": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-1875243ba8",
+      "id": "news-8-1875243ba8",
       "title": "MoonPay vraagt bankvergunning aan voor stablecoin-diensten",
       "summary": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight.",
       "type": "news",
@@ -111,22 +127,6 @@
       "url": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
       "source_name": "The Block",
       "published_at": "2026-11-20T10:39:09+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-d078f9acca",
-      "title": "Singapore voltooit tokenized obligatieverkoopstransactie voor 77,5 miljoen dollar",
-      "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-19T08:54:58+00:00",
       "tags": [
         "crypto",
         "markets"
