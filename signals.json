@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-20T08:00:16.755925+00:00",
+  "generated_at": "2026-11-20T09:00:22.067072+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -36,55 +36,7 @@
       ]
     },
     {
-      "id": "news-3-d078f9acca",
-      "title": "Singapore voltooit tokenized obligatieverkoopstransactie voor 77,5 miljoen dollar",
-      "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-19T08:54:58+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-467fb5e15e",
-      "title": "MAS geeft voor 77 miljoen dollar uit in tokenized schuldbewijzen via CBDC",
-      "summary": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
-      "source_name": "The Block",
-      "published_at": "2026-11-19T08:25:35+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-c601755bad",
-      "title": "SEC-kandidaat Johnson steunt formele regelgeving voor tokenisering van aandelen",
-      "summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-19T20:06:34+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-eb6b4e9ad5",
+      "id": "news-3-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -100,7 +52,7 @@
       ]
     },
     {
-      "id": "news-7-d89343b8cf",
+      "id": "news-4-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -116,7 +68,7 @@
       ]
     },
     {
-      "id": "news-8-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -130,6 +82,54 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-6-d078f9acca",
+      "title": "Singapore voltooit tokenized obligatieverkoopstransactie voor 77,5 miljoen dollar",
+      "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-19T08:54:58+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-467fb5e15e",
+      "title": "MAS geeft voor 77 miljoen dollar uit in tokenized schuldbewijzen via CBDC",
+      "summary": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+      "source_name": "The Block",
+      "published_at": "2026-11-19T08:25:35+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-c601755bad",
+      "title": "SEC-kandidaat Johnson steunt formele regelgeving voor tokenisering van aandelen",
+      "summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-19T20:06:34+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     }
   ]
