@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-21T06:00:42.879934+00:00",
+  "generated_at": "2026-11-21T07:00:17.544633+00:00",
   "signals": [
     {
       "id": "news-1-4e898d18ea",
@@ -101,23 +101,7 @@
       ]
     },
     {
-      "id": "news-7-04b987ace0",
-      "title": "Sky Protocol ervaart 2 miljard dollar stablecoin-opnames, betwist illegale-fondsclaims",
-      "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-20T18:37:10+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
+      "id": "news-7-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -127,6 +111,22 @@
       "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
       "source_name": "Cointelegraph",
       "published_at": "2026-09-21T11:27:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
       "tags": [
         "crypto",
         "markets"
