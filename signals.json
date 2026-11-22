@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-21T21:00:14.531753+00:00",
+  "generated_at": "2026-11-22T06:00:37.324623+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -36,23 +36,7 @@
       ]
     },
     {
-      "id": "news-3-d537767d76",
-      "title": "ECB zoekt partners voor experimenten met getchanneliseerde deposito's en effecten",
-      "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-21T09:48:56+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-eb6b4e9ad5",
+      "id": "news-3-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -68,7 +52,7 @@
       ]
     },
     {
-      "id": "news-5-d89343b8cf",
+      "id": "news-4-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -84,7 +68,7 @@
       ]
     },
     {
-      "id": "news-6-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -98,6 +82,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-6-d537767d76",
+      "title": "ECB zoekt partners voor experimenten met getchanneliseerde deposito's en effecten",
+      "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-21T09:48:56+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
