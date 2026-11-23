@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-22T21:00:20.042382+00:00",
+  "generated_at": "2026-11-23T06:00:40.496586+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,23 +20,7 @@
       ]
     },
     {
-      "id": "news-2-4e898d18ea",
-      "title": "Fairmint plant tokeniseringsplatform voor aandelen op Ethereum onder SEC-proef",
-      "summary": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-      "source_name": "CoinDesk",
-      "published_at": "2026-11-20T22:05:31+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-eb6b4e9ad5",
+      "id": "news-2-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -52,7 +36,7 @@
       ]
     },
     {
-      "id": "news-4-d89343b8cf",
+      "id": "news-3-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -68,7 +52,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -82,6 +66,22 @@
         "regulation",
         "EU",
         "private-banking"
+      ]
+    },
+    {
+      "id": "news-5-4e898d18ea",
+      "title": "Fairmint plant tokeniseringsplatform voor aandelen op Ethereum onder SEC-proef",
+      "summary": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+      "source_name": "CoinDesk",
+      "published_at": "2026-11-20T22:05:31+00:00",
+      "tags": [
+        "crypto",
+        "markets"
       ]
     },
     {
@@ -117,16 +117,16 @@
       ]
     },
     {
-      "id": "news-8-d537767d76",
-      "title": "ECB zoekt partners voor experimenten met getchanneliseerde deposito's en effecten",
-      "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+      "id": "news-8-cd5278b992",
+      "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
+      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "neutral",
-      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia",
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
       "source_name": "Cointelegraph",
-      "published_at": "2026-11-21T09:48:56+00:00",
+      "published_at": "2026-10-02T12:25:56+00:00",
       "tags": [
         "crypto",
         "markets"
