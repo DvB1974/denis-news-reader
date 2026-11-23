@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-23T10:00:21.361040+00:00",
+  "generated_at": "2026-11-23T11:00:18.998490+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -69,23 +69,40 @@
       ]
     },
     {
-      "id": "news-5-4e898d18ea",
-      "title": "Fairmint plant tokeniseringsplatform voor aandelen op Ethereum onder SEC-proef",
-      "summary": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+      "id": "news-5-d0e5a7b269",
+      "title": "OCBC en StraitsX starten pilot voor grensoverschrijdende bedrijfsbetalingen met stablecoin",
+      "summary": "The setup uses StraitsX's infrastructure for onchain collection and compliance, while OCBC handles the fiat off-ramp.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
-      "source_name": "CoinDesk",
-      "published_at": "2026-11-20T22:05:31+00:00",
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880",
+      "source_name": "The Block",
+      "published_at": "2026-11-23T10:04:03+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-6-985734cbc1",
+      "id": "news-6-97aff51dc2",
+      "title": "ECB accepteert DLT-gebaseerde activa als Eurosysteem-onderpand",
+      "summary": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+      "source_name": "ECB Press Releases",
+      "published_at": "2026-11-23T10:00:00+00:00",
+      "tags": [
+        "macro",
+        "regulation",
+        "ECB"
+      ]
+    },
+    {
+      "id": "news-7-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-8d60b1c756",
+      "id": "news-8-8d60b1c756",
       "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
       "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
       "source_name": "Cointelegraph",
       "published_at": "2026-08-04T19:58:48+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-cd5278b992",
-      "title": "Circle pleit voor flexibelere liquiditeitseisen in MiCA-herziening EU",
-      "summary": "Circle wants the EU to replace mandatory bank-deposit minimums with more flexible liquidity rules and preserve cross-border stablecoin issuance.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/circle-eu-stablecoin-reserve-rules-mica-review",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-10-02T12:25:56+00:00",
       "tags": [
         "crypto",
         "markets"
