@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-23T21:00:56.073315+00:00",
+  "generated_at": "2026-11-24T06:01:12.700754+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -20,23 +20,7 @@
       ]
     },
     {
-      "id": "news-2-c2ee55235e",
-      "title": "ECB accepteert meer getokeniseerde effecten als onderpand vanaf 2027",
-      "summary": "The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed ledger pilot program in June 2027.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-23T11:49:38+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-3-eb6b4e9ad5",
+      "id": "news-2-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -52,7 +36,7 @@
       ]
     },
     {
-      "id": "news-4-d89343b8cf",
+      "id": "news-3-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -68,7 +52,7 @@
       ]
     },
     {
-      "id": "news-5-23fee21bfb",
+      "id": "news-4-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -85,40 +69,23 @@
       ]
     },
     {
-      "id": "news-6-d0e5a7b269",
-      "title": "OCBC en StraitsX starten pilot voor grensoverschrijdende bedrijfsbetalingen met stablecoin",
-      "summary": "The setup uses StraitsX's infrastructure for onchain collection and compliance, while OCBC handles the fiat off-ramp.",
+      "id": "news-5-c2ee55235e",
+      "title": "ECB accepteert meer getokeniseerde effecten als onderpand vanaf 2027",
+      "summary": "The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed ledger pilot program in June 2027.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880",
-      "source_name": "The Block",
-      "published_at": "2026-11-23T10:04:03+00:00",
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-23T11:49:38+00:00",
       "tags": [
         "crypto",
         "markets"
       ]
     },
     {
-      "id": "news-7-97aff51dc2",
-      "title": "ECB accepteert DLT-gebaseerde activa als Eurosysteem-onderpand",
-      "summary": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
-      "source_name": "ECB Press Releases",
-      "published_at": "2026-11-23T10:00:00+00:00",
-      "tags": [
-        "macro",
-        "regulation",
-        "ECB"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
+      "id": "news-6-985734cbc1",
       "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
       "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
@@ -128,6 +95,38 @@
       "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
       "source_name": "Cointelegraph",
       "published_at": "2026-09-21T11:27:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-8d60b1c756",
+      "title": "VS en VK herbevestigen steun voor stablecoins en tokenisering in regelgeving",
+      "summary": "In a July 8 meeting, US and UK regulators highlighted the implementation of the GENIUS Act, payment modernization and cross-border cooperation, reinforcing a shared framework for digital asset oversight.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/us-uk-deepen-crypto-regulatory-cooperation-genius-act-stablecoins",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-08-04T19:58:48+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-8-d0e5a7b269",
+      "title": "OCBC en StraitsX starten pilot voor grensoverschrijdende bedrijfsbetalingen met stablecoin",
+      "summary": "The setup uses StraitsX's infrastructure for onchain collection and compliance, while OCBC handles the fiat off-ramp.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/news/business/2026-11-23-ocbc-straitsx-pilot-stablecoin-payments-444880",
+      "source_name": "The Block",
+      "published_at": "2026-11-23T10:04:03+00:00",
       "tags": [
         "crypto",
         "markets"
