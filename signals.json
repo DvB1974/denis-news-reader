@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-25T18:00:25.269615+00:00",
+  "generated_at": "2026-11-25T19:00:29.067628+00:00",
   "signals": [
     {
       "id": "news-1-3a0cc22076",
@@ -53,23 +53,7 @@
       ]
     },
     {
-      "id": "news-4-930c164079",
-      "title": "BlackRock lanceert gettokeniseerd geldmarktfonds in Hong Kong met stablecoins",
-      "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-24T18:07:22+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-5-3c1d1d9f86",
+      "id": "news-4-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -79,6 +63,22 @@
       "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
       "source_name": "The Block",
       "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-5-930c164079",
+      "title": "BlackRock lanceert gettokeniseerd geldmarktfonds in Hong Kong met stablecoins",
+      "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-24T18:07:22+00:00",
       "tags": [
         "crypto",
         "markets"
