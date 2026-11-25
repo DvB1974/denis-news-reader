@@ -1,10 +1,43 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-25T11:00:21.615440+00:00",
+  "generated_at": "2026-11-25T12:00:27.580670+00:00",
   "signals": [
     {
-      "id": "news-1-db4b24dc0e",
+      "id": "news-1-3a0cc22076",
+      "title": "EBA analyseert stablecoin-gebruik in gedecentraliseerde financiering",
+      "summary": "The European Banking Authority (EBA) today published a Report analysing the use of EMTs and other selected stablecoins in DeFi and the implications for consumers and supervisors. The EBA finds that stablecoins, including some EMTs issued under the Markets in Crypto-Assets Regulation (MiCA), play a central role in the DeFi ecosystem by providing liquidity, collateral and settlement in DeFi trading and lending activities. The Report also highlights consumer protection, and regulatory arbitrage risks arising from the growing interaction between stablecoins and DeFi.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-examines-use-stablecoins-including-emts-decentralised-finance",
+      "source_name": "EBA",
+      "published_at": "2026-11-25T11:08:05+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-2-14ac887a85",
+      "title": "SBI en SMFG lanceren Solana-platform voor stablecoins en tokenisering",
+      "summary": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-25T11:49:54+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-db4b24dc0e",
       "title": "SBI en SMFG starten Solana-joint venture voor stablecoin-betalingen en tokenisering",
       "summary": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.",
       "type": "news",
@@ -20,7 +53,7 @@
       ]
     },
     {
-      "id": "news-2-930c164079",
+      "id": "news-4-930c164079",
       "title": "BlackRock lanceert gettokeniseerd geldmarktfonds in Hong Kong met stablecoins",
       "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
       "type": "news",
@@ -36,7 +69,7 @@
       ]
     },
     {
-      "id": "news-3-3c1d1d9f86",
+      "id": "news-5-3c1d1d9f86",
       "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
       "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
       "type": "news",
@@ -52,7 +85,7 @@
       ]
     },
     {
-      "id": "news-4-eb6b4e9ad5",
+      "id": "news-6-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -68,7 +101,7 @@
       ]
     },
     {
-      "id": "news-5-d89343b8cf",
+      "id": "news-7-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -84,7 +117,7 @@
       ]
     },
     {
-      "id": "news-6-23fee21bfb",
+      "id": "news-8-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -98,38 +131,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-7-1ed6689e57",
-      "title": "Stablecoin-inlossingen bereiken 12 miljard dollar in 30 dagen",
-      "summary": "Crypto research firm Kaiko said the cash-out was smaller than in 2022 and has slowed, with stablecoin supply down just 0.4% since Nov. 13.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-25T09:52:22+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-325f497438",
-      "title": "Zuid-Korea's wetvoorstel maakt bank-uitgegeven stablecoins mogelijk",
-      "summary": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-25T06:54:59+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
