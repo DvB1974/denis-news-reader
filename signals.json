@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-25T09:00:20.029710+00:00",
+  "generated_at": "2026-11-25T10:00:15.470042+00:00",
   "signals": [
     {
       "id": "news-1-930c164079",
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-325f497438",
+      "id": "news-6-1ed6689e57",
+      "title": "Stablecoin-inlossingen bereiken 12 miljard dollar in 30 dagen",
+      "summary": "Crypto research firm Kaiko said the cash-out was smaller than in 2022 and has slowed, with stablecoin supply down just 0.4% since Nov. 13.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://cointelegraph.com/markets/stablecoin-cash-out-2022-bear-market",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-25T09:52:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-325f497438",
       "title": "Zuid-Korea's wetvoorstel maakt bank-uitgegeven stablecoins mogelijk",
       "summary": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-7a6267ad42",
+      "id": "news-8-7a6267ad42",
       "title": "CFTC erkent bitcoin en ether onder uitgavenregelingen; Ethereum Foundation vergroeid beveiligingsteam",
       "summary": "In today's newsletter, bitcoin, ether gain recognition under CFTC financial requirements; Ethereum Foundation doubles security team as AI risks grow; and more.",
       "type": "regulation",
@@ -114,22 +130,6 @@
       "tags": [
         "regulation",
         "crypto"
-      ]
-    },
-    {
-      "id": "news-8-985734cbc1",
-      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
-      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-21T11:27:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     }
   ]
