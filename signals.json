@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-25T20:00:17.054511+00:00",
+  "generated_at": "2026-11-26T15:01:30.773088+00:00",
   "signals": [
     {
       "id": "news-1-3a0cc22076",
@@ -21,7 +21,23 @@
       ]
     },
     {
-      "id": "news-2-14ac887a85",
+      "id": "news-2-3c1d1d9f86",
+      "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
+      "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
+      "source_name": "The Block",
+      "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-3-14ac887a85",
       "title": "SBI en SMFG lanceren Solana-platform voor stablecoins en tokenisering",
       "summary": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.",
       "type": "news",
@@ -37,7 +53,7 @@
       ]
     },
     {
-      "id": "news-3-db4b24dc0e",
+      "id": "news-4-db4b24dc0e",
       "title": "SBI en SMFG starten Solana-joint venture voor stablecoin-betalingen en tokenisering",
       "summary": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.",
       "type": "news",
@@ -47,22 +63,6 @@
       "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
       "source_name": "The Block",
       "published_at": "2026-11-25T10:23:10+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-4-3c1d1d9f86",
-      "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
-      "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
-      "source_name": "The Block",
-      "published_at": "2026-07-08T15:32:22+00:00",
       "tags": [
         "crypto",
         "markets"
@@ -85,7 +85,23 @@
       ]
     },
     {
-      "id": "news-6-eb6b4e9ad5",
+      "id": "news-6-de92652f87",
+      "title": "Senatoren Warren en Van Hollen willen SEC-uitzonderingen voor crypto schrappen",
+      "summary": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-26T04:24:45+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -101,7 +117,7 @@
       ]
     },
     {
-      "id": "news-7-d89343b8cf",
+      "id": "news-8-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -114,23 +130,6 @@
       "tags": [
         "crypto",
         "markets"
-      ]
-    },
-    {
-      "id": "news-8-23fee21bfb",
-      "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
-      "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "neutral",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
-      "source_name": "EBA",
-      "published_at": "2026-06-26T13:27:24+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
       ]
     }
   ]
