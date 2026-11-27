@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-27T09:01:11.444362+00:00",
+  "generated_at": "2026-11-27T10:00:24.493953+00:00",
   "signals": [
     {
       "id": "news-1-3c1d1d9f86",
@@ -118,19 +118,20 @@
       ]
     },
     {
-      "id": "news-8-4f4e9ccc15",
-      "title": "ESMA herziet EU-cryptoregister onder MiCA in 2027",
-      "summary": "ESMA’s new MiCA register will replace manual reporting and introduce automated data checks and a version history for crypto white papers.",
-      "type": "news",
+      "id": "news-8-d4ec3631a1",
+      "title": "ECB-consumentenvertrouwensindex oktober 2026 gepubliceerd",
+      "summary": "ECB Consumer Expectations Survey results – October 2026",
+      "type": "regulation",
       "impact": "high",
       "confidence": 95,
       "tone": "neutral",
-      "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-27T08:04:39+00:00",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261127~2e53af695e.en.html",
+      "source_name": "ECB Press Releases",
+      "published_at": "2026-11-27T09:00:00+00:00",
       "tags": [
-        "crypto",
-        "markets"
+        "macro",
+        "regulation",
+        "ECB"
       ]
     }
   ]
