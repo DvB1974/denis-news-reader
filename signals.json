@@ -1,10 +1,26 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-26T15:01:30.773088+00:00",
+  "generated_at": "2026-11-27T09:01:11.444362+00:00",
   "signals": [
     {
-      "id": "news-1-3a0cc22076",
+      "id": "news-1-3c1d1d9f86",
+      "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
+      "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "opportunity",
+      "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
+      "source_name": "The Block",
+      "published_at": "2026-07-08T15:32:22+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-2-3a0cc22076",
       "title": "EBA analyseert stablecoin-gebruik in gedecentraliseerde financiering",
       "summary": "The European Banking Authority (EBA) today published a Report analysing the use of EMTs and other selected stablecoins in DeFi and the implications for consumers and supervisors. The EBA finds that stablecoins, including some EMTs issued under the Markets in Crypto-Assets Regulation (MiCA), play a central role in the DeFi ecosystem by providing liquidity, collateral and settlement in DeFi trading and lending activities. The Report also highlights consumer protection, and regulatory arbitrage risks arising from the growing interaction between stablecoins and DeFi.",
       "type": "regulation",
@@ -18,22 +34,6 @@
         "regulation",
         "EU",
         "private-banking"
-      ]
-    },
-    {
-      "id": "news-2-3c1d1d9f86",
-      "title": "Europese Commissie wil MiCA uitbreiden voor tokenisering en niet-EU stablecoin-emittenten",
-      "summary": "The European Commission is reportedly seeking comment from stakeholders on expanding MiCA rules until Sept. 30.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://www.theblock.co/post/407613/european-commission-expand-mica-tokenization-non-eu-stablecoin-report",
-      "source_name": "The Block",
-      "published_at": "2026-07-08T15:32:22+00:00",
-      "tags": [
-        "crypto",
-        "markets"
       ]
     },
     {
@@ -69,39 +69,7 @@
       ]
     },
     {
-      "id": "news-5-930c164079",
-      "title": "BlackRock lanceert gettokeniseerd geldmarktfonds in Hong Kong met stablecoins",
-      "summary": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-24T18:07:22+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-6-de92652f87",
-      "title": "Senatoren Warren en Van Hollen willen SEC-uitzonderingen voor crypto schrappen",
-      "summary": "US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-11-26T04:24:45+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-7-eb6b4e9ad5",
+      "id": "news-5-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -117,7 +85,7 @@
       ]
     },
     {
-      "id": "news-8-d89343b8cf",
+      "id": "news-6-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -127,6 +95,39 @@
       "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks",
       "source_name": "Cointelegraph",
       "published_at": "2026-09-22T11:22:00+00:00",
+      "tags": [
+        "crypto",
+        "markets"
+      ]
+    },
+    {
+      "id": "news-7-23fee21bfb",
+      "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
+      "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
+      "source_name": "EBA",
+      "published_at": "2026-06-26T13:27:24+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-8-4f4e9ccc15",
+      "title": "ESMA herziet EU-cryptoregister onder MiCA in 2027",
+      "summary": "ESMA’s new MiCA register will replace manual reporting and introduce automated data checks and a version history for crypto white papers.",
+      "type": "news",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027",
+      "source_name": "Cointelegraph",
+      "published_at": "2026-11-27T08:04:39+00:00",
       "tags": [
         "crypto",
         "markets"
