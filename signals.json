@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-27T14:00:20.831881+00:00",
+  "generated_at": "2026-11-27T15:00:17.054858+00:00",
   "signals": [
     {
       "id": "news-1-320e6c3419",
@@ -53,7 +53,24 @@
       ]
     },
     {
-      "id": "news-4-14ac887a85",
+      "id": "news-4-d7910a5340",
+      "title": "Besluiten Raad van Bestuur ECB naast rentebeslissingen",
+      "summary": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "neutral",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261127~13ecadc0f2.en.html",
+      "source_name": "ECB Press Releases",
+      "published_at": "2026-11-27T14:00:00+00:00",
+      "tags": [
+        "macro",
+        "regulation",
+        "ECB"
+      ]
+    },
+    {
+      "id": "news-5-14ac887a85",
       "title": "SBI en SMFG lanceren Solana-platform voor stablecoins en tokenisering",
       "summary": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.",
       "type": "news",
@@ -69,7 +86,7 @@
       ]
     },
     {
-      "id": "news-5-851aff3d99",
+      "id": "news-6-851aff3d99",
       "title": "Injective vraagt SEC toestemming voor orderboeken bij tokenisering van aandelen",
       "summary": "Injective asks SEC to allow order books for tokenized stock trading",
       "type": "news",
@@ -85,7 +102,7 @@
       ]
     },
     {
-      "id": "news-6-db4b24dc0e",
+      "id": "news-7-db4b24dc0e",
       "title": "SBI en SMFG starten Solana-joint venture voor stablecoin-betalingen en tokenisering",
       "summary": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.",
       "type": "news",
@@ -101,7 +118,7 @@
       ]
     },
     {
-      "id": "news-7-eb6b4e9ad5",
+      "id": "news-8-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -111,22 +128,6 @@
       "url": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
       "source_name": "CoinDesk",
       "published_at": "2026-11-15T07:00:00+00:00",
-      "tags": [
-        "crypto",
-        "markets"
-      ]
-    },
-    {
-      "id": "news-8-d89343b8cf",
-      "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
-      "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
-      "type": "news",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://cointelegraph.com/news/escb-new-stablecoin-liquidity-rules-bank-risks",
-      "source_name": "Cointelegraph",
-      "published_at": "2026-09-22T11:22:00+00:00",
       "tags": [
         "crypto",
         "markets"
