@@ -1,7 +1,7 @@
 {
   "schema": "denis-capital.signals.v1",
   "source": "Denis Capital News",
-  "generated_at": "2026-11-28T11:00:40.365496+00:00",
+  "generated_at": "2026-11-28T12:00:40.095130+00:00",
   "signals": [
     {
       "id": "news-1-320e6c3419",
@@ -36,24 +36,7 @@
       ]
     },
     {
-      "id": "news-3-3a0cc22076",
-      "title": "EBA analyseert stablecoin-gebruik in gedecentraliseerde financiering",
-      "summary": "The European Banking Authority (EBA) today published a Report analysing the use of EMTs and other selected stablecoins in DeFi and the implications for consumers and supervisors. The EBA finds that stablecoins, including some EMTs issued under the Markets in Crypto-Assets Regulation (MiCA), play a central role in the DeFi ecosystem by providing liquidity, collateral and settlement in DeFi trading and lending activities. The Report also highlights consumer protection, and regulatory arbitrage risks arising from the growing interaction between stablecoins and DeFi.",
-      "type": "regulation",
-      "impact": "high",
-      "confidence": 95,
-      "tone": "risk",
-      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-examines-use-stablecoins-including-emts-decentralised-finance",
-      "source_name": "EBA",
-      "published_at": "2026-11-25T11:08:05+00:00",
-      "tags": [
-        "regulation",
-        "EU",
-        "private-banking"
-      ]
-    },
-    {
-      "id": "news-4-eb6b4e9ad5",
+      "id": "news-3-eb6b4e9ad5",
       "title": "Opvolgers Lagarde: standpunten kandidaten over bitcoin, stablecoins en CBDCs",
       "summary": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
       "type": "news",
@@ -69,7 +52,7 @@
       ]
     },
     {
-      "id": "news-5-d89343b8cf",
+      "id": "news-4-d89343b8cf",
       "title": "ECB en EU centrale banken willen MiCA-depositorequirements voor stablecoins aanpassen",
       "summary": "The ECB and EU central banks want to replace MiCA’s stablecoin bank-deposit requirements with liquidity thresholds, warning that sudden withdrawals could strain lenders.",
       "type": "news",
@@ -85,7 +68,7 @@
       ]
     },
     {
-      "id": "news-6-23fee21bfb",
+      "id": "news-5-23fee21bfb",
       "title": "EBA publiceert ontwerpmethodologie voor boeterollen onder MiCA",
       "summary": "​The European Banking Authority (EBA) published today a Consultation Paper with a draft methodology for setting fines in its role as supervisor under MiCA. The objective is to ensure that fines imposed on issuers of significant crypto-assets are consistent, proportionate and transparent, and effectively support compliance with the regulatory framework.",
       "type": "regulation",
@@ -95,6 +78,23 @@
       "url": "https://www.eba.europa.eu/publications-and-media/press-releases/european-banking-authority-consults-draft-methodology-setting-fines-under-markets-crypto-assets",
       "source_name": "EBA",
       "published_at": "2026-06-26T13:27:24+00:00",
+      "tags": [
+        "regulation",
+        "EU",
+        "private-banking"
+      ]
+    },
+    {
+      "id": "news-6-3a0cc22076",
+      "title": "EBA analyseert stablecoin-gebruik in gedecentraliseerde financiering",
+      "summary": "The European Banking Authority (EBA) today published a Report analysing the use of EMTs and other selected stablecoins in DeFi and the implications for consumers and supervisors. The EBA finds that stablecoins, including some EMTs issued under the Markets in Crypto-Assets Regulation (MiCA), play a central role in the DeFi ecosystem by providing liquidity, collateral and settlement in DeFi trading and lending activities. The Report also highlights consumer protection, and regulatory arbitrage risks arising from the growing interaction between stablecoins and DeFi.",
+      "type": "regulation",
+      "impact": "high",
+      "confidence": 95,
+      "tone": "risk",
+      "url": "https://www.eba.europa.eu/publications-and-media/press-releases/eba-examines-use-stablecoins-including-emts-decentralised-finance",
+      "source_name": "EBA",
+      "published_at": "2026-11-25T11:08:05+00:00",
       "tags": [
         "regulation",
         "EU",
@@ -119,16 +119,16 @@
       ]
     },
     {
-      "id": "news-8-14ac887a85",
-      "title": "SBI en SMFG lanceren Solana-platform voor stablecoins en tokenisering",
-      "summary": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.",
+      "id": "news-8-985734cbc1",
+      "title": "ECB lanceert Pontes voor afwikkeling van gettokeniseerde activa zonder stablecoins",
+      "summary": "Pontes will expand its services and operating hours gradually, with full implementation expected by 2028 and more participants set to join.",
       "type": "news",
       "impact": "high",
       "confidence": 95,
       "tone": "opportunity",
-      "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization",
+      "url": "https://cointelegraph.com/news/eurosystem-central-bank-money-tokenized-finance",
       "source_name": "Cointelegraph",
-      "published_at": "2026-11-25T11:49:54+00:00",
+      "published_at": "2026-09-21T11:27:00+00:00",
       "tags": [
         "crypto",
         "markets"
